@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_BambooCharcoalVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_BambooCharcoalVersionString[];
+FOUNDATION_EXPORT double Pods_BambooVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_BambooVersionString[];
 

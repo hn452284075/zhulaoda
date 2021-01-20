@@ -11,7 +11,7 @@
 #import <AlipaySDK/AlipaySDK.h>
 #import "Util.h"
 //应用注册scheme,在AlixPayDemo-Info.plist定义URL types
-static NSString *alipayScheme = @"bambooCharcoalAlipay";
+static NSString *alipayScheme = @"BambooAlipay";
 
 @interface PayManager()
 
