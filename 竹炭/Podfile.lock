@@ -1,0 +1,35 @@
+PODS:
+  - AliyunOSSiOS (2.10.8)
+  - Bugly (2.5.71)
+  - IQKeyboardManager (6.5.6)
+  - mob_pushsdk (3.0.1):
+    - mob_pushsdk/MobPush (= 3.0.1)
+    - MOBFoundation
+  - mob_pushsdk/MobPush (3.0.1):
+    - MOBFoundation
+  - MOBFoundation (3.2.19)
+
+DEPENDENCIES:
+  - AliyunOSSiOS
+  - Bugly
+  - IQKeyboardManager
+  - mob_pushsdk
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AliyunOSSiOS
+    - Bugly
+    - IQKeyboardManager
+    - mob_pushsdk
+    - MOBFoundation
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 8db92936545593b9e5c66d680ef2ac0738946651
+  Bugly: fd066c75c4a0eca1440f9b6a84bd37d51bfc85ac
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  mob_pushsdk: 5f266bfce36dcfda9abf2651da898735cca7a725
+  MOBFoundation: 606bc4c10ff4c6ac573c09f5081a39c75316bc7b
+
+PODFILE CHECKSUM: 98bd434d1dab0ad76c216e395c6d3ee6946c9fc4
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios,'9.0'
+use_frameworks!
+
+
+project 'BambooCharcoal/BambooCharcoal.xcodeproj'
+
+target 'BambooCharcoal' do
+      pod 'AliyunOSSiOS'
+      pod 'IQKeyboardManager'
+      pod 'Bugly'
+      pod 'mob_pushsdk'
+end
