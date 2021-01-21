@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A8D4C5016D9CBB8E81881CC /* Pods_Bamboo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94A2C65B7FD8B4696DB1460B /* Pods_Bamboo.framework */; };
+		3A8D4C5016D9CBB8E81881CC /* Pods_BambooCharcoal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94A2C65B7FD8B4696DB1460B /* Pods_BambooCharcoal.framework */; };
 		7706E3962543C3CF00F37ED9 /* TCTGExpendDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 7706E3942543C3CF00F37ED9 /* TCTGExpendDetailVC.m */; };
 		7706E3972543C3CF00F37ED9 /* TCTGExpendDetailVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7706E3952543C3CF00F37ED9 /* TCTGExpendDetailVC.xib */; };
 		7706E39B2543CB1800F37ED9 /* TCTGExpendDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7706E3992543CB1800F37ED9 /* TCTGExpendDetailCell.m */; };
@@ -18,8 +18,8 @@
 		7708D7E124E79BD700A4DB25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7708D7E024E79BD700A4DB25 /* Assets.xcassets */; };
 		7708D7E424E79BD700A4DB25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7708D7E224E79BD700A4DB25 /* LaunchScreen.storyboard */; };
 		7708D7E724E79BD700A4DB25 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D7E624E79BD700A4DB25 /* main.m */; };
-		7708D7F124E79BD700A4DB25 /* BambooTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D7F024E79BD700A4DB25 /* BambooTests.m */; };
-		7708D7FC24E79BD700A4DB25 /* BambooUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D7FB24E79BD700A4DB25 /* BambooUITests.m */; };
+		7708D7F124E79BD700A4DB25 /* BambooCharcoalTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D7F024E79BD700A4DB25 /* BambooCharcoalTests.m */; };
+		7708D7FC24E79BD700A4DB25 /* BambooCharcoalUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D7FB24E79BD700A4DB25 /* BambooCharcoalUITests.m */; };
 		7708D83C24E7A1B200A4DB25 /* BaseTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D81124E7A1B100A4DB25 /* BaseTableView.m */; };
 		7708D83D24E7A1B200A4DB25 /* BaseTableView+nodataShow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D81224E7A1B100A4DB25 /* BaseTableView+nodataShow.m */; };
 		7708D83E24E7A1B200A4DB25 /* MycommonTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7708D81324E7A1B100A4DB25 /* MycommonTableView.m */; };
@@ -600,14 +600,14 @@
 			containerPortal = 7708D7C924E79BD500A4DB25 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7708D7D024E79BD500A4DB25;
-			remoteInfo = Bamboo;
+			remoteInfo = BambooCharcoal;
 		};
 		7708D7F824E79BD700A4DB25 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 7708D7C924E79BD500A4DB25 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7708D7D024E79BD500A4DB25;
-			remoteInfo = Bamboo;
+			remoteInfo = BambooCharcoal;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -627,6 +627,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02619A4E711759ECF624C2CD /* Pods-BambooCharcoal.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BambooCharcoal.debug.xcconfig"; path = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal.debug.xcconfig"; sourceTree = "<group>"; };
 		7706E3932543C3CF00F37ED9 /* TCTGExpendDetailVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TCTGExpendDetailVC.h; sourceTree = "<group>"; };
 		7706E3942543C3CF00F37ED9 /* TCTGExpendDetailVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TCTGExpendDetailVC.m; sourceTree = "<group>"; };
 		7706E3952543C3CF00F37ED9 /* TCTGExpendDetailVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TCTGExpendDetailVC.xib; sourceTree = "<group>"; };
@@ -643,11 +644,11 @@
 		7708D7E324E79BD700A4DB25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7708D7E524E79BD700A4DB25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7708D7E624E79BD700A4DB25 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7708D7EC24E79BD700A4DB25 /* BambooTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BambooTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7708D7F024E79BD700A4DB25 /* BambooTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BambooTests.m; sourceTree = "<group>"; };
+		7708D7EC24E79BD700A4DB25 /* BambooCharcoalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BambooCharcoalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7708D7F024E79BD700A4DB25 /* BambooCharcoalTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BambooCharcoalTests.m; sourceTree = "<group>"; };
 		7708D7F224E79BD700A4DB25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7708D7F724E79BD700A4DB25 /* BambooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BambooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7708D7FB24E79BD700A4DB25 /* BambooUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BambooUITests.m; sourceTree = "<group>"; };
+		7708D7F724E79BD700A4DB25 /* BambooCharcoalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BambooCharcoalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7708D7FB24E79BD700A4DB25 /* BambooCharcoalUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BambooCharcoalUITests.m; sourceTree = "<group>"; };
 		7708D7FD24E79BD700A4DB25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7708D80F24E7A1B100A4DB25 /* BaseTableView+nodataShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "BaseTableView+nodataShow.h"; sourceTree = "<group>"; };
 		7708D81024E7A1B100A4DB25 /* MycommonTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MycommonTableView.h; sourceTree = "<group>"; };
@@ -893,10 +894,10 @@
 		7708DC7224E7EC7B00A4DB25 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		7708DC7324E7EC7B00A4DB25 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
 		7708DC7424E7EC7B00A4DB25 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
-		7708DD3724EB5BA400A4DB25 /* SearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SearchViewController.h; path = Bamboo/Base/SearchViewController.h; sourceTree = SOURCE_ROOT; };
-		7708DD3824EB5BA400A4DB25 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SearchViewController.m; path = Bamboo/Base/SearchViewController.m; sourceTree = SOURCE_ROOT; };
-		7708DD3A24EB5E0300A4DB25 /* SearchListVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SearchListVC.h; path = Bamboo/Base/SearchListVC.h; sourceTree = SOURCE_ROOT; };
-		7708DD3B24EB5E0300A4DB25 /* SearchListVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SearchListVC.m; path = Bamboo/Base/SearchListVC.m; sourceTree = SOURCE_ROOT; };
+		7708DD3724EB5BA400A4DB25 /* SearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SearchViewController.h; path = BambooCharcoal/Base/SearchViewController.h; sourceTree = SOURCE_ROOT; };
+		7708DD3824EB5BA400A4DB25 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SearchViewController.m; path = BambooCharcoal/Base/SearchViewController.m; sourceTree = SOURCE_ROOT; };
+		7708DD3A24EB5E0300A4DB25 /* SearchListVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SearchListVC.h; path = BambooCharcoal/Base/SearchListVC.h; sourceTree = SOURCE_ROOT; };
+		7708DD3B24EB5E0300A4DB25 /* SearchListVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SearchListVC.m; path = BambooCharcoal/Base/SearchListVC.m; sourceTree = SOURCE_ROOT; };
 		7727C6612518505C001B2DB2 /* HXPhotoConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXPhotoConfiguration.m; sourceTree = "<group>"; };
 		7727C6632518505C001B2DB2 /* HXPhotoViewTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXPhotoViewTransition.h; sourceTree = "<group>"; };
 		7727C6642518505C001B2DB2 /* HXPhotoEditTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXPhotoEditTransition.m; sourceTree = "<group>"; };
@@ -1443,21 +1444,21 @@
 		77A17C5D24F4B47C00CBF0A6 /* HomeAllCollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeAllCollectionCell.h; sourceTree = "<group>"; };
 		77A17C5E24F4B47C00CBF0A6 /* HomeAllCollectionCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeAllCollectionCell.xib; sourceTree = "<group>"; };
 		77A17C5F24F4B47C00CBF0A6 /* HomeAllCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeAllCollectionCell.m; sourceTree = "<group>"; };
-		77A17C6224F4E20F00CBF0A6 /* HomeHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HomeHeaderView.h; path = Bamboo/View/HomeHeaderView.h; sourceTree = SOURCE_ROOT; };
-		77A17C6324F4E20F00CBF0A6 /* HomeHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HomeHeaderView.m; path = Bamboo/View/HomeHeaderView.m; sourceTree = SOURCE_ROOT; };
-		77A17C6424F4E20F00CBF0A6 /* HomeHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = HomeHeaderView.xib; path = Bamboo/View/HomeHeaderView.xib; sourceTree = SOURCE_ROOT; };
-		77A17C6924F4F5D000CBF0A6 /* StoreViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = StoreViewController.h; path = Bamboo/View/StoreViewController.h; sourceTree = SOURCE_ROOT; };
-		77A17C6A24F4F5D000CBF0A6 /* StoreViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = StoreViewController.m; path = Bamboo/View/StoreViewController.m; sourceTree = SOURCE_ROOT; };
-		77A17C6F24F4F60400CBF0A6 /* BusinessCircleVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BusinessCircleVC.h; path = Bamboo/ViewController/BusinessCircle/BusinessCircleVC.h; sourceTree = SOURCE_ROOT; };
-		77A17C7024F4F60400CBF0A6 /* BusinessCircleVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BusinessCircleVC.m; path = Bamboo/ViewController/BusinessCircle/BusinessCircleVC.m; sourceTree = SOURCE_ROOT; };
+		77A17C6224F4E20F00CBF0A6 /* HomeHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HomeHeaderView.h; path = BambooCharcoal/View/HomeHeaderView.h; sourceTree = SOURCE_ROOT; };
+		77A17C6324F4E20F00CBF0A6 /* HomeHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HomeHeaderView.m; path = BambooCharcoal/View/HomeHeaderView.m; sourceTree = SOURCE_ROOT; };
+		77A17C6424F4E20F00CBF0A6 /* HomeHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = HomeHeaderView.xib; path = BambooCharcoal/View/HomeHeaderView.xib; sourceTree = SOURCE_ROOT; };
+		77A17C6924F4F5D000CBF0A6 /* StoreViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = StoreViewController.h; path = BambooCharcoal/View/StoreViewController.h; sourceTree = SOURCE_ROOT; };
+		77A17C6A24F4F5D000CBF0A6 /* StoreViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = StoreViewController.m; path = BambooCharcoal/View/StoreViewController.m; sourceTree = SOURCE_ROOT; };
+		77A17C6F24F4F60400CBF0A6 /* BusinessCircleVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = BusinessCircleVC.h; path = BambooCharcoal/ViewController/BusinessCircle/BusinessCircleVC.h; sourceTree = SOURCE_ROOT; };
+		77A17C7024F4F60400CBF0A6 /* BusinessCircleVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = BusinessCircleVC.m; path = BambooCharcoal/ViewController/BusinessCircle/BusinessCircleVC.m; sourceTree = SOURCE_ROOT; };
 		77A17C7224F4F7B300CBF0A6 /* CustomFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomFlowLayout.m; sourceTree = "<group>"; };
 		77A17C7324F4F7B300CBF0A6 /* CustomFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomFlowLayout.h; sourceTree = "<group>"; };
-		77A17C7524F4F85D00CBF0A6 /* MeCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MeCollectionViewCell.h; path = Bamboo/View/MeCollectionViewCell.h; sourceTree = SOURCE_ROOT; };
-		77A17C7624F4F85D00CBF0A6 /* MeCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MeCollectionViewCell.m; path = Bamboo/View/MeCollectionViewCell.m; sourceTree = SOURCE_ROOT; };
-		77A17C7724F4F85D00CBF0A6 /* MeCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MeCollectionViewCell.xib; path = Bamboo/View/MeCollectionViewCell.xib; sourceTree = SOURCE_ROOT; };
-		77A17C7A24F4F8DA00CBF0A6 /* MeHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MeHeaderView.h; path = Bamboo/View/MeHeaderView.h; sourceTree = SOURCE_ROOT; };
-		77A17C7B24F4F8DA00CBF0A6 /* MeHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MeHeaderView.m; path = Bamboo/View/MeHeaderView.m; sourceTree = SOURCE_ROOT; };
-		77A17C7C24F4F8DA00CBF0A6 /* MeHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MeHeaderView.xib; path = Bamboo/View/MeHeaderView.xib; sourceTree = SOURCE_ROOT; };
+		77A17C7524F4F85D00CBF0A6 /* MeCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MeCollectionViewCell.h; path = BambooCharcoal/View/MeCollectionViewCell.h; sourceTree = SOURCE_ROOT; };
+		77A17C7624F4F85D00CBF0A6 /* MeCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MeCollectionViewCell.m; path = BambooCharcoal/View/MeCollectionViewCell.m; sourceTree = SOURCE_ROOT; };
+		77A17C7724F4F85D00CBF0A6 /* MeCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MeCollectionViewCell.xib; path = BambooCharcoal/View/MeCollectionViewCell.xib; sourceTree = SOURCE_ROOT; };
+		77A17C7A24F4F8DA00CBF0A6 /* MeHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MeHeaderView.h; path = BambooCharcoal/View/MeHeaderView.h; sourceTree = SOURCE_ROOT; };
+		77A17C7B24F4F8DA00CBF0A6 /* MeHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MeHeaderView.m; path = BambooCharcoal/View/MeHeaderView.m; sourceTree = SOURCE_ROOT; };
+		77A17C7C24F4F8DA00CBF0A6 /* MeHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MeHeaderView.xib; path = BambooCharcoal/View/MeHeaderView.xib; sourceTree = SOURCE_ROOT; };
 		77A58B342567951F00BFB15B /* SearchTypeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchTypeVC.m; sourceTree = "<group>"; };
 		77A58B352567951F00BFB15B /* SearchTypeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchTypeVC.h; sourceTree = "<group>"; };
 		77A58B372567953400BFB15B /* SearchTypeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchTypeCell.xib; sourceTree = "<group>"; };
@@ -1510,8 +1511,7 @@
 		77FE20C225010CA300A74425 /* AdvertisingGoodsCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AdvertisingGoodsCell.xib; sourceTree = "<group>"; };
 		77FE20C325010CA300A74425 /* AdvertisingGoodsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AdvertisingGoodsCell.h; sourceTree = "<group>"; };
 		77FE20C425010CA300A74425 /* AdvertisingGoodsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AdvertisingGoodsCell.m; sourceTree = "<group>"; };
-		910C29F708387734930ABC70 /* Pods-Bamboo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bamboo.release.xcconfig"; path = "Target Support Files/Pods-Bamboo/Pods-Bamboo.release.xcconfig"; sourceTree = "<group>"; };
-		94A2C65B7FD8B4696DB1460B /* Pods_Bamboo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bamboo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		94A2C65B7FD8B4696DB1460B /* Pods_BambooCharcoal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BambooCharcoal.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		97266920251845820042BB62 /* openStoreView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = openStoreView.h; sourceTree = "<group>"; };
 		97266921251845820042BB62 /* openStoreView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = openStoreView.m; sourceTree = "<group>"; };
 		972669232518459F0042BB62 /* openStoreView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = openStoreView.xib; sourceTree = "<group>"; };
@@ -1719,7 +1719,7 @@
 		97E6C9B92502538100BC2F34 /* ManageStoreCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageStoreCellView.m; sourceTree = "<group>"; };
 		97E6C9BC2502541A00BC2F34 /* MYLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYLabel.m; sourceTree = "<group>"; };
 		97E6C9BD2502541A00BC2F34 /* MYLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYLabel.h; sourceTree = "<group>"; };
-		E1DA5132694282ED0C20FEA6 /* Pods-Bamboo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Bamboo.debug.xcconfig"; path = "Target Support Files/Pods-Bamboo/Pods-Bamboo.debug.xcconfig"; sourceTree = "<group>"; };
+		CD5BD5FAB01BD48F70B19BF1 /* Pods-BambooCharcoal.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BambooCharcoal.release.xcconfig"; path = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1758,7 +1758,7 @@
 				7708DA5F24E7BB3400A4DB25 /* Foundation.framework in Frameworks */,
 				7708DA5D24E7BB2700A4DB25 /* CoreMotion.framework in Frameworks */,
 				97A590002519AA6500C6A713 /* AssetsLibrary.framework in Frameworks */,
-				3A8D4C5016D9CBB8E81881CC /* Pods_Bamboo.framework in Frameworks */,
+				3A8D4C5016D9CBB8E81881CC /* Pods_BambooCharcoal.framework in Frameworks */,
 				97A590022519AA6E00C6A713 /* CoreData.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1784,13 +1784,13 @@
 			isa = PBXGroup;
 			children = (
 				97C694552510E57600FC5B13 /* thy_area.json */,
-				7708D7D324E79BD500A4DB25 /* Bamboo */,
-				7708D7EF24E79BD700A4DB25 /* BambooTests */,
-				7708D7FA24E79BD700A4DB25 /* BambooUITests */,
+				7708D7D324E79BD500A4DB25 /* BambooCharcoal */,
+				7708D7EF24E79BD700A4DB25 /* BambooCharcoalTests */,
+				7708D7FA24E79BD700A4DB25 /* BambooCharcoalUITests */,
 				7708D7D224E79BD500A4DB25 /* Products */,
 				7708DA5B24E7BB2700A4DB25 /* Frameworks */,
 				97D9212824FD050C0040B26D /* Recovered References */,
-				99BA52B62534F72146852CEB /* Pods */,
+				93D1E0E72859419BAB70D867 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1798,13 +1798,13 @@
 			isa = PBXGroup;
 			children = (
 				7708D7D124E79BD500A4DB25 /* 桃源明.app */,
-				7708D7EC24E79BD700A4DB25 /* BambooTests.xctest */,
-				7708D7F724E79BD700A4DB25 /* BambooUITests.xctest */,
+				7708D7EC24E79BD700A4DB25 /* BambooCharcoalTests.xctest */,
+				7708D7F724E79BD700A4DB25 /* BambooCharcoalUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7708D7D324E79BD500A4DB25 /* Bamboo */ = {
+		7708D7D324E79BD500A4DB25 /* BambooCharcoal */ = {
 			isa = PBXGroup;
 			children = (
 				77F8AFC42535847300FD494B /* 桃源明.entitlements */,
@@ -1823,25 +1823,25 @@
 				7708D7E524E79BD700A4DB25 /* Info.plist */,
 				7708D7E624E79BD700A4DB25 /* main.m */,
 			);
-			path = Bamboo;
+			path = BambooCharcoal;
 			sourceTree = "<group>";
 		};
-		7708D7EF24E79BD700A4DB25 /* BambooTests */ = {
+		7708D7EF24E79BD700A4DB25 /* BambooCharcoalTests */ = {
 			isa = PBXGroup;
 			children = (
-				7708D7F024E79BD700A4DB25 /* BambooTests.m */,
+				7708D7F024E79BD700A4DB25 /* BambooCharcoalTests.m */,
 				7708D7F224E79BD700A4DB25 /* Info.plist */,
 			);
-			path = BambooTests;
+			path = BambooCharcoalTests;
 			sourceTree = "<group>";
 		};
-		7708D7FA24E79BD700A4DB25 /* BambooUITests */ = {
+		7708D7FA24E79BD700A4DB25 /* BambooCharcoalUITests */ = {
 			isa = PBXGroup;
 			children = (
-				7708D7FB24E79BD700A4DB25 /* BambooUITests.m */,
+				7708D7FB24E79BD700A4DB25 /* BambooCharcoalUITests.m */,
 				7708D7FD24E79BD700A4DB25 /* Info.plist */,
 			);
-			path = BambooUITests;
+			path = BambooCharcoalUITests;
 			sourceTree = "<group>";
 		};
 		7708D80B24E7A18200A4DB25 /* Framework */ = {
@@ -2432,7 +2432,7 @@
 				7708DA6024E7BB3A00A4DB25 /* UIKit.framework */,
 				7708DA5E24E7BB3400A4DB25 /* Foundation.framework */,
 				7708DA5C24E7BB2700A4DB25 /* CoreMotion.framework */,
-				94A2C65B7FD8B4696DB1460B /* Pods_Bamboo.framework */,
+				94A2C65B7FD8B4696DB1460B /* Pods_BambooCharcoal.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -3554,6 +3554,16 @@
 			path = Advertising;
 			sourceTree = "<group>";
 		};
+		93D1E0E72859419BAB70D867 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				02619A4E711759ECF624C2CD /* Pods-BambooCharcoal.debug.xcconfig */,
+				CD5BD5FAB01BD48F70B19BF1 /* Pods-BambooCharcoal.release.xcconfig */,
+			);
+			name = Pods;
+			path = ../Pods;
+			sourceTree = "<group>";
+		};
 		972A456024FDEF9200956A5F /* PublishGoods */ = {
 			isa = PBXGroup;
 			children = (
@@ -4070,22 +4080,12 @@
 			path = UILabel;
 			sourceTree = "<group>";
 		};
-		99BA52B62534F72146852CEB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				E1DA5132694282ED0C20FEA6 /* Pods-Bamboo.debug.xcconfig */,
-				910C29F708387734930ABC70 /* Pods-Bamboo.release.xcconfig */,
-			);
-			name = Pods;
-			path = ../Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7708D7D024E79BD500A4DB25 /* Bamboo */ = {
+		7708D7D024E79BD500A4DB25 /* BambooCharcoal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7708D80024E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "Bamboo" */;
+			buildConfigurationList = 7708D80024E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoal" */;
 			buildPhases = (
 				2CB794A385FC28CF60084C0C /* [CP] Check Pods Manifest.lock */,
 				7708D7CD24E79BD500A4DB25 /* Sources */,
@@ -4099,14 +4099,14 @@
 			);
 			dependencies = (
 			);
-			name = Bamboo;
-			productName = Bamboo;
+			name = BambooCharcoal;
+			productName = BambooCharcoal;
 			productReference = 7708D7D124E79BD500A4DB25 /* 桃源明.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7708D7EB24E79BD700A4DB25 /* BambooTests */ = {
+		7708D7EB24E79BD700A4DB25 /* BambooCharcoalTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7708D80324E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooTests" */;
+			buildConfigurationList = 7708D80324E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoalTests" */;
 			buildPhases = (
 				7708D7E824E79BD700A4DB25 /* Sources */,
 				7708D7E924E79BD700A4DB25 /* Frameworks */,
@@ -4117,14 +4117,14 @@
 			dependencies = (
 				7708D7EE24E79BD700A4DB25 /* PBXTargetDependency */,
 			);
-			name = BambooTests;
-			productName = BambooTests;
-			productReference = 7708D7EC24E79BD700A4DB25 /* BambooTests.xctest */;
+			name = BambooCharcoalTests;
+			productName = BambooCharcoalTests;
+			productReference = 7708D7EC24E79BD700A4DB25 /* BambooCharcoalTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7708D7F624E79BD700A4DB25 /* BambooUITests */ = {
+		7708D7F624E79BD700A4DB25 /* BambooCharcoalUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7708D80624E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooUITests" */;
+			buildConfigurationList = 7708D80624E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoalUITests" */;
 			buildPhases = (
 				7708D7F324E79BD700A4DB25 /* Sources */,
 				7708D7F424E79BD700A4DB25 /* Frameworks */,
@@ -4135,9 +4135,9 @@
 			dependencies = (
 				7708D7F924E79BD700A4DB25 /* PBXTargetDependency */,
 			);
-			name = BambooUITests;
-			productName = BambooUITests;
-			productReference = 7708D7F724E79BD700A4DB25 /* BambooUITests.xctest */;
+			name = BambooCharcoalUITests;
+			productName = BambooCharcoalUITests;
+			productReference = 7708D7F724E79BD700A4DB25 /* BambooCharcoalUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -4162,7 +4162,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7708D7CC24E79BD500A4DB25 /* Build configuration list for PBXProject "Bamboo" */;
+			buildConfigurationList = 7708D7CC24E79BD500A4DB25 /* Build configuration list for PBXProject "BambooCharcoal" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -4175,9 +4175,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7708D7D024E79BD500A4DB25 /* Bamboo */,
-				7708D7EB24E79BD700A4DB25 /* BambooTests */,
-				7708D7F624E79BD700A4DB25 /* BambooUITests */,
+				7708D7D024E79BD500A4DB25 /* BambooCharcoal */,
+				7708D7EB24E79BD700A4DB25 /* BambooCharcoalTests */,
+				7708D7F624E79BD700A4DB25 /* BambooCharcoalUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -4298,7 +4298,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Bamboo-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-BambooCharcoal-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -4311,15 +4311,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Bamboo/Pods-Bamboo-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Bamboo/Pods-Bamboo-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Bamboo/Pods-Bamboo-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		77C16EAF251F51710076BBFE /* ShellScript */ = {
@@ -4824,7 +4824,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7708D7F124E79BD700A4DB25 /* BambooTests.m in Sources */,
+				7708D7F124E79BD700A4DB25 /* BambooCharcoalTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4832,7 +4832,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7708D7FC24E79BD700A4DB25 /* BambooUITests.m in Sources */,
+				7708D7FC24E79BD700A4DB25 /* BambooCharcoalUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4841,12 +4841,12 @@
 /* Begin PBXTargetDependency section */
 		7708D7EE24E79BD700A4DB25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7708D7D024E79BD500A4DB25 /* Bamboo */;
+			target = 7708D7D024E79BD500A4DB25 /* BambooCharcoal */;
 			targetProxy = 7708D7ED24E79BD700A4DB25 /* PBXContainerItemProxy */;
 		};
 		7708D7F924E79BD700A4DB25 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7708D7D024E79BD500A4DB25 /* Bamboo */;
+			target = 7708D7D024E79BD500A4DB25 /* BambooCharcoal */;
 			targetProxy = 7708D7F824E79BD700A4DB25 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -4981,11 +4981,11 @@
 		};
 		7708D80124E79BD700A4DB25 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E1DA5132694282ED0C20FEA6 /* Pods-Bamboo.debug.xcconfig */;
+			baseConfigurationReference = 02619A4E711759ECF624C2CD /* Pods-BambooCharcoal.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_ENTITLEMENTS = "Bamboo/桃源明.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "BambooCharcoal/桃源明.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -4993,18 +4993,18 @@
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/Bamboo/EncapsulaTools/Pay/Alipay",
-					"$(PROJECT_DIR)/Bamboo/Framework/Tencent",
-					"$(PROJECT_DIR)/Bamboo/Framework/Alipay",
+					"$(PROJECT_DIR)/BambooCharcoal/EncapsulaTools/Pay/Alipay",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/Tencent",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/Alipay",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/Bamboo/Framework/BaiDuQRC",
-					"$(PROJECT_DIR)/Bamboo/Framework/NTESLiveDetect/NTESLiveDetect/Classes",
-					"$(PROJECT_DIR)/Bamboo/Framework/NTESLiveDetect",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/BaiDuQRC",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/NTESLiveDetect/NTESLiveDetect/Classes",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/NTESLiveDetect",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_INPUT_FILETYPE = automatic;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/Bamboo/EncapsulaTools/Macro/PeachBlossom.pch";
-				INFOPLIST_FILE = Bamboo/Info.plist;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/BambooCharcoal/EncapsulaTools/Macro/PeachBlossom.pch";
+				INFOPLIST_FILE = BambooCharcoal/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5012,9 +5012,9 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/Bamboo/EncapsulaTools/Pay/WeChat",
-					"$(PROJECT_DIR)/Bamboo/Framework/WeChat",
-					"$(PROJECT_DIR)/Bamboo/Framework/JGpush/Lib",
+					"$(PROJECT_DIR)/BambooCharcoal/EncapsulaTools/Pay/WeChat",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/WeChat",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/JGpush/Lib",
 				);
 				MARKETING_VERSION = 1.0.8;
 				OTHER_LDFLAGS = (
@@ -5022,7 +5022,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hsrt.Bamboo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hsrt.BambooCharcoal;
 				PRODUCT_NAME = "桃源明";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -5031,11 +5031,11 @@
 		};
 		7708D80224E79BD700A4DB25 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 910C29F708387734930ABC70 /* Pods-Bamboo.release.xcconfig */;
+			baseConfigurationReference = CD5BD5FAB01BD48F70B19BF1 /* Pods-BambooCharcoal.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_ENTITLEMENTS = "Bamboo/桃源明.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "BambooCharcoal/桃源明.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -5043,18 +5043,18 @@
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/Bamboo/EncapsulaTools/Pay/Alipay",
-					"$(PROJECT_DIR)/Bamboo/Framework/Tencent",
-					"$(PROJECT_DIR)/Bamboo/Framework/Alipay",
+					"$(PROJECT_DIR)/BambooCharcoal/EncapsulaTools/Pay/Alipay",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/Tencent",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/Alipay",
 					"$(PROJECT_DIR)",
-					"$(PROJECT_DIR)/Bamboo/Framework/BaiDuQRC",
-					"$(PROJECT_DIR)/Bamboo/Framework/NTESLiveDetect/NTESLiveDetect/Classes",
-					"$(PROJECT_DIR)/Bamboo/Framework/NTESLiveDetect",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/BaiDuQRC",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/NTESLiveDetect/NTESLiveDetect/Classes",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/NTESLiveDetect",
 				);
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_INPUT_FILETYPE = automatic;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/Bamboo/EncapsulaTools/Macro/PeachBlossom.pch";
-				INFOPLIST_FILE = Bamboo/Info.plist;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/BambooCharcoal/EncapsulaTools/Macro/PeachBlossom.pch";
+				INFOPLIST_FILE = BambooCharcoal/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5062,9 +5062,9 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/Bamboo/EncapsulaTools/Pay/WeChat",
-					"$(PROJECT_DIR)/Bamboo/Framework/WeChat",
-					"$(PROJECT_DIR)/Bamboo/Framework/JGpush/Lib",
+					"$(PROJECT_DIR)/BambooCharcoal/EncapsulaTools/Pay/WeChat",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/WeChat",
+					"$(PROJECT_DIR)/BambooCharcoal/Framework/JGpush/Lib",
 				);
 				MARKETING_VERSION = 1.0.8;
 				OTHER_LDFLAGS = (
@@ -5072,7 +5072,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hsrt.Bamboo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hsrt.BambooCharcoal;
 				PRODUCT_NAME = "桃源明";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -5084,7 +5084,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = BambooTests/Info.plist;
+				INFOPLIST_FILE = BambooCharcoalTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5094,7 +5094,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hnthy.peachBlossom.ios.PeachBlossom-iOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bamboo.app/Bamboo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BambooCharcoal.app/BambooCharcoal";
 			};
 			name = Debug;
 		};
@@ -5103,7 +5103,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = BambooTests/Info.plist;
+				INFOPLIST_FILE = BambooCharcoalTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5113,7 +5113,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hnthy.peachBlossom.ios.PeachBlossom-iOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bamboo.app/Bamboo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BambooCharcoal.app/BambooCharcoal";
 			};
 			name = Release;
 		};
@@ -5121,7 +5121,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = BambooUITests/Info.plist;
+				INFOPLIST_FILE = BambooCharcoalUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -5130,7 +5130,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hnthy.peachBlossom.ios.PeachBlossom-iOSUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Bamboo;
+				TEST_TARGET_NAME = BambooCharcoal;
 			};
 			name = Debug;
 		};
@@ -5138,7 +5138,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = BambooUITests/Info.plist;
+				INFOPLIST_FILE = BambooCharcoalUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -5147,14 +5147,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hnthy.peachBlossom.ios.PeachBlossom-iOSUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Bamboo;
+				TEST_TARGET_NAME = BambooCharcoal;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7708D7CC24E79BD500A4DB25 /* Build configuration list for PBXProject "Bamboo" */ = {
+		7708D7CC24E79BD500A4DB25 /* Build configuration list for PBXProject "BambooCharcoal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7708D7FE24E79BD700A4DB25 /* Debug */,
@@ -5163,7 +5163,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7708D80024E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "Bamboo" */ = {
+		7708D80024E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7708D80124E79BD700A4DB25 /* Debug */,
@@ -5172,7 +5172,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7708D80324E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooTests" */ = {
+		7708D80324E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoalTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7708D80424E79BD700A4DB25 /* Debug */,
@@ -5181,7 +5181,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7708D80624E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooUITests" */ = {
+		7708D80624E79BD700A4DB25 /* Build configuration list for PBXNativeTarget "BambooCharcoalUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7708D80724E79BD700A4DB25 /* Debug */,

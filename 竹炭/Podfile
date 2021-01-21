@@ -3,9 +3,9 @@ platform :ios,'9.0'
 use_frameworks!
 
 
-project 'Bamboo/Bamboo.xcodeproj'
+project 'BambooCharcoal/BambooCharcoal.xcodeproj'
 
-target 'Bamboo' do
+target 'BambooCharcoal' do
       pod 'AliyunOSSiOS'
       pod 'IQKeyboardManager'
       pod 'Bugly'

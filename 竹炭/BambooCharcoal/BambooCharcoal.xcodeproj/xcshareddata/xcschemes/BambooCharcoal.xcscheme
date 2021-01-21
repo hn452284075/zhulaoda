@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7708D7D024E79BD500A4DB25"
                BuildableName = "&#x6843;&#x6e90;&#x660e;.app"
-               BlueprintName = "Bamboo"
-               ReferencedContainer = "container:Bamboo.xcodeproj">
+               BlueprintName = "BambooCharcoal"
+               ReferencedContainer = "container:BambooCharcoal.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7708D7D024E79BD500A4DB25"
             BuildableName = "&#x6843;&#x6e90;&#x660e;.app"
-            BlueprintName = "Bamboo"
-            ReferencedContainer = "container:Bamboo.xcodeproj">
+            BlueprintName = "BambooCharcoal"
+            ReferencedContainer = "container:BambooCharcoal.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7708D7D024E79BD500A4DB25"
             BuildableName = "&#x6843;&#x6e90;&#x660e;.app"
-            BlueprintName = "Bamboo"
-            ReferencedContainer = "container:Bamboo.xcodeproj">
+            BlueprintName = "BambooCharcoal"
+            ReferencedContainer = "container:BambooCharcoal.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

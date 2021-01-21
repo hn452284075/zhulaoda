@@ -82,6 +82,7 @@
 		502823DCA6E015C547FB5686D87AE2AD /* OSSHttpResponseParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 354DB7891585A98B9A16A24B3CD22F1B /* OSSHttpResponseParser.m */; };
 		522192B08337C3360756D2A4B1557190 /* NSDate+OSS.h in Headers */ = {isa = PBXBuildFile; fileRef = B21C782109AAD89E2CE48AA4AA474642 /* NSDate+OSS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5406DAE268E7F183496E52B132CD910B /* OSSGetSymlinkRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 100FE56BB0882FCA95B2EC5645D2AF53 /* OSSGetSymlinkRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		58745803DD745A2A7BF74F405DE7AE1A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385426D2509F239DC991BA069DF50F26 /* Foundation.framework */; };
 		5A993B48332EAA550BBCEBFE99F1C7B5 /* OSSCancellationToken.h in Headers */ = {isa = PBXBuildFile; fileRef = D632DF3C6059CDEC691F43533E671169 /* OSSCancellationToken.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5B798C21E01283B08CEB4400DF754884 /* OSSRestoreObjectRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B9011C14D310C382889B2A8A3E3CD48 /* OSSRestoreObjectRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5CB6B38AB6F0E37F8910BE3B658CBD59 /* IQPreviousNextView.h in Headers */ = {isa = PBXBuildFile; fileRef = 52B931A3842F35358C0D64BB4BAC9844 /* IQPreviousNextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -96,7 +97,6 @@
 		73CBE7E6F4357D65B69FD6B457074044 /* OSSRestoreObjectResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F7870835E6051BE74C3DB0284157799 /* OSSRestoreObjectResult.m */; };
 		740FBF8C565D8CD05AD901B47ED49B1A /* aos_crc64.h in Headers */ = {isa = PBXBuildFile; fileRef = 9DF34C512C8602B320742B8F13CA1D38 /* aos_crc64.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		74225A0F80E2329640C745C39ACDD809 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FE922E562EC1F3023569116C7820F9 /* UIKit.framework */; };
-		78A000CD175AAF467C4BBB8A6F7CFB61 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385426D2509F239DC991BA069DF50F26 /* Foundation.framework */; };
 		78B1F7AF2AE722E0E1B9A419A5A00AB6 /* OSSPutSymlinkRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = CDD282B99FB289D8B95569A52B23B76C /* OSSPutSymlinkRequest.m */; };
 		78B866A6DE55E62FDCFED3A62660F833 /* OSSReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F69C6DA6A5D9AF9A6F66B4B06AA60A /* OSSReachability.m */; };
 		7920AF744958B4AE67E8F5FECF3DF9DA /* OSSTaskCompletionSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 017CB3ECDD753FCEFECCE123BCCCC6A3 /* OSSTaskCompletionSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -104,8 +104,6 @@
 		7DDC854F584A3B18656D3A4A53BA0A09 /* NSDate+OSS.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B7D8B843AC8F63C92BAF2546161B06 /* NSDate+OSS.m */; };
 		7DF675A414246D772B7D6FB5E080979B /* OSSGetObjectACLRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 38E2B9481810922607599E79B345A535 /* OSSGetObjectACLRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86899E5FF1FA400890CDAFB24B938929 /* OSSPutSymlinkRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C89D2C83166E6DF0F76B083E2C85950 /* OSSPutSymlinkRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		86CC2555F8F65AE6A26E727067C64412 /* Pods-Bamboo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 172CAC97001920DC1580B2C2DE61533C /* Pods-Bamboo-dummy.m */; };
-		86EA6B2F2F80499045A75551499C74BD /* Pods-Bamboo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 530A0BB739ED5C3DE99CE0CD7C7B3900 /* Pods-Bamboo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8839DA33B5164E66F5730317AE92546E /* IQKeyboardReturnKeyHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 69B05CF874D24725BFA75DA994A07F7A /* IQKeyboardReturnKeyHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		888D1D2C88331A10D3F091A449E18BCD /* OSSInputStreamHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 98FDEB7CBF7ACA16C7105018E529A89C /* OSSInputStreamHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		89A32AB9D726C64AB8B1142AA84DF70C /* OSSCancellationTokenRegistration.h in Headers */ = {isa = PBXBuildFile; fileRef = F064047DFBCF7AE89CA68217C4A53341 /* OSSCancellationTokenRegistration.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -115,6 +113,7 @@
 		96D148663C1A0DFFFBE52E2EE3831A68 /* OSSAllRequestNeededMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D02321AF24136BD7AED7D15F617CBB8 /* OSSAllRequestNeededMessage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		97641C473F8781BA5A33C62D3F80103B /* NSMutableData+OSS_CRC.h in Headers */ = {isa = PBXBuildFile; fileRef = 41CAE32B73357AF7B87D404DF8C14178 /* NSMutableData+OSS_CRC.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9B1143540D2D22FA7F7E046C31F9EEAD /* OSSGetBucketInfoRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 8927FA9645394503750E92B68A3BF597 /* OSSGetBucketInfoRequest.m */; };
+		9BD8BB0E039364873654146ED4D121FA /* Pods-BambooCharcoal-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51837787F7C98F396814F7E835852C52 /* Pods-BambooCharcoal-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D90425FBA73DC4FD471E0C6F0B6B456 /* OSSDeleteMultipleObjectsResult.m in Sources */ = {isa = PBXBuildFile; fileRef = A3EAA1597AF2E3BFFB1B4607D354F3CE /* OSSDeleteMultipleObjectsResult.m */; };
 		9FA7F458D20D68AFC51F9E231F6DB03F /* OSSUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 599F8C8A4677CBB97287CA621A220522 /* OSSUtil.m */; };
 		A042B25C26D71C806B01FD7A05882F44 /* OSSExecutor.m in Sources */ = {isa = PBXBuildFile; fileRef = 15CECF845E9A3DF127BEC4073839C2D3 /* OSSExecutor.m */; };
@@ -169,6 +168,7 @@
 		F1097320E51690DF11B15B1E0D36CCD4 /* OSSService.h in Headers */ = {isa = PBXBuildFile; fileRef = 88F156B43546454F610D98CA33EDEDFC /* OSSService.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F21317EC249C47CE2FB578760652712A /* OSSAllRequestNeededMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = C30FE8D440CC8B9CEDD024C062154096 /* OSSAllRequestNeededMessage.m */; };
 		F266104AABC53D6D48F44D1772CAA20F /* OSSCompat.h in Headers */ = {isa = PBXBuildFile; fileRef = 321B13DA2EE0F55CA2DEF32B59C40917 /* OSSCompat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F422C964E8F1765B9CAD1E96034B870A /* Pods-BambooCharcoal-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EBF1DD8D646A60203F3ACB7F78F6E93 /* Pods-BambooCharcoal-dummy.m */; };
 		F4E39D9EE750CD30905D6D7AA8C7FF04 /* OSSRestoreObjectRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = AF970A4DEC551C18E1F32CDAD5E57E0F /* OSSRestoreObjectRequest.m */; };
 		F564AC14CA7F3E6B7C01CBA680282277 /* IQTextView.h in Headers */ = {isa = PBXBuildFile; fileRef = D44E834EC230E6A8971C79EE1C93A564 /* IQTextView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F7731CFF79A480E60F32E19B79A7D278 /* AliyunOSSiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = A71A03C84C540B06C5B83062067BA3DD /* AliyunOSSiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -180,26 +180,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0263C1E2303C4B3EE8712A9B576727E9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FBA456CB50E371584C11231929A0971E;
-			remoteInfo = IQKeyboardManager;
-		};
-		435C3581C4B1B2E7F880197BD8FA4C48 /* PBXContainerItemProxy */ = {
+		8F22C64779B808327AF415E1DBE7B972 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = C1FD11F5F7EBFF63F845CDF963F73E1A;
 			remoteInfo = AliyunOSSiOS;
 		};
-		609B62CE3DDF669789A15F6054D07548 /* PBXContainerItemProxy */ = {
+		A81FC0A57250272BB200E3BC145FFBAA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4A68CFD979D413A619DF631BB121D98F;
-			remoteInfo = Bugly;
+			remoteGlobalIDString = 38986664EBE0043A3614949E53335639;
+			remoteInfo = MOBFoundation;
 		};
 		A92D2EE71E92AC578975C4169208ED4F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -208,19 +201,26 @@
 			remoteGlobalIDString = 38986664EBE0043A3614949E53335639;
 			remoteInfo = MOBFoundation;
 		};
-		B5634CFBF4BFF1EA7559FEE18C39A917 /* PBXContainerItemProxy */ = {
+		E11E95432914F5B367571F29D3492748 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FBA456CB50E371584C11231929A0971E;
+			remoteInfo = IQKeyboardManager;
+		};
+		EB9625C1159F254931418E0BF242A017 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4A68CFD979D413A619DF631BB121D98F;
+			remoteInfo = Bugly;
+		};
+		EDD48584A5E0EC48DF128019884DA3CF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1B4C00C7FF27805CE472969C2C86A565;
 			remoteInfo = mob_pushsdk;
-		};
-		DEC849A49E2519C6947EA155F6D99735 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 38986664EBE0043A3614949E53335639;
-			remoteInfo = MOBFoundation;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -233,13 +233,11 @@
 		09003C11195A9EF08A27DEF3AA985FB5 /* OSSModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSModel.h; path = AliyunOSSSDK/OSSModel.h; sourceTree = "<group>"; };
 		0B0DF6FE294243483FA87E64A0F49F08 /* IQUIViewController+Additions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "IQUIViewController+Additions.m"; path = "IQKeyboardManager/Categories/IQUIViewController+Additions.m"; sourceTree = "<group>"; };
 		0BF8BCEFEAFFF5710C1A8D78D9BCEACE /* OSSRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSRequest.m; path = AliyunOSSSDK/OSSRequest.m; sourceTree = "<group>"; };
-		0DEAD3E1FA99EE9E954D472E57E2A144 /* Pods-Bamboo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Bamboo-acknowledgements.plist"; sourceTree = "<group>"; };
 		100FE56BB0882FCA95B2EC5645D2AF53 /* OSSGetSymlinkRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSGetSymlinkRequest.h; path = AliyunOSSSDK/OSSGetSymlinkRequest.h; sourceTree = "<group>"; };
 		1220BC860E18247EA1C7C1B0317B7B9C /* IQKeyboardManagerConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQKeyboardManagerConstants.h; path = IQKeyboardManager/Constants/IQKeyboardManagerConstants.h; sourceTree = "<group>"; };
 		14A3FE4DA4CE007A926AAC6102122F2E /* AliyunOSSiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AliyunOSSiOS.framework; path = AliyunOSSiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		15CECF845E9A3DF127BEC4073839C2D3 /* OSSExecutor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSExecutor.m; path = AliyunOSSSDK/OSSTask/OSSExecutor.m; sourceTree = "<group>"; };
 		16B78AB72804486BFE86BE2830B5759C /* Bugly.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Bugly.release.xcconfig; sourceTree = "<group>"; };
-		172CAC97001920DC1580B2C2DE61533C /* Pods-Bamboo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Bamboo-dummy.m"; sourceTree = "<group>"; };
 		198E6E367FB42778946606908F25A83B /* aos_crc64.c */ = {isa = PBXFileReference; includeInIndex = 1; name = aos_crc64.c; path = AliyunOSSSDK/aos_crc64.c; sourceTree = "<group>"; };
 		1A717E110AE98FF633F991DC6365AD91 /* IQPreviousNextView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQPreviousNextView.m; path = IQKeyboardManager/IQToolbar/IQPreviousNextView.m; sourceTree = "<group>"; };
 		1B08F3798D7FAF010EFFE152F8980783 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
@@ -248,7 +246,6 @@
 		2831FFE1E5A465EEC7E441AB50FFBD8D /* OSSIPv6Adapter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSIPv6Adapter.m; path = AliyunOSSSDK/OSSIPv6/OSSIPv6Adapter.m; sourceTree = "<group>"; };
 		2AEC01C2C871C16A6C4240C7C2CDDA57 /* OSSCancellationTokenSource.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSCancellationTokenSource.h; path = AliyunOSSSDK/OSSTask/OSSCancellationTokenSource.h; sourceTree = "<group>"; };
 		2D02321AF24136BD7AED7D15F617CBB8 /* OSSAllRequestNeededMessage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSAllRequestNeededMessage.h; path = AliyunOSSSDK/OSSAllRequestNeededMessage.h; sourceTree = "<group>"; };
-		2E7BE40B1E72985C4B6BE60E5153D7AF /* Pods-Bamboo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Bamboo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2EC38C7771F9EBFE93AEB775E6F22A9F /* OSSUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSUtil.h; path = AliyunOSSSDK/OSSUtil.h; sourceTree = "<group>"; };
 		2F05F3245F0D179A75972944C3B64F95 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		31BC9AA48A5ED5891444CE291AE2C106 /* IQKeyboardManagerConstantsInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQKeyboardManagerConstantsInternal.h; path = IQKeyboardManager/Constants/IQKeyboardManagerConstantsInternal.h; sourceTree = "<group>"; };
@@ -271,6 +268,7 @@
 		41CAE32B73357AF7B87D404DF8C14178 /* NSMutableData+OSS_CRC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableData+OSS_CRC.h"; path = "AliyunOSSSDK/NSMutableData+OSS_CRC.h"; sourceTree = "<group>"; };
 		41ED19902E93A0AD2DAD814063CD562D /* OSSDeleteMultipleObjectsResult.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSDeleteMultipleObjectsResult.h; path = AliyunOSSSDK/OSSDeleteMultipleObjectsResult.h; sourceTree = "<group>"; };
 		43F69C6DA6A5D9AF9A6F66B4B06AA60A /* OSSReachability.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSReachability.m; path = AliyunOSSSDK/OSSFileLog/OSSReachability.m; sourceTree = "<group>"; };
+		45CBE3A83D4159D649ED8D89217FF183 /* Pods-BambooCharcoal-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BambooCharcoal-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4801109CD2479BAE203DC4D7F8F2461B /* MOBFoundation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MOBFoundation.debug.xcconfig; sourceTree = "<group>"; };
 		48F3114D84C474F5289DD99AD4BE143A /* IQTitleBarButtonItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQTitleBarButtonItem.m; path = IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.m; sourceTree = "<group>"; };
 		4A9B17D79E2502AB9D90535C3BDEB4DF /* OSSGetBucketInfoRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSGetBucketInfoRequest.h; path = AliyunOSSSDK/OSSGetBucketInfoRequest.h; sourceTree = "<group>"; };
@@ -280,15 +278,18 @@
 		4DE54E66E214245CF103E20E37F27129 /* AliyunOSSiOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AliyunOSSiOS.debug.xcconfig; sourceTree = "<group>"; };
 		4E1532610ED910C1403BDBCA267D873A /* OSSNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSNetworking.h; path = AliyunOSSSDK/OSSNetworking.h; sourceTree = "<group>"; };
 		4F8F4F6BFC9F363F4EC0993CE945768F /* MobPush.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobPush.framework; path = MobPush/MobPush.framework; sourceTree = "<group>"; };
+		51837787F7C98F396814F7E835852C52 /* Pods-BambooCharcoal-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BambooCharcoal-umbrella.h"; sourceTree = "<group>"; };
 		52B931A3842F35358C0D64BB4BAC9844 /* IQPreviousNextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQPreviousNextView.h; path = IQKeyboardManager/IQToolbar/IQPreviousNextView.h; sourceTree = "<group>"; };
-		530A0BB739ED5C3DE99CE0CD7C7B3900 /* Pods-Bamboo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Bamboo-umbrella.h"; sourceTree = "<group>"; };
 		53156396837CC39C896F2726F16D36B1 /* OSSResult.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSResult.h; path = AliyunOSSSDK/OSSResult.h; sourceTree = "<group>"; };
 		541EA3956C0B9D2A099D0A28F6601670 /* OSSHttpdns.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSHttpdns.m; path = AliyunOSSSDK/OSSHttpdns.m; sourceTree = "<group>"; };
 		5711C5784904FBE27AD175D0EF3FEEF5 /* OSSNetworkingRequestDelegate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSNetworkingRequestDelegate.m; path = AliyunOSSSDK/OSSNetworkingRequestDelegate.m; sourceTree = "<group>"; };
 		599F8C8A4677CBB97287CA621A220522 /* OSSUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSUtil.m; path = AliyunOSSSDK/OSSUtil.m; sourceTree = "<group>"; };
+		5BBF62055671B691ED3FF530B7EC47A5 /* Pods-BambooCharcoal.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BambooCharcoal.modulemap"; sourceTree = "<group>"; };
 		5BCA47C3F4C80413D0AF5FD98CDEB31C /* OSSFileLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSFileLogger.h; path = AliyunOSSSDK/OSSFileLog/OSSFileLogger.h; sourceTree = "<group>"; };
 		5CE5306DE6C3427A7536095AEA877998 /* MOBFoundationEx.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MOBFoundationEx.framework; path = MOBFoundation/MOBFoundationEx.framework; sourceTree = "<group>"; };
 		5DE38F85FA706C9DF497709D93179C75 /* OSSIPv6Adapter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSIPv6Adapter.h; path = AliyunOSSSDK/OSSIPv6/OSSIPv6Adapter.h; sourceTree = "<group>"; };
+		5EBF1DD8D646A60203F3ACB7F78F6E93 /* Pods-BambooCharcoal-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BambooCharcoal-dummy.m"; sourceTree = "<group>"; };
+		5EF5497B2299C2A89855270E5D4852E7 /* Pods-BambooCharcoal-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BambooCharcoal-Info.plist"; sourceTree = "<group>"; };
 		64B7D8B843AC8F63C92BAF2546161B06 /* NSDate+OSS.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+OSS.m"; path = "AliyunOSSSDK/NSDate+OSS.m"; sourceTree = "<group>"; };
 		64BA8AF393E22EF3702EFE558AC1910E /* Bugly.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Bugly.debug.xcconfig; sourceTree = "<group>"; };
 		65976AFAFE41E40570044598B4E9AE27 /* OSSBolts.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSBolts.m; path = AliyunOSSSDK/OSSTask/OSSBolts.m; sourceTree = "<group>"; };
@@ -300,7 +301,6 @@
 		70758E0206647CA78910174C415DC827 /* OSSNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSNetworking.m; path = AliyunOSSSDK/OSSNetworking.m; sourceTree = "<group>"; };
 		743014C5B10F1A70E83C6DD7DA38D245 /* AliyunOSSiOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AliyunOSSiOS-Info.plist"; sourceTree = "<group>"; };
 		7572306563C422D779925D11367EF4AE /* AliyunOSSiOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AliyunOSSiOS-dummy.m"; sourceTree = "<group>"; };
-		76018C69FAAA064C6CAFE151BA61726A /* Pods-Bamboo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Bamboo-frameworks.sh"; sourceTree = "<group>"; };
 		76AD550F4499D668769DE0F003322409 /* IQTitleBarButtonItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQTitleBarButtonItem.h; path = IQKeyboardManager/IQToolbar/IQTitleBarButtonItem.h; sourceTree = "<group>"; };
 		77E9C1DBBAAF57BE677C7EE0723C31FD /* OSSGetObjectACLResult.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSGetObjectACLResult.m; path = AliyunOSSSDK/OSSGetObjectACLResult.m; sourceTree = "<group>"; };
 		7A144C5789A75FF8E4E87BE9FB5625F5 /* AliyunOSSiOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AliyunOSSiOS.modulemap; sourceTree = "<group>"; };
@@ -310,6 +310,7 @@
 		83B7F8A4BB567AB78E1CCC338192BC5E /* OSSCancellationTokenRegistration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSCancellationTokenRegistration.m; path = AliyunOSSSDK/OSSTask/OSSCancellationTokenRegistration.m; sourceTree = "<group>"; };
 		84070E207686AA0FC20250BD3F5A3A4D /* IQUITextFieldView+Additions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "IQUITextFieldView+Additions.h"; path = "IQKeyboardManager/Categories/IQUITextFieldView+Additions.h"; sourceTree = "<group>"; };
 		871CD52C027CF6B4FD94C201CB0D3DD6 /* OSSRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSRequest.h; path = AliyunOSSSDK/OSSRequest.h; sourceTree = "<group>"; };
+		87DBE55271573310A8F4E2EBC171C722 /* Pods-BambooCharcoal-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BambooCharcoal-acknowledgements.plist"; sourceTree = "<group>"; };
 		88E5CB93BA5A925EA377099319619002 /* IQKeyboardManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQKeyboardManager.m; path = IQKeyboardManager/IQKeyboardManager.m; sourceTree = "<group>"; };
 		88F156B43546454F610D98CA33EDEDFC /* OSSService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSService.h; path = AliyunOSSSDK/OSSService.h; sourceTree = "<group>"; };
 		8927FA9645394503750E92B68A3BF597 /* OSSGetBucketInfoRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSGetBucketInfoRequest.m; path = AliyunOSSSDK/OSSGetBucketInfoRequest.m; sourceTree = "<group>"; };
@@ -321,26 +322,24 @@
 		906394AF2F4F3EE432B33256EA48413F /* OSSReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSReachabilityManager.m; path = AliyunOSSSDK/OSSIPv6/OSSReachabilityManager.m; sourceTree = "<group>"; };
 		921C5D0BE4F588CD024C69B33A1F476A /* OSSReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSReachabilityManager.h; path = AliyunOSSSDK/OSSIPv6/OSSReachabilityManager.h; sourceTree = "<group>"; };
 		948F550BC80F3DE8BAE9C94784D79651 /* OSSReachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSReachability.h; path = AliyunOSSSDK/OSSFileLog/OSSReachability.h; sourceTree = "<group>"; };
-		95F74C017DA3E262E26063905DAB9F03 /* Pods-Bamboo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Bamboo.release.xcconfig"; sourceTree = "<group>"; };
 		98527D7196957AAB07B79E2E2AFDE23E /* IQKeyboardManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardManager.framework; path = IQKeyboardManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		98FDEB7CBF7ACA16C7105018E529A89C /* OSSInputStreamHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSInputStreamHelper.h; path = AliyunOSSSDK/OSSInputStreamHelper.h; sourceTree = "<group>"; };
 		9AB08E57528144975A3C6D213AAD5E34 /* MOBFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MOBFoundation.framework; path = MOBFoundation/MOBFoundation.framework; sourceTree = "<group>"; };
 		9B9011C14D310C382889B2A8A3E3CD48 /* OSSRestoreObjectRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSRestoreObjectRequest.h; path = AliyunOSSSDK/OSSRestoreObjectRequest.h; sourceTree = "<group>"; };
 		9BD9C4C1DA3DEA88EA37AFE6DD3CD734 /* OSSNSLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSNSLogger.h; path = AliyunOSSSDK/OSSFileLog/OSSNSLogger.h; sourceTree = "<group>"; };
 		9CF0C5810C6F0ABA591AA3681B83BDD0 /* IQNSArray+Sort.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "IQNSArray+Sort.m"; path = "IQKeyboardManager/Categories/IQNSArray+Sort.m"; sourceTree = "<group>"; };
-		9D7241B688D57A852C9056B54109EC87 /* Pods_Bamboo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Bamboo.framework; path = "Pods-Bamboo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DF34C512C8602B320742B8F13CA1D38 /* aos_crc64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = aos_crc64.h; path = AliyunOSSSDK/aos_crc64.h; sourceTree = "<group>"; };
 		9E5ADEE1AE4E1B61CD30F24F233DB1E8 /* OSSDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSDefine.h; path = AliyunOSSSDK/OSSDefine.h; sourceTree = "<group>"; };
 		9F7870835E6051BE74C3DB0284157799 /* OSSRestoreObjectResult.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSRestoreObjectResult.m; path = AliyunOSSSDK/OSSRestoreObjectResult.m; sourceTree = "<group>"; };
 		A3EAA1597AF2E3BFFB1B4607D354F3CE /* OSSDeleteMultipleObjectsResult.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSDeleteMultipleObjectsResult.m; path = AliyunOSSSDK/OSSDeleteMultipleObjectsResult.m; sourceTree = "<group>"; };
+		A43C6544EC4B23DCE46E2C9395E400E7 /* Pods_BambooCharcoal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BambooCharcoal.framework; path = "Pods-BambooCharcoal.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A52D5D1DAAC9B2D378BF0212670E77E8 /* OSSNetworkingRequestDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSNetworkingRequestDelegate.h; path = AliyunOSSSDK/OSSNetworkingRequestDelegate.h; sourceTree = "<group>"; };
 		A71A03C84C540B06C5B83062067BA3DD /* AliyunOSSiOS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AliyunOSSiOS.h; path = "Supporting Files/AliyunOSSiOS.h"; sourceTree = "<group>"; };
 		AA8A748199EC701393A74906D6554709 /* AliyunOSSiOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AliyunOSSiOS-umbrella.h"; sourceTree = "<group>"; };
 		AC5265A0F42325078C28E4CDA2D200F2 /* OSSGetObjectACLRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSGetObjectACLRequest.m; path = AliyunOSSSDK/OSSGetObjectACLRequest.m; sourceTree = "<group>"; };
 		AE51AA34EFCE13F1F12645B0003060ED /* OSSConstants.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSConstants.m; path = AliyunOSSSDK/OSSConstants.m; sourceTree = "<group>"; };
 		AF970A4DEC551C18E1F32CDAD5E57E0F /* OSSRestoreObjectRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSRestoreObjectRequest.m; path = AliyunOSSSDK/OSSRestoreObjectRequest.m; sourceTree = "<group>"; };
-		AFBE4C2D815AFA80CFA2CFEA819AC648 /* Pods-Bamboo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Bamboo-Info.plist"; sourceTree = "<group>"; };
 		AFCDD0EC44F8E9A8BBE90BBCE906607C /* IQTextView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = IQTextView.m; path = IQKeyboardManager/IQTextView/IQTextView.m; sourceTree = "<group>"; };
 		B21C782109AAD89E2CE48AA4AA474642 /* NSDate+OSS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+OSS.h"; path = "AliyunOSSSDK/NSDate+OSS.h"; sourceTree = "<group>"; };
 		B2E2EEFD066A35B9048FFB28D5C8D1EC /* OSSHttpResponseParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSHttpResponseParser.h; path = AliyunOSSSDK/OSSHttpResponseParser.h; sourceTree = "<group>"; };
@@ -355,19 +354,21 @@
 		BE3209C2546F6D0BEEC19D815732EC1A /* NSMutableDictionary+OSS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+OSS.h"; path = "AliyunOSSSDK/NSMutableDictionary+OSS.h"; sourceTree = "<group>"; };
 		BE35D3FC0BCE3F5E86E0582B7FEFAEED /* OSSXMLDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSXMLDictionary.h; path = AliyunOSSSDK/OSSXMLDictionary.h; sourceTree = "<group>"; };
 		C2147488647DA6BD312269A6EA651C7B /* OSSIPv6PrefixResolver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSIPv6PrefixResolver.m; path = AliyunOSSSDK/OSSIPv6/OSSIPv6PrefixResolver.m; sourceTree = "<group>"; };
-		C2DF866A306817FD748560B553A977FC /* Pods-Bamboo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Bamboo.modulemap"; sourceTree = "<group>"; };
+		C243D2D2F69039F877EE313B40781BC6 /* Pods-BambooCharcoal-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BambooCharcoal-frameworks.sh"; sourceTree = "<group>"; };
 		C30FE8D440CC8B9CEDD024C062154096 /* OSSAllRequestNeededMessage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSAllRequestNeededMessage.m; path = AliyunOSSSDK/OSSAllRequestNeededMessage.m; sourceTree = "<group>"; };
 		C64995428BE25EB82A9343EA3879C801 /* AliyunOSSiOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AliyunOSSiOS.release.xcconfig; sourceTree = "<group>"; };
 		C6C10849F7514CC9468100BCC4B7ECBB /* IQUIView+IQKeyboardToolbar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "IQUIView+IQKeyboardToolbar.h"; path = "IQKeyboardManager/IQToolbar/IQUIView+IQKeyboardToolbar.h"; sourceTree = "<group>"; };
 		C78676EE1B2B381A83890E0BCE178512 /* IQKeyboardManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IQKeyboardManager-dummy.m"; sourceTree = "<group>"; };
 		CDD282B99FB289D8B95569A52B23B76C /* OSSPutSymlinkRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSPutSymlinkRequest.m; path = AliyunOSSSDK/OSSPutSymlinkRequest.m; sourceTree = "<group>"; };
 		D0040CA2061B85A510A97F1FD9B4BC7F /* OSSCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSCompat.m; path = AliyunOSSSDK/OSSCompat.m; sourceTree = "<group>"; };
+		D10CCEAC6A3581FCA620ED2642A79D40 /* Pods-BambooCharcoal.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BambooCharcoal.release.xcconfig"; sourceTree = "<group>"; };
 		D10F2530C4F8B36393E0A8086F52EB8F /* OSSIPv6PrefixResolver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSIPv6PrefixResolver.h; path = AliyunOSSSDK/OSSIPv6/OSSIPv6PrefixResolver.h; sourceTree = "<group>"; };
 		D44E834EC230E6A8971C79EE1C93A564 /* IQTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQTextView.h; path = IQKeyboardManager/IQTextView/IQTextView.h; sourceTree = "<group>"; };
 		D632DF3C6059CDEC691F43533E671169 /* OSSCancellationToken.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSCancellationToken.h; path = AliyunOSSSDK/OSSTask/OSSCancellationToken.h; sourceTree = "<group>"; };
 		D80767AD8A21C773EA5FD5C6DC6F6C41 /* IQKeyboardManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IQKeyboardManager.h; path = IQKeyboardManager/IQKeyboardManager.h; sourceTree = "<group>"; };
 		D87CEA866BFDECFA8CF41DAC79287F4D /* OSSURLRequestRetryHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSURLRequestRetryHandler.h; path = AliyunOSSSDK/OSSURLRequestRetryHandler.h; sourceTree = "<group>"; };
 		D8C01C3D9C95DD7679F52040ECC3F1C2 /* OSSModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSModel.m; path = AliyunOSSSDK/OSSModel.m; sourceTree = "<group>"; };
+		DCA58D3B906DC23C82BBD894610430C2 /* Pods-BambooCharcoal.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BambooCharcoal.debug.xcconfig"; sourceTree = "<group>"; };
 		DCFEB3243B6C91046D00DB8098D688D9 /* AliyunOSSiOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AliyunOSSiOS-prefix.pch"; sourceTree = "<group>"; };
 		DE5E7BBA390A75B456A250B357DD69E8 /* OSSInputStreamHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSInputStreamHelper.m; path = AliyunOSSSDK/OSSInputStreamHelper.m; sourceTree = "<group>"; };
 		DEA3EEDCE636E3DCA9F7EFD8AE3DC370 /* OSSGetObjectACLResult.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = OSSGetObjectACLResult.h; path = AliyunOSSSDK/OSSGetObjectACLResult.h; sourceTree = "<group>"; };
@@ -392,7 +393,6 @@
 		F291B09D95B81E3040F3786451443EF2 /* OSSGetSymlinkRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSGetSymlinkRequest.m; path = AliyunOSSSDK/OSSGetSymlinkRequest.m; sourceTree = "<group>"; };
 		F63660DC6482A77D9E5F42AC98ABD844 /* OSSResult.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSResult.m; path = AliyunOSSSDK/OSSResult.m; sourceTree = "<group>"; };
 		F7F64BFACF48153D657551DAD109066E /* OSSFileLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSFileLogger.m; path = AliyunOSSSDK/OSSFileLog/OSSFileLogger.m; sourceTree = "<group>"; };
-		F9F1C2BD991A1A23D38E7EA92CABD16F /* Pods-Bamboo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Bamboo.debug.xcconfig"; sourceTree = "<group>"; };
 		FF715C51861A50BE45D8B0C8FBD1D8AC /* OSSXMLDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = OSSXMLDictionary.m; path = AliyunOSSSDK/OSSXMLDictionary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -418,25 +418,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E287750FF7E2CC9CD6904660FBCB799C /* Frameworks */ = {
+		62E3F93FE108C6F7FB4305C293E782EA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78A000CD175AAF467C4BBB8A6F7CFB61 /* Foundation.framework in Frameworks */,
+				58745803DD745A2A7BF74F405DE7AE1A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		01355864E4A083F54C088486214D6CAF /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				F89DB3B30008E62A03587B9582B47245 /* Pods-Bamboo */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		03396B38F8171457DCC3435EF0537401 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -468,6 +460,23 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/mob_pushsdk";
+			sourceTree = "<group>";
+		};
+		1EFFF80DD25E5576CE560E2CD0AE4A25 /* Pods-BambooCharcoal */ = {
+			isa = PBXGroup;
+			children = (
+				5BBF62055671B691ED3FF530B7EC47A5 /* Pods-BambooCharcoal.modulemap */,
+				45CBE3A83D4159D649ED8D89217FF183 /* Pods-BambooCharcoal-acknowledgements.markdown */,
+				87DBE55271573310A8F4E2EBC171C722 /* Pods-BambooCharcoal-acknowledgements.plist */,
+				5EBF1DD8D646A60203F3ACB7F78F6E93 /* Pods-BambooCharcoal-dummy.m */,
+				C243D2D2F69039F877EE313B40781BC6 /* Pods-BambooCharcoal-frameworks.sh */,
+				5EF5497B2299C2A89855270E5D4852E7 /* Pods-BambooCharcoal-Info.plist */,
+				51837787F7C98F396814F7E835852C52 /* Pods-BambooCharcoal-umbrella.h */,
+				DCA58D3B906DC23C82BBD894610430C2 /* Pods-BambooCharcoal.debug.xcconfig */,
+				D10CCEAC6A3581FCA620ED2642A79D40 /* Pods-BambooCharcoal.release.xcconfig */,
+			);
+			name = "Pods-BambooCharcoal";
+			path = "Target Support Files/Pods-BambooCharcoal";
 			sourceTree = "<group>";
 		};
 		1FE7E86CDFE1D9C7CE21281DE90C1EA6 /* mob_pushsdk */ = {
@@ -677,16 +686,6 @@
 			path = "../Target Support Files/IQKeyboardManager";
 			sourceTree = "<group>";
 		};
-		87174613442C1ABFB849C48F6D58A075 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				14A3FE4DA4CE007A926AAC6102122F2E /* AliyunOSSiOS.framework */,
-				98527D7196957AAB07B79E2E2AFDE23E /* IQKeyboardManager.framework */,
-				9D7241B688D57A852C9056B54109EC87 /* Pods_Bamboo.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		998741A378479770E3818767F83BDBDD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -694,6 +693,14 @@
 				5CE5306DE6C3427A7536095AEA877998 /* MOBFoundationEx.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A1D1875F6A6CE450CE77443C8A2B2D0F /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1EFFF80DD25E5576CE560E2CD0AE4A25 /* Pods-BambooCharcoal */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		B11E43BB80B9390F8D9EFBB78FE3215B /* MOBFoundation */ = {
@@ -729,14 +736,24 @@
 			name = MobPush;
 			sourceTree = "<group>";
 		};
+		CD5F224CEE8FBDEFFC40446876B316F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				14A3FE4DA4CE007A926AAC6102122F2E /* AliyunOSSiOS.framework */,
+				98527D7196957AAB07B79E2E2AFDE23E /* IQKeyboardManager.framework */,
+				A43C6544EC4B23DCE46E2C9395E400E7 /* Pods_BambooCharcoal.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D68CA58901FBF589D75F5E40F1EAF5BA /* Frameworks */,
 				5CD44753FDABA192D0B5171AF4C5918B /* Pods */,
-				87174613442C1ABFB849C48F6D58A075 /* Products */,
-				01355864E4A083F54C088486214D6CAF /* Targets Support Files */,
+				CD5F224CEE8FBDEFFC40446876B316F1 /* Products */,
+				A1D1875F6A6CE450CE77443C8A2B2D0F /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -756,23 +773,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Bugly";
-			sourceTree = "<group>";
-		};
-		F89DB3B30008E62A03587B9582B47245 /* Pods-Bamboo */ = {
-			isa = PBXGroup;
-			children = (
-				C2DF866A306817FD748560B553A977FC /* Pods-Bamboo.modulemap */,
-				2E7BE40B1E72985C4B6BE60E5153D7AF /* Pods-Bamboo-acknowledgements.markdown */,
-				0DEAD3E1FA99EE9E954D472E57E2A144 /* Pods-Bamboo-acknowledgements.plist */,
-				172CAC97001920DC1580B2C2DE61533C /* Pods-Bamboo-dummy.m */,
-				76018C69FAAA064C6CAFE151BA61726A /* Pods-Bamboo-frameworks.sh */,
-				AFBE4C2D815AFA80CFA2CFEA819AC648 /* Pods-Bamboo-Info.plist */,
-				530A0BB739ED5C3DE99CE0CD7C7B3900 /* Pods-Bamboo-umbrella.h */,
-				F9F1C2BD991A1A23D38E7EA92CABD16F /* Pods-Bamboo.debug.xcconfig */,
-				95F74C017DA3E262E26063905DAB9F03 /* Pods-Bamboo.release.xcconfig */,
-			);
-			name = "Pods-Bamboo";
-			path = "Target Support Files/Pods-Bamboo";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -798,14 +798,6 @@
 				7266EFAF956AEA659AF4D5A589CA4D97 /* IQUIView+Hierarchy.h in Headers */,
 				3B2A13FD720BF70389C731D834C1117B /* IQUIView+IQKeyboardToolbar.h in Headers */,
 				104E7B3F596C88BFC1933E78ED3ACAC3 /* IQUIViewController+Additions.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		21B7919FF431ABC34F71BA538A0F6835 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				86EA6B2F2F80499045A75551499C74BD /* Pods-Bamboo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -868,30 +860,38 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FED29AF7A7CD844377E415FA4C999612 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9BD8BB0E039364873654146ED4D121FA /* Pods-BambooCharcoal-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		36198A312EB7133B11A22DB83978A511 /* Pods-Bamboo */ = {
+		A7AC526BE1E125D617145C413315DE5B /* Pods-BambooCharcoal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6C56921A73DC3B8DC2F83F8042DC5FE9 /* Build configuration list for PBXNativeTarget "Pods-Bamboo" */;
+			buildConfigurationList = 360CFF3D7090A1542A4960E5DB6A8A7A /* Build configuration list for PBXNativeTarget "Pods-BambooCharcoal" */;
 			buildPhases = (
-				21B7919FF431ABC34F71BA538A0F6835 /* Headers */,
-				1716A83CE6FF91EEB6FEDF2865DB4BA4 /* Sources */,
-				E287750FF7E2CC9CD6904660FBCB799C /* Frameworks */,
-				C577D7260DF485A17394EA28C8C84A7B /* Resources */,
+				FED29AF7A7CD844377E415FA4C999612 /* Headers */,
+				FD87D3E6F81FB5A96DE72F764BBC54F5 /* Sources */,
+				62E3F93FE108C6F7FB4305C293E782EA /* Frameworks */,
+				609B40F91CC867BB8AD8EA76BECB4FE7 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				974227E2B5DD7F778F09BE6395B436C4 /* PBXTargetDependency */,
-				8E97EDF599EE7B84D39602FC73B0010C /* PBXTargetDependency */,
-				525D9D6E9731911AE5935F3639C9C188 /* PBXTargetDependency */,
-				DE79E29A29858A1EA32ABC9C52EA851F /* PBXTargetDependency */,
-				D5F0A0D849919F6256083E883F37E8B2 /* PBXTargetDependency */,
+				861DDA456ECEB7F313831180A337E7B0 /* PBXTargetDependency */,
+				5300E6E717378B0FB56B75D738FB7827 /* PBXTargetDependency */,
+				73385EBE839A180382E69099C9932B78 /* PBXTargetDependency */,
+				2CF284B26E7203333BC734C21FBDE915 /* PBXTargetDependency */,
+				557E3A00C88C23A667A87D0CE297D765 /* PBXTargetDependency */,
 			);
-			name = "Pods-Bamboo";
-			productName = "Pods-Bamboo";
-			productReference = 9D7241B688D57A852C9056B54109EC87 /* Pods_Bamboo.framework */;
+			name = "Pods-BambooCharcoal";
+			productName = "Pods-BambooCharcoal";
+			productReference = A43C6544EC4B23DCE46E2C9395E400E7 /* Pods_BambooCharcoal.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C1FD11F5F7EBFF63F845CDF963F73E1A /* AliyunOSSiOS */ = {
@@ -948,7 +948,7 @@
 				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 87174613442C1ABFB849C48F6D58A075 /* Products */;
+			productRefGroup = CD5F224CEE8FBDEFFC40446876B316F1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -957,13 +957,20 @@
 				FBA456CB50E371584C11231929A0971E /* IQKeyboardManager */,
 				1B4C00C7FF27805CE472969C2C86A565 /* mob_pushsdk */,
 				38986664EBE0043A3614949E53335639 /* MOBFoundation */,
-				36198A312EB7133B11A22DB83978A511 /* Pods-Bamboo */,
+				A7AC526BE1E125D617145C413315DE5B /* Pods-BambooCharcoal */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		1BBCAA36277BF4877B19328CB2D58AB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		609B40F91CC867BB8AD8EA76BECB4FE7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -977,24 +984,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C577D7260DF485A17394EA28C8C84A7B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1716A83CE6FF91EEB6FEDF2865DB4BA4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				86CC2555F8F65AE6A26E727067C64412 /* Pods-Bamboo-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		AEF455DEDAFBEBB32F6878D0F4A18B4C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1070,14 +1062,40 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FD87D3E6F81FB5A96DE72F764BBC54F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F422C964E8F1765B9CAD1E96034B870A /* Pods-BambooCharcoal-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		525D9D6E9731911AE5935F3639C9C188 /* PBXTargetDependency */ = {
+		2CF284B26E7203333BC734C21FBDE915 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MOBFoundation;
+			target = 38986664EBE0043A3614949E53335639 /* MOBFoundation */;
+			targetProxy = A81FC0A57250272BB200E3BC145FFBAA /* PBXContainerItemProxy */;
+		};
+		5300E6E717378B0FB56B75D738FB7827 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Bugly;
+			target = 4A68CFD979D413A619DF631BB121D98F /* Bugly */;
+			targetProxy = EB9625C1159F254931418E0BF242A017 /* PBXContainerItemProxy */;
+		};
+		557E3A00C88C23A667A87D0CE297D765 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = mob_pushsdk;
+			target = 1B4C00C7FF27805CE472969C2C86A565 /* mob_pushsdk */;
+			targetProxy = EDD48584A5E0EC48DF128019884DA3CF /* PBXContainerItemProxy */;
+		};
+		73385EBE839A180382E69099C9932B78 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = IQKeyboardManager;
 			target = FBA456CB50E371584C11231929A0971E /* IQKeyboardManager */;
-			targetProxy = 0263C1E2303C4B3EE8712A9B576727E9 /* PBXContainerItemProxy */;
+			targetProxy = E11E95432914F5B367571F29D3492748 /* PBXContainerItemProxy */;
 		};
 		785249F7A62668E9EFEE46954F2C0E8A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1085,29 +1103,11 @@
 			target = 38986664EBE0043A3614949E53335639 /* MOBFoundation */;
 			targetProxy = A92D2EE71E92AC578975C4169208ED4F /* PBXContainerItemProxy */;
 		};
-		8E97EDF599EE7B84D39602FC73B0010C /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Bugly;
-			target = 4A68CFD979D413A619DF631BB121D98F /* Bugly */;
-			targetProxy = 609B62CE3DDF669789A15F6054D07548 /* PBXContainerItemProxy */;
-		};
-		974227E2B5DD7F778F09BE6395B436C4 /* PBXTargetDependency */ = {
+		861DDA456ECEB7F313831180A337E7B0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = AliyunOSSiOS;
 			target = C1FD11F5F7EBFF63F845CDF963F73E1A /* AliyunOSSiOS */;
-			targetProxy = 435C3581C4B1B2E7F880197BD8FA4C48 /* PBXContainerItemProxy */;
-		};
-		D5F0A0D849919F6256083E883F37E8B2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = mob_pushsdk;
-			target = 1B4C00C7FF27805CE472969C2C86A565 /* mob_pushsdk */;
-			targetProxy = B5634CFBF4BFF1EA7559FEE18C39A917 /* PBXContainerItemProxy */;
-		};
-		DE79E29A29858A1EA32ABC9C52EA851F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MOBFoundation;
-			target = 38986664EBE0043A3614949E53335639 /* MOBFoundation */;
-			targetProxy = DEC849A49E2519C6947EA155F6D99735 /* PBXContainerItemProxy */;
+			targetProxy = 8F22C64779B808327AF415E1DBE7B972 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1323,6 +1323,43 @@
 			};
 			name = Release;
 		};
+		90B802499ECFA9D4A0DC004ACBC34FAF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DCA58D3B906DC23C82BBD894610430C2 /* Pods-BambooCharcoal.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		916E0404255105F480DC4950B7625F7A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1387,6 +1424,44 @@
 			};
 			name = Debug;
 		};
+		CCF1F59116F36F0B292C0B854DD06E67 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D10CCEAC6A3581FCA620ED2642A79D40 /* Pods-BambooCharcoal.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-BambooCharcoal/Pods-BambooCharcoal.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		CD094015B862470CB20EA6D2FE8FADCC /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 00F0FFCB9695E16735486036463F9FC2 /* MOBFoundation.release.xcconfig */;
@@ -1439,44 +1514,6 @@
 			};
 			name = Release;
 		};
-		D966AE29A70549E4B82E155AAE0FABB6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 95F74C017DA3E262E26063905DAB9F03 /* Pods-Bamboo.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Bamboo/Pods-Bamboo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Bamboo/Pods-Bamboo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		DFB2C81205B36E52267E25BA15747DF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7D9AA5E5E4B674AB5AC45E2D2EF0E5FD /* mob_pushsdk.release.xcconfig */;
@@ -1511,43 +1548,6 @@
 			};
 			name = Release;
 		};
-		ECBBDB61737A4AB79C08B10D4F57A423 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F9F1C2BD991A1A23D38E7EA92CABD16F /* Pods-Bamboo.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Bamboo/Pods-Bamboo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Bamboo/Pods-Bamboo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1560,20 +1560,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		360CFF3D7090A1542A4960E5DB6A8A7A /* Build configuration list for PBXNativeTarget "Pods-BambooCharcoal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				90B802499ECFA9D4A0DC004ACBC34FAF /* Debug */,
+				CCF1F59116F36F0B292C0B854DD06E67 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				916E0404255105F480DC4950B7625F7A /* Debug */,
 				8F17DC3A99F99FBAD606CE6963886315 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		6C56921A73DC3B8DC2F83F8042DC5FE9 /* Build configuration list for PBXNativeTarget "Pods-Bamboo" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				ECBBDB61737A4AB79C08B10D4F57A423 /* Debug */,
-				D966AE29A70549E4B82E155AAE0FABB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
