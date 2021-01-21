@@ -1,0 +1,6004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>上海市 - 上海市 - 南汇区</key>
+	<integer>2714</integer>
+	<key>上海市 - 上海市 - 卢湾区</key>
+	<integer>2711</integer>
+	<key>上海市 - 上海市 - 嘉定区</key>
+	<integer>2716</integer>
+	<key>上海市 - 上海市 - 奉贤区</key>
+	<integer>2720</integer>
+	<key>上海市 - 上海市 - 宝山区</key>
+	<integer>2717</integer>
+	<key>上海市 - 上海市 - 崇明县</key>
+	<integer>2721</integer>
+	<key>上海市 - 上海市 - 徐汇区</key>
+	<integer>2706</integer>
+	<key>上海市 - 上海市 - 普陀区</key>
+	<integer>2709</integer>
+	<key>上海市 - 上海市 - 杨浦区</key>
+	<integer>2708</integer>
+	<key>上海市 - 上海市 - 松江区</key>
+	<integer>2715</integer>
+	<key>上海市 - 上海市 - 浦东新区</key>
+	<integer>2707</integer>
+	<key>上海市 - 上海市 - 虹口区</key>
+	<integer>2712</integer>
+	<key>上海市 - 上海市 - 金山区</key>
+	<integer>2719</integer>
+	<key>上海市 - 上海市 - 长宁区</key>
+	<integer>2703</integer>
+	<key>上海市 - 上海市 - 闵行区</key>
+	<integer>2705</integer>
+	<key>上海市 - 上海市 - 闸北区</key>
+	<integer>2704</integer>
+	<key>上海市 - 上海市 - 青浦区</key>
+	<integer>2718</integer>
+	<key>上海市 - 上海市 - 静安区</key>
+	<integer>2710</integer>
+	<key>上海市 - 上海市 - 黄浦区</key>
+	<integer>2713</integer>
+	<key>云南省 - 临沧 - 临翔区</key>
+	<integer>3181</integer>
+	<key>云南省 - 临沧 - 云县</key>
+	<integer>3183</integer>
+	<key>云南省 - 临沧 - 凤庆县</key>
+	<integer>3182</integer>
+	<key>云南省 - 临沧 - 双江</key>
+	<integer>3186</integer>
+	<key>云南省 - 临沧 - 永德县</key>
+	<integer>3184</integer>
+	<key>云南省 - 临沧 - 沧源</key>
+	<integer>3188</integer>
+	<key>云南省 - 临沧 - 耿马</key>
+	<integer>3187</integer>
+	<key>云南省 - 临沧 - 镇康县</key>
+	<integer>3185</integer>
+	<key>云南省 - 丽江 - 华坪县</key>
+	<integer>3132</integer>
+	<key>云南省 - 丽江 - 古城区</key>
+	<integer>3128</integer>
+	<key>云南省 - 丽江 - 宁蒗</key>
+	<integer>3129</integer>
+	<key>云南省 - 丽江 - 永胜县</key>
+	<integer>3131</integer>
+	<key>云南省 - 丽江 - 玉龙</key>
+	<integer>3130</integer>
+	<key>云南省 - 保山 - 施甸县</key>
+	<integer>3134</integer>
+	<key>云南省 - 保山 - 昌宁县</key>
+	<integer>3137</integer>
+	<key>云南省 - 保山 - 腾冲县</key>
+	<integer>3135</integer>
+	<key>云南省 - 保山 - 隆阳区</key>
+	<integer>3133</integer>
+	<key>云南省 - 保山 - 龙陵县</key>
+	<integer>3136</integer>
+	<key>云南省 - 大理 - 云龙县</key>
+	<integer>3153</integer>
+	<key>云南省 - 大理 - 剑川县</key>
+	<integer>3155</integer>
+	<key>云南省 - 大理 - 南涧</key>
+	<integer>3158</integer>
+	<key>云南省 - 大理 - 大理市</key>
+	<integer>3148</integer>
+	<key>云南省 - 大理 - 宾川县</key>
+	<integer>3150</integer>
+	<key>云南省 - 大理 - 巍山</key>
+	<integer>3159</integer>
+	<key>云南省 - 大理 - 弥渡县</key>
+	<integer>3151</integer>
+	<key>云南省 - 大理 - 永平县</key>
+	<integer>3152</integer>
+	<key>云南省 - 大理 - 洱源县</key>
+	<integer>3154</integer>
+	<key>云南省 - 大理 - 漾濞</key>
+	<integer>3157</integer>
+	<key>云南省 - 大理 - 祥云县</key>
+	<integer>3149</integer>
+	<key>云南省 - 大理 - 鹤庆县</key>
+	<integer>3156</integer>
+	<key>云南省 - 德宏 - 梁河县</key>
+	<integer>3162</integer>
+	<key>云南省 - 德宏 - 潞西市</key>
+	<integer>3160</integer>
+	<key>云南省 - 德宏 - 瑞丽市</key>
+	<integer>3161</integer>
+	<key>云南省 - 德宏 - 盈江县</key>
+	<integer>3163</integer>
+	<key>云南省 - 德宏 - 陇川县</key>
+	<integer>3164</integer>
+	<key>云南省 - 怒江 - 兰坪</key>
+	<integer>3114</integer>
+	<key>云南省 - 怒江 - 泸水县</key>
+	<integer>3115</integer>
+	<key>云南省 - 怒江 - 福贡县</key>
+	<integer>3116</integer>
+	<key>云南省 - 怒江 - 贡山</key>
+	<integer>3117</integer>
+	<key>云南省 - 文山 - 丘北县</key>
+	<integer>3203</integer>
+	<key>云南省 - 文山 - 富宁县</key>
+	<integer>3205</integer>
+	<key>云南省 - 文山 - 广南县</key>
+	<integer>3204</integer>
+	<key>云南省 - 文山 - 文山县</key>
+	<integer>3198</integer>
+	<key>云南省 - 文山 - 砚山县</key>
+	<integer>3199</integer>
+	<key>云南省 - 文山 - 西畴县</key>
+	<integer>3200</integer>
+	<key>云南省 - 文山 - 马关县</key>
+	<integer>3202</integer>
+	<key>云南省 - 文山 - 麻栗坡县</key>
+	<integer>3201</integer>
+	<key>云南省 - 昆明 - 东川区</key>
+	<integer>3104</integer>
+	<key>云南省 - 昆明 - 五华区</key>
+	<integer>3101</integer>
+	<key>云南省 - 昆明 - 呈贡县</key>
+	<integer>3106</integer>
+	<key>云南省 - 昆明 - 安宁市</key>
+	<integer>3105</integer>
+	<key>云南省 - 昆明 - 官渡区</key>
+	<integer>3102</integer>
+	<key>云南省 - 昆明 - 宜良县</key>
+	<integer>3109</integer>
+	<key>云南省 - 昆明 - 富民县</key>
+	<integer>3108</integer>
+	<key>云南省 - 昆明 - 寻甸</key>
+	<integer>3113</integer>
+	<key>云南省 - 昆明 - 嵩明县</key>
+	<integer>3110</integer>
+	<key>云南省 - 昆明 - 晋宁县</key>
+	<integer>3107</integer>
+	<key>云南省 - 昆明 - 盘龙区</key>
+	<integer>3100</integer>
+	<key>云南省 - 昆明 - 石林县</key>
+	<integer>3111</integer>
+	<key>云南省 - 昆明 - 禄劝</key>
+	<integer>3112</integer>
+	<key>云南省 - 昆明 - 西山区</key>
+	<integer>3103</integer>
+	<key>云南省 - 昭通 - 大关县</key>
+	<integer>3222</integer>
+	<key>云南省 - 昭通 - 威信县</key>
+	<integer>3227</integer>
+	<key>云南省 - 昭通 - 巧家县</key>
+	<integer>3220</integer>
+	<key>云南省 - 昭通 - 彝良县</key>
+	<integer>3226</integer>
+	<key>云南省 - 昭通 - 昭阳区</key>
+	<integer>3218</integer>
+	<key>云南省 - 昭通 - 水富县</key>
+	<integer>3228</integer>
+	<key>云南省 - 昭通 - 永善县</key>
+	<integer>3223</integer>
+	<key>云南省 - 昭通 - 盐津县</key>
+	<integer>3221</integer>
+	<key>云南省 - 昭通 - 绥江县</key>
+	<integer>3224</integer>
+	<key>云南省 - 昭通 - 镇雄县</key>
+	<integer>3225</integer>
+	<key>云南省 - 昭通 - 鲁甸县</key>
+	<integer>3219</integer>
+	<key>云南省 - 普洱 - 墨江</key>
+	<integer>3120</integer>
+	<key>云南省 - 普洱 - 孟连</key>
+	<integer>3125</integer>
+	<key>云南省 - 普洱 - 宁洱</key>
+	<integer>3118</integer>
+	<key>云南省 - 普洱 - 思茅区</key>
+	<integer>3119</integer>
+	<key>云南省 - 普洱 - 景东</key>
+	<integer>3121</integer>
+	<key>云南省 - 普洱 - 景谷</key>
+	<integer>3122</integer>
+	<key>云南省 - 普洱 - 江城</key>
+	<integer>3124</integer>
+	<key>云南省 - 普洱 - 澜沧</key>
+	<integer>3126</integer>
+	<key>云南省 - 普洱 - 西盟</key>
+	<integer>3127</integer>
+	<key>云南省 - 普洱 - 镇沅</key>
+	<integer>3123</integer>
+	<key>云南省 - 曲靖 - 会泽县</key>
+	<integer>3196</integer>
+	<key>云南省 - 曲靖 - 宣威市</key>
+	<integer>3190</integer>
+	<key>云南省 - 曲靖 - 富源县</key>
+	<integer>3195</integer>
+	<key>云南省 - 曲靖 - 师宗县</key>
+	<integer>3193</integer>
+	<key>云南省 - 曲靖 - 沾益县</key>
+	<integer>3197</integer>
+	<key>云南省 - 曲靖 - 罗平县</key>
+	<integer>3194</integer>
+	<key>云南省 - 曲靖 - 陆良县</key>
+	<integer>3192</integer>
+	<key>云南省 - 曲靖 - 马龙县</key>
+	<integer>3191</integer>
+	<key>云南省 - 曲靖 - 麒麟区</key>
+	<integer>3189</integer>
+	<key>云南省 - 楚雄 - 元谋县</key>
+	<integer>3145</integer>
+	<key>云南省 - 楚雄 - 南华县</key>
+	<integer>3141</integer>
+	<key>云南省 - 楚雄 - 双柏县</key>
+	<integer>3139</integer>
+	<key>云南省 - 楚雄 - 大姚县</key>
+	<integer>3143</integer>
+	<key>云南省 - 楚雄 - 姚安县</key>
+	<integer>3142</integer>
+	<key>云南省 - 楚雄 - 楚雄市</key>
+	<integer>3138</integer>
+	<key>云南省 - 楚雄 - 武定县</key>
+	<integer>3146</integer>
+	<key>云南省 - 楚雄 - 永仁县</key>
+	<integer>3144</integer>
+	<key>云南省 - 楚雄 - 牟定县</key>
+	<integer>3140</integer>
+	<key>云南省 - 楚雄 - 禄丰县</key>
+	<integer>3147</integer>
+	<key>云南省 - 玉溪 - 元江</key>
+	<integer>3217</integer>
+	<key>云南省 - 玉溪 - 华宁县</key>
+	<integer>3213</integer>
+	<key>云南省 - 玉溪 - 峨山</key>
+	<integer>3215</integer>
+	<key>云南省 - 玉溪 - 新平</key>
+	<integer>3216</integer>
+	<key>云南省 - 玉溪 - 易门县</key>
+	<integer>3214</integer>
+	<key>云南省 - 玉溪 - 江川县</key>
+	<integer>3210</integer>
+	<key>云南省 - 玉溪 - 澄江县</key>
+	<integer>3211</integer>
+	<key>云南省 - 玉溪 - 红塔区</key>
+	<integer>3209</integer>
+	<key>云南省 - 玉溪 - 通海县</key>
+	<integer>3212</integer>
+	<key>云南省 - 红河 - 个旧市</key>
+	<integer>3170</integer>
+	<key>云南省 - 红河 - 元阳县</key>
+	<integer>3176</integer>
+	<key>云南省 - 红河 - 屏边</key>
+	<integer>3180</integer>
+	<key>云南省 - 红河 - 建水县</key>
+	<integer>3173</integer>
+	<key>云南省 - 红河 - 开远市</key>
+	<integer>3171</integer>
+	<key>云南省 - 红河 - 弥勒县</key>
+	<integer>3175</integer>
+	<key>云南省 - 红河 - 河口</key>
+	<integer>3179</integer>
+	<key>云南省 - 红河 - 泸西县</key>
+	<integer>3168</integer>
+	<key>云南省 - 红河 - 石屏县</key>
+	<integer>3174</integer>
+	<key>云南省 - 红河 - 红河县</key>
+	<integer>3177</integer>
+	<key>云南省 - 红河 - 绿春县</key>
+	<integer>3172</integer>
+	<key>云南省 - 红河 - 蒙自县</key>
+	<integer>3169</integer>
+	<key>云南省 - 红河 - 金平</key>
+	<integer>3178</integer>
+	<key>云南省 - 西双版纳 - 勐海县</key>
+	<integer>3207</integer>
+	<key>云南省 - 西双版纳 - 勐腊县</key>
+	<integer>3208</integer>
+	<key>云南省 - 西双版纳 - 景洪市</key>
+	<integer>3206</integer>
+	<key>云南省 - 迪庆 - 德钦县</key>
+	<integer>3166</integer>
+	<key>云南省 - 迪庆 - 维西</key>
+	<integer>3167</integer>
+	<key>云南省 - 迪庆 - 香格里拉县</key>
+	<integer>3165</integer>
+	<key>内蒙古 - 乌兰察布市 - 丰镇市</key>
+	<integer>2236</integer>
+	<key>内蒙古 - 乌兰察布市 - 兴和县</key>
+	<integer>2239</integer>
+	<key>内蒙古 - 乌兰察布市 - 凉城县</key>
+	<integer>2240</integer>
+	<key>内蒙古 - 乌兰察布市 - 化德县</key>
+	<integer>2234</integer>
+	<key>内蒙古 - 乌兰察布市 - 卓资县</key>
+	<integer>2237</integer>
+	<key>内蒙古 - 乌兰察布市 - 商都县</key>
+	<integer>2238</integer>
+	<key>内蒙古 - 乌兰察布市 - 四子王旗</key>
+	<integer>2244</integer>
+	<key>内蒙古 - 乌兰察布市 - 察哈尔右翼中旗</key>
+	<integer>2242</integer>
+	<key>内蒙古 - 乌兰察布市 - 察哈尔右翼前旗</key>
+	<integer>2241</integer>
+	<key>内蒙古 - 乌兰察布市 - 察哈尔右翼后旗</key>
+	<integer>2243</integer>
+	<key>内蒙古 - 乌兰察布市 - 集宁区</key>
+	<integer>2235</integer>
+	<key>内蒙古 - 乌海 - 乌达区</key>
+	<integer>2232</integer>
+	<key>内蒙古 - 乌海 - 海勃湾区</key>
+	<integer>2231</integer>
+	<key>内蒙古 - 乌海 - 海南区</key>
+	<integer>2233</integer>
+	<key>内蒙古 - 兴安盟 - 乌兰浩特市</key>
+	<integer>2257</integer>
+	<key>内蒙古 - 兴安盟 - 扎赉特旗</key>
+	<integer>2261</integer>
+	<key>内蒙古 - 兴安盟 - 科尔沁右翼中旗</key>
+	<integer>2260</integer>
+	<key>内蒙古 - 兴安盟 - 科尔沁右翼前旗</key>
+	<integer>2259</integer>
+	<key>内蒙古 - 兴安盟 - 突泉县</key>
+	<integer>2262</integer>
+	<key>内蒙古 - 兴安盟 - 阿尔山市</key>
+	<integer>2258</integer>
+	<key>内蒙古 - 包头 - 东河区</key>
+	<integer>2183</integer>
+	<key>内蒙古 - 包头 - 九原区</key>
+	<integer>2184</integer>
+	<key>内蒙古 - 包头 - 固阳县</key>
+	<integer>2188</integer>
+	<key>内蒙古 - 包头 - 土默特右旗</key>
+	<integer>2187</integer>
+	<key>内蒙古 - 包头 - 昆都仑区</key>
+	<integer>2181</integer>
+	<key>内蒙古 - 包头 - 白云矿区</key>
+	<integer>2186</integer>
+	<key>内蒙古 - 包头 - 石拐区</key>
+	<integer>2185</integer>
+	<key>内蒙古 - 包头 - 达尔罕茂明安联合旗</key>
+	<integer>2189</integer>
+	<key>内蒙古 - 包头 - 青山区</key>
+	<integer>2182</integer>
+	<key>内蒙古 - 呼伦贝尔 - 扎兰屯市</key>
+	<integer>2214</integer>
+	<key>内蒙古 - 呼伦贝尔 - 新巴尔虎右旗</key>
+	<integer>2222</integer>
+	<key>内蒙古 - 呼伦贝尔 - 新巴尔虎左旗</key>
+	<integer>2221</integer>
+	<key>内蒙古 - 呼伦贝尔 - 根河市</key>
+	<integer>2216</integer>
+	<key>内蒙古 - 呼伦贝尔 - 海拉尔区</key>
+	<integer>2210</integer>
+	<key>内蒙古 - 呼伦贝尔 - 满洲里市</key>
+	<integer>2212</integer>
+	<key>内蒙古 - 呼伦贝尔 - 牙克石市</key>
+	<integer>2213</integer>
+	<key>内蒙古 - 呼伦贝尔 - 莫力达瓦</key>
+	<integer>2211</integer>
+	<key>内蒙古 - 呼伦贝尔 - 鄂伦春自治旗</key>
+	<integer>2218</integer>
+	<key>内蒙古 - 呼伦贝尔 - 鄂温克族自治旗</key>
+	<integer>2219</integer>
+	<key>内蒙古 - 呼伦贝尔 - 阿荣旗</key>
+	<integer>2217</integer>
+	<key>内蒙古 - 呼伦贝尔 - 陈巴尔虎旗</key>
+	<integer>2220</integer>
+	<key>内蒙古 - 呼伦贝尔 - 额尔古纳市</key>
+	<integer>2215</integer>
+	<key>内蒙古 - 呼和浩特 - 和林格尔县</key>
+	<integer>2169</integer>
+	<key>内蒙古 - 呼和浩特 - 回民区</key>
+	<integer>2162</integer>
+	<key>内蒙古 - 呼和浩特 - 土默特左旗</key>
+	<integer>2167</integer>
+	<key>内蒙古 - 呼和浩特 - 托克托县</key>
+	<integer>2168</integer>
+	<key>内蒙古 - 呼和浩特 - 新城区</key>
+	<integer>2164</integer>
+	<key>内蒙古 - 呼和浩特 - 武川县</key>
+	<integer>2170</integer>
+	<key>内蒙古 - 呼和浩特 - 清水河县</key>
+	<integer>2166</integer>
+	<key>内蒙古 - 呼和浩特 - 玉泉区</key>
+	<integer>2163</integer>
+	<key>内蒙古 - 呼和浩特 - 赛罕区</key>
+	<integer>2165</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 临河区</key>
+	<integer>2174</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 乌拉特中旗</key>
+	<integer>2178</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 乌拉特前旗</key>
+	<integer>2177</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 乌拉特后旗</key>
+	<integer>2179</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 五原县</key>
+	<integer>2175</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 杭锦后旗</key>
+	<integer>2180</integer>
+	<key>内蒙古 - 巴彦淖尔盟 - 磴口县</key>
+	<integer>2176</integer>
+	<key>内蒙古 - 赤峰 - 元宝山区</key>
+	<integer>2191</integer>
+	<key>内蒙古 - 赤峰 - 克什克腾旗</key>
+	<integer>2197</integer>
+	<key>内蒙古 - 赤峰 - 喀喇沁旗</key>
+	<integer>2199</integer>
+	<key>内蒙古 - 赤峰 - 宁城县</key>
+	<integer>2200</integer>
+	<key>内蒙古 - 赤峰 - 巴林右旗</key>
+	<integer>2195</integer>
+	<key>内蒙古 - 赤峰 - 巴林左旗</key>
+	<integer>2194</integer>
+	<key>内蒙古 - 赤峰 - 敖汉旗</key>
+	<integer>2201</integer>
+	<key>内蒙古 - 赤峰 - 松山区</key>
+	<integer>2192</integer>
+	<key>内蒙古 - 赤峰 - 林西县</key>
+	<integer>2196</integer>
+	<key>内蒙古 - 赤峰 - 红山区</key>
+	<integer>2190</integer>
+	<key>内蒙古 - 赤峰 - 翁牛特旗</key>
+	<integer>2198</integer>
+	<key>内蒙古 - 赤峰 - 阿鲁科尔沁旗</key>
+	<integer>2193</integer>
+	<key>内蒙古 - 通辽 - 奈曼旗</key>
+	<integer>2229</integer>
+	<key>内蒙古 - 通辽 - 库伦旗</key>
+	<integer>2228</integer>
+	<key>内蒙古 - 通辽 - 开鲁县</key>
+	<integer>2227</integer>
+	<key>内蒙古 - 通辽 - 扎鲁特旗</key>
+	<integer>2230</integer>
+	<key>内蒙古 - 通辽 - 科尔沁区</key>
+	<integer>2223</integer>
+	<key>内蒙古 - 通辽 - 科尔沁左翼中旗</key>
+	<integer>2225</integer>
+	<key>内蒙古 - 通辽 - 科尔沁左翼后旗</key>
+	<integer>2226</integer>
+	<key>内蒙古 - 通辽 - 霍林郭勒市</key>
+	<integer>2224</integer>
+	<key>内蒙古 - 鄂尔多斯 - 东胜区</key>
+	<integer>2202</integer>
+	<key>内蒙古 - 鄂尔多斯 - 乌审旗</key>
+	<integer>2208</integer>
+	<key>内蒙古 - 鄂尔多斯 - 伊金霍洛旗</key>
+	<integer>2209</integer>
+	<key>内蒙古 - 鄂尔多斯 - 准格尔旗</key>
+	<integer>2204</integer>
+	<key>内蒙古 - 鄂尔多斯 - 杭锦旗</key>
+	<integer>2207</integer>
+	<key>内蒙古 - 鄂尔多斯 - 达拉特旗</key>
+	<integer>2203</integer>
+	<key>内蒙古 - 鄂尔多斯 - 鄂托克前旗</key>
+	<integer>2205</integer>
+	<key>内蒙古 - 鄂尔多斯 - 鄂托克旗</key>
+	<integer>2206</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 东乌珠穆沁旗</key>
+	<integer>2250</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 二连浩特市</key>
+	<integer>2245</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 多伦县</key>
+	<integer>2256</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 太仆寺旗</key>
+	<integer>2252</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 正蓝旗</key>
+	<integer>2255</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 正镶白旗</key>
+	<integer>2254</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 苏尼特右旗</key>
+	<integer>2249</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 苏尼特左旗</key>
+	<integer>2248</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 西乌珠穆沁旗</key>
+	<integer>2251</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 锡林浩特市</key>
+	<integer>2246</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 镶黄旗</key>
+	<integer>2253</integer>
+	<key>内蒙古 - 锡林郭勒盟 - 阿巴嘎旗</key>
+	<integer>2247</integer>
+	<key>内蒙古 - 阿拉善盟 - 阿拉善右旗</key>
+	<integer>2172</integer>
+	<key>内蒙古 - 阿拉善盟 - 阿拉善左旗</key>
+	<integer>2171</integer>
+	<key>内蒙古 - 阿拉善盟 - 额济纳旗</key>
+	<integer>2173</integer>
+	<key>北京市 - 北京市 - 东城区</key>
+	<integer>500</integer>
+	<key>北京市 - 北京市 - 丰台区</key>
+	<integer>506</integer>
+	<key>北京市 - 北京市 - 大兴区</key>
+	<integer>515</integer>
+	<key>北京市 - 北京市 - 宣武区</key>
+	<integer>505</integer>
+	<key>北京市 - 北京市 - 密云县</key>
+	<integer>516</integer>
+	<key>北京市 - 北京市 - 崇文区</key>
+	<integer>504</integer>
+	<key>北京市 - 北京市 - 平谷区</key>
+	<integer>514</integer>
+	<key>北京市 - 北京市 - 延庆县</key>
+	<integer>517</integer>
+	<key>北京市 - 北京市 - 怀柔区</key>
+	<integer>513</integer>
+	<key>北京市 - 北京市 - 房山区</key>
+	<integer>508</integer>
+	<key>北京市 - 北京市 - 昌平区</key>
+	<integer>512</integer>
+	<key>北京市 - 北京市 - 朝阳区</key>
+	<integer>503</integer>
+	<key>北京市 - 北京市 - 海淀区</key>
+	<integer>502</integer>
+	<key>北京市 - 北京市 - 石景山区</key>
+	<integer>507</integer>
+	<key>北京市 - 北京市 - 西城区</key>
+	<integer>501</integer>
+	<key>北京市 - 北京市 - 通州区</key>
+	<integer>510</integer>
+	<key>北京市 - 北京市 - 门头沟区</key>
+	<integer>509</integer>
+	<key>北京市 - 北京市 - 顺义区</key>
+	<integer>511</integer>
+	<key>台湾 - 台湾 - 云林县</key>
+	<integer>3396</integer>
+	<key>台湾 - 台湾 - 南投县</key>
+	<integer>3395</integer>
+	<key>台湾 - 台湾 - 台东县</key>
+	<integer>3398</integer>
+	<key>台湾 - 台湾 - 台中</key>
+	<integer>3387</integer>
+	<key>台湾 - 台湾 - 台北</key>
+	<integer>3384</integer>
+	<key>台湾 - 台湾 - 台南</key>
+	<integer>3388</integer>
+	<key>台湾 - 台湾 - 嘉义</key>
+	<integer>3390</integer>
+	<key>台湾 - 台湾 - 基隆</key>
+	<integer>3386</integer>
+	<key>台湾 - 台湾 - 宜兰县</key>
+	<integer>3391</integer>
+	<key>台湾 - 台湾 - 屏东县</key>
+	<integer>3397</integer>
+	<key>台湾 - 台湾 - 彰化县</key>
+	<integer>3394</integer>
+	<key>台湾 - 台湾 - 新竹</key>
+	<integer>3389</integer>
+	<key>台湾 - 台湾 - 桃园县</key>
+	<integer>3392</integer>
+	<key>台湾 - 台湾 - 澎湖县</key>
+	<integer>3400</integer>
+	<key>台湾 - 台湾 - 花莲县</key>
+	<integer>3399</integer>
+	<key>台湾 - 台湾 - 苗栗县</key>
+	<integer>3393</integer>
+	<key>台湾 - 台湾 - 高雄</key>
+	<integer>3385</integer>
+	<key>吉林省 - 吉林 - 丰满区</key>
+	<integer>1787</integer>
+	<key>吉林省 - 吉林 - 昌邑区</key>
+	<integer>1785</integer>
+	<key>吉林省 - 吉林 - 桦甸市</key>
+	<integer>1789</integer>
+	<key>吉林省 - 吉林 - 永吉县</key>
+	<integer>1792</integer>
+	<key>吉林省 - 吉林 - 磐石市</key>
+	<integer>1791</integer>
+	<key>吉林省 - 吉林 - 舒兰市</key>
+	<integer>1790</integer>
+	<key>吉林省 - 吉林 - 船营区</key>
+	<integer>1784</integer>
+	<key>吉林省 - 吉林 - 蛟河市</key>
+	<integer>1788</integer>
+	<key>吉林省 - 吉林 - 龙潭区</key>
+	<integer>1786</integer>
+	<key>吉林省 - 四平 - 伊通</key>
+	<integer>1810</integer>
+	<key>吉林省 - 四平 - 公主岭市</key>
+	<integer>1811</integer>
+	<key>吉林省 - 四平 - 双辽市</key>
+	<integer>1812</integer>
+	<key>吉林省 - 四平 - 梨树县</key>
+	<integer>1813</integer>
+	<key>吉林省 - 四平 - 铁东区</key>
+	<integer>1809</integer>
+	<key>吉林省 - 四平 - 铁西区</key>
+	<integer>1808</integer>
+	<key>吉林省 - 延边 - 和龙市</key>
+	<integer>1831</integer>
+	<key>吉林省 - 延边 - 图们市</key>
+	<integer>1827</integer>
+	<key>吉林省 - 延边 - 安图县</key>
+	<integer>1832</integer>
+	<key>吉林省 - 延边 - 延吉市</key>
+	<integer>1826</integer>
+	<key>吉林省 - 延边 - 敦化市</key>
+	<integer>1828</integer>
+	<key>吉林省 - 延边 - 汪清县</key>
+	<integer>1833</integer>
+	<key>吉林省 - 延边 - 珲春市</key>
+	<integer>1829</integer>
+	<key>吉林省 - 延边 - 龙井市</key>
+	<integer>1830</integer>
+	<key>吉林省 - 松原 - 乾安县</key>
+	<integer>1817</integer>
+	<key>吉林省 - 松原 - 前郭尔罗斯</key>
+	<integer>1814</integer>
+	<key>吉林省 - 松原 - 宁江区</key>
+	<integer>1815</integer>
+	<key>吉林省 - 松原 - 扶余县</key>
+	<integer>1818</integer>
+	<key>吉林省 - 松原 - 长岭县</key>
+	<integer>1816</integer>
+	<key>吉林省 - 白城 - 大安市</key>
+	<integer>1795</integer>
+	<key>吉林省 - 白城 - 洮北区</key>
+	<integer>1793</integer>
+	<key>吉林省 - 白城 - 洮南市</key>
+	<integer>1794</integer>
+	<key>吉林省 - 白城 - 通榆县</key>
+	<integer>1797</integer>
+	<key>吉林省 - 白城 - 镇赉县</key>
+	<integer>1796</integer>
+	<key>吉林省 - 白山 - 临江市</key>
+	<integer>1801</integer>
+	<key>吉林省 - 白山 - 八道江区</key>
+	<integer>1799</integer>
+	<key>吉林省 - 白山 - 抚松县</key>
+	<integer>1802</integer>
+	<key>吉林省 - 白山 - 江源区</key>
+	<integer>1798</integer>
+	<key>吉林省 - 白山 - 长白</key>
+	<integer>1800</integer>
+	<key>吉林省 - 白山 - 靖宇县</key>
+	<integer>1803</integer>
+	<key>吉林省 - 辽源 - 东丰县</key>
+	<integer>1806</integer>
+	<key>吉林省 - 辽源 - 东辽县</key>
+	<integer>1807</integer>
+	<key>吉林省 - 辽源 - 西安区</key>
+	<integer>1805</integer>
+	<key>吉林省 - 辽源 - 龙山区</key>
+	<integer>1804</integer>
+	<key>吉林省 - 通化 - 东昌区</key>
+	<integer>1819</integer>
+	<key>吉林省 - 通化 - 二道江区</key>
+	<integer>1820</integer>
+	<key>吉林省 - 通化 - 柳河县</key>
+	<integer>1825</integer>
+	<key>吉林省 - 通化 - 梅河口市</key>
+	<integer>1821</integer>
+	<key>吉林省 - 通化 - 辉南县</key>
+	<integer>1824</integer>
+	<key>吉林省 - 通化 - 通化县</key>
+	<integer>1823</integer>
+	<key>吉林省 - 通化 - 集安市</key>
+	<integer>1822</integer>
+	<key>吉林省 - 长春 - 九台市</key>
+	<integer>1781</integer>
+	<key>吉林省 - 长春 - 二道区</key>
+	<integer>1772</integer>
+	<key>吉林省 - 长春 - 农安县</key>
+	<integer>1783</integer>
+	<key>吉林省 - 长春 - 净月潭开发区</key>
+	<integer>1776</integer>
+	<key>吉林省 - 长春 - 南关区</key>
+	<integer>1773</integer>
+	<key>吉林省 - 长春 - 双阳区</key>
+	<integer>1775</integer>
+	<key>吉林省 - 长春 - 宽城区</key>
+	<integer>1771</integer>
+	<key>吉林省 - 长春 - 德惠市</key>
+	<integer>1780</integer>
+	<key>吉林省 - 长春 - 朝阳区</key>
+	<integer>1770</integer>
+	<key>吉林省 - 长春 - 榆树市</key>
+	<integer>1782</integer>
+	<key>吉林省 - 长春 - 汽车产业开发区</key>
+	<integer>1779</integer>
+	<key>吉林省 - 长春 - 经济技术开发区</key>
+	<integer>1778</integer>
+	<key>吉林省 - 长春 - 绿园区</key>
+	<integer>1774</integer>
+	<key>吉林省 - 长春 - 高新技术开发区</key>
+	<integer>1777</integer>
+	<key>四川省 - 乐山 - 乐山市</key>
+	<integer>2823</integer>
+	<key>四川省 - 乐山 - 井研县</key>
+	<integer>2825</integer>
+	<key>四川省 - 乐山 - 夹江县</key>
+	<integer>2826</integer>
+	<key>四川省 - 乐山 - 峨眉山市</key>
+	<integer>2822</integer>
+	<key>四川省 - 乐山 - 峨边</key>
+	<integer>2828</integer>
+	<key>四川省 - 乐山 - 沐川县</key>
+	<integer>2827</integer>
+	<key>四川省 - 乐山 - 犍为县</key>
+	<integer>2824</integer>
+	<key>四川省 - 乐山 - 马边</key>
+	<integer>2829</integer>
+	<key>四川省 - 内江 - 东兴区</key>
+	<integer>2863</integer>
+	<key>四川省 - 内江 - 威远县</key>
+	<integer>2864</integer>
+	<key>四川省 - 内江 - 市中区</key>
+	<integer>2862</integer>
+	<key>四川省 - 内江 - 资中县</key>
+	<integer>2865</integer>
+	<key>四川省 - 内江 - 隆昌县</key>
+	<integer>2866</integer>
+	<key>四川省 - 凉山 - 会东县</key>
+	<integer>2834</integer>
+	<key>四川省 - 凉山 - 会理县</key>
+	<integer>2833</integer>
+	<key>四川省 - 凉山 - 冕宁县</key>
+	<integer>2841</integer>
+	<key>四川省 - 凉山 - 喜德县</key>
+	<integer>2840</integer>
+	<key>四川省 - 凉山 - 宁南县</key>
+	<integer>2835</integer>
+	<key>四川省 - 凉山 - 布拖县</key>
+	<integer>2837</integer>
+	<key>四川省 - 凉山 - 德昌县</key>
+	<integer>2832</integer>
+	<key>四川省 - 凉山 - 昭觉县</key>
+	<integer>2839</integer>
+	<key>四川省 - 凉山 - 普格县</key>
+	<integer>2836</integer>
+	<key>四川省 - 凉山 - 木里</key>
+	<integer>2846</integer>
+	<key>四川省 - 凉山 - 甘洛县</key>
+	<integer>2843</integer>
+	<key>四川省 - 凉山 - 盐源县</key>
+	<integer>2831</integer>
+	<key>四川省 - 凉山 - 美姑县</key>
+	<integer>2844</integer>
+	<key>四川省 - 凉山 - 西昌市</key>
+	<integer>2830</integer>
+	<key>四川省 - 凉山 - 越西县</key>
+	<integer>2842</integer>
+	<key>四川省 - 凉山 - 金阳县</key>
+	<integer>2838</integer>
+	<key>四川省 - 凉山 - 雷波县</key>
+	<integer>2845</integer>
+	<key>四川省 - 南充 - 仪陇县</key>
+	<integer>2857</integer>
+	<key>四川省 - 南充 - 南部县</key>
+	<integer>2854</integer>
+	<key>四川省 - 南充 - 嘉陵区</key>
+	<integer>2860</integer>
+	<key>四川省 - 南充 - 营山县</key>
+	<integer>2855</integer>
+	<key>四川省 - 南充 - 蓬安县</key>
+	<integer>2856</integer>
+	<key>四川省 - 南充 - 西充县</key>
+	<integer>2861</integer>
+	<key>四川省 - 南充 - 阆中市</key>
+	<integer>2853</integer>
+	<key>四川省 - 南充 - 顺庆区</key>
+	<integer>2858</integer>
+	<key>四川省 - 南充 - 高坪区</key>
+	<integer>2859</integer>
+	<key>四川省 - 宜宾 - 兴文县</key>
+	<integer>2893</integer>
+	<key>四川省 - 宜宾 - 南溪县</key>
+	<integer>2887</integer>
+	<key>四川省 - 宜宾 - 宜宾县</key>
+	<integer>2886</integer>
+	<key>四川省 - 宜宾 - 屏山县</key>
+	<integer>2894</integer>
+	<key>四川省 - 宜宾 - 江安县</key>
+	<integer>2888</integer>
+	<key>四川省 - 宜宾 - 珙县</key>
+	<integer>2891</integer>
+	<key>四川省 - 宜宾 - 筠连县</key>
+	<integer>2892</integer>
+	<key>四川省 - 宜宾 - 翠屏区</key>
+	<integer>2885</integer>
+	<key>四川省 - 宜宾 - 长宁县</key>
+	<integer>2889</integer>
+	<key>四川省 - 宜宾 - 高县</key>
+	<integer>2890</integer>
+	<key>四川省 - 巴中 - 南江县</key>
+	<integer>2777</integer>
+	<key>四川省 - 巴中 - 巴州区</key>
+	<integer>2775</integer>
+	<key>四川省 - 巴中 - 平昌县</key>
+	<integer>2778</integer>
+	<key>四川省 - 巴中 - 通江县</key>
+	<integer>2776</integer>
+	<key>四川省 - 广元 - 元坝区</key>
+	<integer>2816</integer>
+	<key>四川省 - 广元 - 利州区</key>
+	<integer>2815</integer>
+	<key>四川省 - 广元 - 剑阁县</key>
+	<integer>2820</integer>
+	<key>四川省 - 广元 - 旺苍县</key>
+	<integer>2818</integer>
+	<key>四川省 - 广元 - 朝天区</key>
+	<integer>2817</integer>
+	<key>四川省 - 广元 - 苍溪县</key>
+	<integer>2821</integer>
+	<key>四川省 - 广元 - 青川县</key>
+	<integer>2819</integer>
+	<key>四川省 - 广安 - 华蓥市</key>
+	<integer>2811</integer>
+	<key>四川省 - 广安 - 岳池县</key>
+	<integer>2812</integer>
+	<key>四川省 - 广安 - 广安区</key>
+	<integer>2810</integer>
+	<key>四川省 - 广安 - 武胜县</key>
+	<integer>2813</integer>
+	<key>四川省 - 广安 - 邻水县</key>
+	<integer>2814</integer>
+	<key>四川省 - 德阳 - 中江县</key>
+	<integer>2791</integer>
+	<key>四川省 - 德阳 - 什邡市</key>
+	<integer>2788</integer>
+	<key>四川省 - 德阳 - 广汉市</key>
+	<integer>2787</integer>
+	<key>四川省 - 德阳 - 旌阳区</key>
+	<integer>2786</integer>
+	<key>四川省 - 德阳 - 绵竹市</key>
+	<integer>2789</integer>
+	<key>四川省 - 德阳 - 罗江县</key>
+	<integer>2790</integer>
+	<key>四川省 - 成都 - 双流县</key>
+	<integer>2748</integer>
+	<key>四川省 - 成都 - 大邑县</key>
+	<integer>2750</integer>
+	<key>四川省 - 成都 - 崇州市</key>
+	<integer>2746</integer>
+	<key>四川省 - 成都 - 彭州市</key>
+	<integer>2744</integer>
+	<key>四川省 - 成都 - 成华区</key>
+	<integer>2726</integer>
+	<key>四川省 - 成都 - 新津县</key>
+	<integer>2752</integer>
+	<key>四川省 - 成都 - 新都区</key>
+	<integer>2729</integer>
+	<key>四川省 - 成都 - 武侯区</key>
+	<integer>2725</integer>
+	<key>四川省 - 成都 - 温江区</key>
+	<integer>2730</integer>
+	<key>四川省 - 成都 - 蒲江县</key>
+	<integer>2751</integer>
+	<key>四川省 - 成都 - 邛崃市</key>
+	<integer>2745</integer>
+	<key>四川省 - 成都 - 郫县</key>
+	<integer>2749</integer>
+	<key>四川省 - 成都 - 都江堰市</key>
+	<integer>2743</integer>
+	<key>四川省 - 成都 - 金堂县</key>
+	<integer>2747</integer>
+	<key>四川省 - 成都 - 金牛区</key>
+	<integer>2724</integer>
+	<key>四川省 - 成都 - 锦江区</key>
+	<integer>2723</integer>
+	<key>四川省 - 成都 - 青白江区</key>
+	<integer>2728</integer>
+	<key>四川省 - 成都 - 青羊区</key>
+	<integer>2722</integer>
+	<key>四川省 - 成都 - 高新区</key>
+	<integer>2731</integer>
+	<key>四川省 - 成都 - 高新西区</key>
+	<integer>2732</integer>
+	<key>四川省 - 成都 - 龙泉驿区</key>
+	<integer>2727</integer>
+	<key>四川省 - 攀枝花 - 东  区</key>
+	<integer>2867</integer>
+	<key>四川省 - 攀枝花 - 仁和区</key>
+	<integer>2869</integer>
+	<key>四川省 - 攀枝花 - 盐边县</key>
+	<integer>2871</integer>
+	<key>四川省 - 攀枝花 - 米易县</key>
+	<integer>2870</integer>
+	<key>四川省 - 攀枝花 - 西  区</key>
+	<integer>2868</integer>
+	<key>四川省 - 泸州 - 叙永县</key>
+	<integer>2910</integer>
+	<key>四川省 - 泸州 - 古蔺县</key>
+	<integer>2911</integer>
+	<key>四川省 - 泸州 - 合江县</key>
+	<integer>2909</integer>
+	<key>四川省 - 泸州 - 江阳区</key>
+	<integer>2905</integer>
+	<key>四川省 - 泸州 - 泸县</key>
+	<integer>2908</integer>
+	<key>四川省 - 泸州 - 纳溪区</key>
+	<integer>2906</integer>
+	<key>四川省 - 泸州 - 龙马潭区</key>
+	<integer>2907</integer>
+	<key>四川省 - 甘孜 - 丹巴县</key>
+	<integer>2793</integer>
+	<key>四川省 - 甘孜 - 九龙县</key>
+	<integer>2796</integer>
+	<key>四川省 - 甘孜 - 乡城县</key>
+	<integer>2804</integer>
+	<key>四川省 - 甘孜 - 巴塘县</key>
+	<integer>2808</integer>
+	<key>四川省 - 甘孜 - 康定县</key>
+	<integer>2792</integer>
+	<key>四川省 - 甘孜 - 得荣县</key>
+	<integer>2809</integer>
+	<key>四川省 - 甘孜 - 德格县</key>
+	<integer>2803</integer>
+	<key>四川省 - 甘孜 - 新龙县</key>
+	<integer>2799</integer>
+	<key>四川省 - 甘孜 - 泸定县</key>
+	<integer>2794</integer>
+	<key>四川省 - 甘孜 - 炉霍县</key>
+	<integer>2795</integer>
+	<key>四川省 - 甘孜 - 理塘县</key>
+	<integer>2802</integer>
+	<key>四川省 - 甘孜 - 甘孜县</key>
+	<integer>2797</integer>
+	<key>四川省 - 甘孜 - 白玉县</key>
+	<integer>2801</integer>
+	<key>四川省 - 甘孜 - 石渠县</key>
+	<integer>2805</integer>
+	<key>四川省 - 甘孜 - 稻城县</key>
+	<integer>2806</integer>
+	<key>四川省 - 甘孜 - 色达县</key>
+	<integer>2807</integer>
+	<key>四川省 - 甘孜 - 道孚县</key>
+	<integer>2800</integer>
+	<key>四川省 - 甘孜 - 雅江县</key>
+	<integer>2798</integer>
+	<key>四川省 - 眉山 - 东坡区</key>
+	<integer>2847</integer>
+	<key>四川省 - 眉山 - 丹棱县</key>
+	<integer>2851</integer>
+	<key>四川省 - 眉山 - 仁寿县</key>
+	<integer>2848</integer>
+	<key>四川省 - 眉山 - 彭山县</key>
+	<integer>2849</integer>
+	<key>四川省 - 眉山 - 洪雅县</key>
+	<integer>2850</integer>
+	<key>四川省 - 眉山 - 青神县</key>
+	<integer>2852</integer>
+	<key>四川省 - 绵阳 - 三台县</key>
+	<integer>2757</integer>
+	<key>四川省 - 绵阳 - 北川县</key>
+	<integer>2761</integer>
+	<key>四川省 - 绵阳 - 安县</key>
+	<integer>2759</integer>
+	<key>四川省 - 绵阳 - 平武县</key>
+	<integer>2758</integer>
+	<key>四川省 - 绵阳 - 梓潼县</key>
+	<integer>2760</integer>
+	<key>四川省 - 绵阳 - 江油市</key>
+	<integer>2755</integer>
+	<key>四川省 - 绵阳 - 涪城区</key>
+	<integer>2753</integer>
+	<key>四川省 - 绵阳 - 游仙区</key>
+	<integer>2754</integer>
+	<key>四川省 - 绵阳 - 盐亭县</key>
+	<integer>2756</integer>
+	<key>四川省 - 自贡 - 大安区</key>
+	<integer>2899</integer>
+	<key>四川省 - 自贡 - 富顺县</key>
+	<integer>2904</integer>
+	<key>四川省 - 自贡 - 沿滩区</key>
+	<integer>2902</integer>
+	<key>四川省 - 自贡 - 自流井区</key>
+	<integer>2900</integer>
+	<key>四川省 - 自贡 - 荣县</key>
+	<integer>2903</integer>
+	<key>四川省 - 自贡 - 贡井区</key>
+	<integer>2901</integer>
+	<key>四川省 - 资阳 - 乐至县</key>
+	<integer>2898</integer>
+	<key>四川省 - 资阳 - 安岳县</key>
+	<integer>2897</integer>
+	<key>四川省 - 资阳 - 简阳市</key>
+	<integer>2896</integer>
+	<key>四川省 - 资阳 - 雁江区</key>
+	<integer>2895</integer>
+	<key>四川省 - 达州 - 万源市</key>
+	<integer>2780</integer>
+	<key>四川省 - 达州 - 大竹县</key>
+	<integer>2784</integer>
+	<key>四川省 - 达州 - 宣汉县</key>
+	<integer>2782</integer>
+	<key>四川省 - 达州 - 开江县</key>
+	<integer>2783</integer>
+	<key>四川省 - 达州 - 渠县</key>
+	<integer>2785</integer>
+	<key>四川省 - 达州 - 达县</key>
+	<integer>2781</integer>
+	<key>四川省 - 达州 - 通川区</key>
+	<integer>2779</integer>
+	<key>四川省 - 遂宁 - 大英县</key>
+	<integer>2876</integer>
+	<key>四川省 - 遂宁 - 安居区</key>
+	<integer>2873</integer>
+	<key>四川省 - 遂宁 - 射洪县</key>
+	<integer>2875</integer>
+	<key>四川省 - 遂宁 - 船山区</key>
+	<integer>2872</integer>
+	<key>四川省 - 遂宁 - 蓬溪县</key>
+	<integer>2874</integer>
+	<key>四川省 - 阿坝 - 九寨沟县</key>
+	<integer>2767</integer>
+	<key>四川省 - 阿坝 - 壤塘县</key>
+	<integer>2771</integer>
+	<key>四川省 - 阿坝 - 小金县</key>
+	<integer>2769</integer>
+	<key>四川省 - 阿坝 - 松潘县</key>
+	<integer>2766</integer>
+	<key>四川省 - 阿坝 - 汶川县</key>
+	<integer>2763</integer>
+	<key>四川省 - 阿坝 - 理县</key>
+	<integer>2764</integer>
+	<key>四川省 - 阿坝 - 红原县</key>
+	<integer>2774</integer>
+	<key>四川省 - 阿坝 - 若尔盖县</key>
+	<integer>2773</integer>
+	<key>四川省 - 阿坝 - 茂县</key>
+	<integer>2765</integer>
+	<key>四川省 - 阿坝 - 金川县</key>
+	<integer>2768</integer>
+	<key>四川省 - 阿坝 - 阿坝县</key>
+	<integer>2772</integer>
+	<key>四川省 - 阿坝 - 马尔康县</key>
+	<integer>2762</integer>
+	<key>四川省 - 阿坝 - 黑水县</key>
+	<integer>2770</integer>
+	<key>四川省 - 雅安 - 名山县</key>
+	<integer>2878</integer>
+	<key>四川省 - 雅安 - 天全县</key>
+	<integer>2882</integer>
+	<key>四川省 - 雅安 - 宝兴县</key>
+	<integer>2884</integer>
+	<key>四川省 - 雅安 - 汉源县</key>
+	<integer>2880</integer>
+	<key>四川省 - 雅安 - 石棉县</key>
+	<integer>2881</integer>
+	<key>四川省 - 雅安 - 芦山县</key>
+	<integer>2883</integer>
+	<key>四川省 - 雅安 - 荥经县</key>
+	<integer>2879</integer>
+	<key>四川省 - 雅安 - 雨城区</key>
+	<integer>2877</integer>
+	<key>天津市 - 天津 - 东丽区</key>
+	<integer>2918</integer>
+	<key>天津市 - 天津 - 北辰区</key>
+	<integer>2921</integer>
+	<key>天津市 - 天津 - 南开区</key>
+	<integer>2914</integer>
+	<key>天津市 - 天津 - 和平区</key>
+	<integer>2912</integer>
+	<key>天津市 - 天津 - 塘沽区</key>
+	<integer>2922</integer>
+	<key>天津市 - 天津 - 大港区</key>
+	<integer>2924</integer>
+	<key>天津市 - 天津 - 宁河县</key>
+	<integer>2928</integer>
+	<key>天津市 - 天津 - 宝坻区</key>
+	<integer>2926</integer>
+	<key>天津市 - 天津 - 武清区</key>
+	<integer>2925</integer>
+	<key>天津市 - 天津 - 汉沽区</key>
+	<integer>2923</integer>
+	<key>天津市 - 天津 - 河东区</key>
+	<integer>2916</integer>
+	<key>天津市 - 天津 - 河北区</key>
+	<integer>2915</integer>
+	<key>天津市 - 天津 - 河西区</key>
+	<integer>2913</integer>
+	<key>天津市 - 天津 - 津南区</key>
+	<integer>2919</integer>
+	<key>天津市 - 天津 - 红桥区</key>
+	<integer>2917</integer>
+	<key>天津市 - 天津 - 经济开发区</key>
+	<integer>2927</integer>
+	<key>天津市 - 天津 - 蓟县</key>
+	<integer>2930</integer>
+	<key>天津市 - 天津 - 西青区</key>
+	<integer>2920</integer>
+	<key>天津市 - 天津 - 静海县</key>
+	<integer>2929</integer>
+	<key>宁夏省 - 中卫 - 中宁县</key>
+	<integer>2288</integer>
+	<key>宁夏省 - 中卫 - 沙坡头区</key>
+	<integer>2286</integer>
+	<key>宁夏省 - 中卫 - 海原县</key>
+	<integer>2287</integer>
+	<key>宁夏省 - 吴忠 - 中卫县</key>
+	<integer>2281</integer>
+	<key>宁夏省 - 吴忠 - 中宁县</key>
+	<integer>2283</integer>
+	<key>宁夏省 - 吴忠 - 利通区</key>
+	<integer>2280</integer>
+	<key>宁夏省 - 吴忠 - 同心县</key>
+	<integer>2285</integer>
+	<key>宁夏省 - 吴忠 - 盐池县</key>
+	<integer>2284</integer>
+	<key>宁夏省 - 吴忠 - 青铜峡市</key>
+	<integer>2282</integer>
+	<key>宁夏省 - 固原 - 原州区</key>
+	<integer>2269</integer>
+	<key>宁夏省 - 固原 - 彭阳县</key>
+	<integer>2274</integer>
+	<key>宁夏省 - 固原 - 泾源县</key>
+	<integer>2273</integer>
+	<key>宁夏省 - 固原 - 海原县</key>
+	<integer>2270</integer>
+	<key>宁夏省 - 固原 - 西吉县</key>
+	<integer>2271</integer>
+	<key>宁夏省 - 固原 - 隆德县</key>
+	<integer>2272</integer>
+	<key>宁夏省 - 石嘴山 - 大武口区</key>
+	<integer>2276</integer>
+	<key>宁夏省 - 石嘴山 - 平罗县</key>
+	<integer>2279</integer>
+	<key>宁夏省 - 石嘴山 - 惠农区</key>
+	<integer>2277</integer>
+	<key>宁夏省 - 石嘴山 - 惠农县</key>
+	<integer>2275</integer>
+	<key>宁夏省 - 石嘴山 - 陶乐县</key>
+	<integer>2278</integer>
+	<key>宁夏省 - 银川 - 兴庆区</key>
+	<integer>2265</integer>
+	<key>宁夏省 - 银川 - 永宁县</key>
+	<integer>2267</integer>
+	<key>宁夏省 - 银川 - 灵武市</key>
+	<integer>2266</integer>
+	<key>宁夏省 - 银川 - 西夏区</key>
+	<integer>2263</integer>
+	<key>宁夏省 - 银川 - 贺兰县</key>
+	<integer>2268</integer>
+	<key>宁夏省 - 银川 - 金凤区</key>
+	<integer>2264</integer>
+	<key>安徽省 - 亳州 - 利辛县</key>
+	<integer>498</integer>
+	<key>安徽省 - 亳州 - 涡阳县</key>
+	<integer>496</integer>
+	<key>安徽省 - 亳州 - 蒙城县</key>
+	<integer>497</integer>
+	<key>安徽省 - 亳州 - 谯城区</key>
+	<integer>499</integer>
+	<key>安徽省 - 六安 - 寿县</key>
+	<integer>464</integer>
+	<key>安徽省 - 六安 - 舒城县</key>
+	<integer>466</integer>
+	<key>安徽省 - 六安 - 裕安区</key>
+	<integer>463</integer>
+	<key>安徽省 - 六安 - 金安区</key>
+	<integer>462</integer>
+	<key>安徽省 - 六安 - 金寨县</key>
+	<integer>467</integer>
+	<key>安徽省 - 六安 - 霍山县</key>
+	<integer>468</integer>
+	<key>安徽省 - 六安 - 霍邱县</key>
+	<integer>465</integer>
+	<key>安徽省 - 合肥 - 包河区</key>
+	<integer>3405</integer>
+	<key>安徽省 - 合肥 - 庐阳区</key>
+	<integer>3402</integer>
+	<key>安徽省 - 合肥 - 瑶海区</key>
+	<integer>3403</integer>
+	<key>安徽省 - 合肥 - 肥东县</key>
+	<integer>3407</integer>
+	<key>安徽省 - 合肥 - 肥西县</key>
+	<integer>3408</integer>
+	<key>安徽省 - 合肥 - 蜀山区</key>
+	<integer>3404</integer>
+	<key>安徽省 - 合肥 - 长丰县</key>
+	<integer>3406</integer>
+	<key>安徽省 - 安庆 - 大观区</key>
+	<integer>399</integer>
+	<key>安徽省 - 安庆 - 太湖县</key>
+	<integer>405</integer>
+	<key>安徽省 - 安庆 - 宜秀区</key>
+	<integer>400</integer>
+	<key>安徽省 - 安庆 - 宿松县</key>
+	<integer>406</integer>
+	<key>安徽省 - 安庆 - 岳西县</key>
+	<integer>408</integer>
+	<key>安徽省 - 安庆 - 怀宁县</key>
+	<integer>402</integer>
+	<key>安徽省 - 安庆 - 望江县</key>
+	<integer>407</integer>
+	<key>安徽省 - 安庆 - 枞阳县</key>
+	<integer>403</integer>
+	<key>安徽省 - 安庆 - 桐城市</key>
+	<integer>401</integer>
+	<key>安徽省 - 安庆 - 潜山县</key>
+	<integer>404</integer>
+	<key>安徽省 - 安庆 - 迎江区</key>
+	<integer>398</integer>
+	<key>安徽省 - 宣城 - 宁国市</key>
+	<integer>490</integer>
+	<key>安徽省 - 宣城 - 宣州区</key>
+	<integer>489</integer>
+	<key>安徽省 - 宣城 - 广德县</key>
+	<integer>492</integer>
+	<key>安徽省 - 宣城 - 旌德县</key>
+	<integer>495</integer>
+	<key>安徽省 - 宣城 - 泾县</key>
+	<integer>493</integer>
+	<key>安徽省 - 宣城 - 绩溪县</key>
+	<integer>494</integer>
+	<key>安徽省 - 宣城 - 郎溪县</key>
+	<integer>491</integer>
+	<key>安徽省 - 宿州 - 埇桥区</key>
+	<integer>473</integer>
+	<key>安徽省 - 宿州 - 泗县</key>
+	<integer>477</integer>
+	<key>安徽省 - 宿州 - 灵璧县</key>
+	<integer>476</integer>
+	<key>安徽省 - 宿州 - 砀山县</key>
+	<integer>474</integer>
+	<key>安徽省 - 宿州 - 萧县</key>
+	<integer>475</integer>
+	<key>安徽省 - 巢湖 - 含山县</key>
+	<integer>419</integer>
+	<key>安徽省 - 巢湖 - 和县</key>
+	<integer>420</integer>
+	<key>安徽省 - 巢湖 - 居巢区</key>
+	<integer>416</integer>
+	<key>安徽省 - 巢湖 - 庐江县</key>
+	<integer>417</integer>
+	<key>安徽省 - 巢湖 - 无为县</key>
+	<integer>418</integer>
+	<key>安徽省 - 池州 - 东至县</key>
+	<integer>422</integer>
+	<key>安徽省 - 池州 - 石台县</key>
+	<integer>423</integer>
+	<key>安徽省 - 池州 - 贵池区</key>
+	<integer>421</integer>
+	<key>安徽省 - 池州 - 青阳县</key>
+	<integer>424</integer>
+	<key>安徽省 - 淮北 - 杜集区</key>
+	<integer>446</integer>
+	<key>安徽省 - 淮北 - 濉溪县</key>
+	<integer>448</integer>
+	<key>安徽省 - 淮北 - 烈山区</key>
+	<integer>447</integer>
+	<key>安徽省 - 淮北 - 相山区</key>
+	<integer>445</integer>
+	<key>安徽省 - 淮南 - 八公山区</key>
+	<integer>452</integer>
+	<key>安徽省 - 淮南 - 凤台县</key>
+	<integer>454</integer>
+	<key>安徽省 - 淮南 - 大通区</key>
+	<integer>450</integer>
+	<key>安徽省 - 淮南 - 潘集区</key>
+	<integer>453</integer>
+	<key>安徽省 - 淮南 - 田家庵区</key>
+	<integer>449</integer>
+	<key>安徽省 - 淮南 - 谢家集区</key>
+	<integer>451</integer>
+	<key>安徽省 - 滁州 - 全椒县</key>
+	<integer>430</integer>
+	<key>安徽省 - 滁州 - 凤阳县</key>
+	<integer>432</integer>
+	<key>安徽省 - 滁州 - 南谯区</key>
+	<integer>426</integer>
+	<key>安徽省 - 滁州 - 天长市</key>
+	<integer>427</integer>
+	<key>安徽省 - 滁州 - 定远县</key>
+	<integer>431</integer>
+	<key>安徽省 - 滁州 - 明光市</key>
+	<integer>428</integer>
+	<key>安徽省 - 滁州 - 来安县</key>
+	<integer>429</integer>
+	<key>安徽省 - 滁州 - 琅琊区</key>
+	<integer>425</integer>
+	<key>安徽省 - 芜湖 - 三山区</key>
+	<integer>485</integer>
+	<key>安徽省 - 芜湖 - 南陵县</key>
+	<integer>488</integer>
+	<key>安徽省 - 芜湖 - 弋江区</key>
+	<integer>483</integer>
+	<key>安徽省 - 芜湖 - 繁昌县</key>
+	<integer>487</integer>
+	<key>安徽省 - 芜湖 - 芜湖县</key>
+	<integer>486</integer>
+	<key>安徽省 - 芜湖 - 镜湖区</key>
+	<integer>482</integer>
+	<key>安徽省 - 芜湖 - 鸠江区</key>
+	<integer>484</integer>
+	<key>安徽省 - 蚌埠 - 东市区</key>
+	<integer>410</integer>
+	<key>安徽省 - 蚌埠 - 中市区</key>
+	<integer>409</integer>
+	<key>安徽省 - 蚌埠 - 五河县</key>
+	<integer>414</integer>
+	<key>安徽省 - 蚌埠 - 固镇县</key>
+	<integer>415</integer>
+	<key>安徽省 - 蚌埠 - 怀远县</key>
+	<integer>413</integer>
+	<key>安徽省 - 蚌埠 - 西市区</key>
+	<integer>411</integer>
+	<key>安徽省 - 蚌埠 - 郊区</key>
+	<integer>412</integer>
+	<key>安徽省 - 铜陵 - 狮子山区</key>
+	<integer>479</integer>
+	<key>安徽省 - 铜陵 - 郊区</key>
+	<integer>480</integer>
+	<key>安徽省 - 铜陵 - 铜官山区</key>
+	<integer>478</integer>
+	<key>安徽省 - 铜陵 - 铜陵县</key>
+	<integer>481</integer>
+	<key>安徽省 - 阜阳 - 临泉县</key>
+	<integer>441</integer>
+	<key>安徽省 - 阜阳 - 太和县</key>
+	<integer>442</integer>
+	<key>安徽省 - 阜阳 - 淮上区</key>
+	<integer>436</integer>
+	<key>安徽省 - 阜阳 - 界首市</key>
+	<integer>440</integer>
+	<key>安徽省 - 阜阳 - 禹会区</key>
+	<integer>435</integer>
+	<key>安徽省 - 阜阳 - 蚌山区</key>
+	<integer>433</integer>
+	<key>安徽省 - 阜阳 - 阜南县</key>
+	<integer>443</integer>
+	<key>安徽省 - 阜阳 - 颍东区</key>
+	<integer>438</integer>
+	<key>安徽省 - 阜阳 - 颍州区</key>
+	<integer>437</integer>
+	<key>安徽省 - 阜阳 - 颍泉区</key>
+	<integer>439</integer>
+	<key>安徽省 - 阜阳 - 颖上县</key>
+	<integer>444</integer>
+	<key>安徽省 - 阜阳 - 龙子湖区</key>
+	<integer>434</integer>
+	<key>安徽省 - 马鞍山 - 当涂县</key>
+	<integer>472</integer>
+	<key>安徽省 - 马鞍山 - 花山区</key>
+	<integer>470</integer>
+	<key>安徽省 - 马鞍山 - 金家庄区</key>
+	<integer>471</integer>
+	<key>安徽省 - 马鞍山 - 雨山区</key>
+	<integer>469</integer>
+	<key>安徽省 - 黄山 - 休宁县</key>
+	<integer>459</integer>
+	<key>安徽省 - 黄山 - 屯溪区</key>
+	<integer>455</integer>
+	<key>安徽省 - 黄山 - 徽州区</key>
+	<integer>457</integer>
+	<key>安徽省 - 黄山 - 歙县</key>
+	<integer>458</integer>
+	<key>安徽省 - 黄山 - 祁门县</key>
+	<integer>461</integer>
+	<key>安徽省 - 黄山 - 黄山区</key>
+	<integer>456</integer>
+	<key>安徽省 - 黄山 - 黟县</key>
+	<integer>460</integer>
+	<key>山东省 - 东营 - 东营区</key>
+	<integer>2372</integer>
+	<key>山东省 - 东营 - 利津县</key>
+	<integer>2375</integer>
+	<key>山东省 - 东营 - 垦利县</key>
+	<integer>2374</integer>
+	<key>山东省 - 东营 - 广饶县</key>
+	<integer>2376</integer>
+	<key>山东省 - 东营 - 河口区</key>
+	<integer>2373</integer>
+	<key>山东省 - 临沂 - 临沭县</key>
+	<integer>2419</integer>
+	<key>山东省 - 临沂 - 兰山区</key>
+	<integer>2408</integer>
+	<key>山东省 - 临沂 - 平邑县</key>
+	<integer>2416</integer>
+	<key>山东省 - 临沂 - 沂南县</key>
+	<integer>2411</integer>
+	<key>山东省 - 临沂 - 沂水县</key>
+	<integer>2413</integer>
+	<key>山东省 - 临沂 - 河东区</key>
+	<integer>2410</integer>
+	<key>山东省 - 临沂 - 罗庄区</key>
+	<integer>2409</integer>
+	<key>山东省 - 临沂 - 苍山县</key>
+	<integer>2414</integer>
+	<key>山东省 - 临沂 - 莒南县</key>
+	<integer>2417</integer>
+	<key>山东省 - 临沂 - 蒙阴县</key>
+	<integer>2418</integer>
+	<key>山东省 - 临沂 - 费县</key>
+	<integer>2415</integer>
+	<key>山东省 - 临沂 - 郯城县</key>
+	<integer>2412</integer>
+	<key>山东省 - 威海 - 乳山市</key>
+	<integer>2431</integer>
+	<key>山东省 - 威海 - 文登市</key>
+	<integer>2433</integer>
+	<key>山东省 - 威海 - 环翠区</key>
+	<integer>2432</integer>
+	<key>山东省 - 威海 - 荣成市</key>
+	<integer>2430</integer>
+	<key>山东省 - 德州 - 临邑县</key>
+	<integer>2367</integer>
+	<key>山东省 - 德州 - 乐陵市</key>
+	<integer>2363</integer>
+	<key>山东省 - 德州 - 夏津县</key>
+	<integer>2370</integer>
+	<key>山东省 - 德州 - 宁津县</key>
+	<integer>2365</integer>
+	<key>山东省 - 德州 - 平原县</key>
+	<integer>2369</integer>
+	<key>山东省 - 德州 - 庆云县</key>
+	<integer>2366</integer>
+	<key>山东省 - 德州 - 德城区</key>
+	<integer>2361</integer>
+	<key>山东省 - 德州 - 武城县</key>
+	<integer>2371</integer>
+	<key>山东省 - 德州 - 禹城市</key>
+	<integer>2364</integer>
+	<key>山东省 - 德州 - 陵县</key>
+	<integer>2362</integer>
+	<key>山东省 - 德州 - 齐河县</key>
+	<integer>2368</integer>
+	<key>山东省 - 日照 - 东港区</key>
+	<integer>2420</integer>
+	<key>山东省 - 日照 - 五莲县</key>
+	<integer>2422</integer>
+	<key>山东省 - 日照 - 岚山区</key>
+	<integer>2421</integer>
+	<key>山东省 - 日照 - 莒县</key>
+	<integer>2423</integer>
+	<key>山东省 - 枣庄 - 台儿庄区</key>
+	<integer>2462</integer>
+	<key>山东省 - 枣庄 - 山亭区</key>
+	<integer>2460</integer>
+	<key>山东省 - 枣庄 - 峄城区</key>
+	<integer>2461</integer>
+	<key>山东省 - 枣庄 - 市中区</key>
+	<integer>2459</integer>
+	<key>山东省 - 枣庄 - 滕州市</key>
+	<integer>2464</integer>
+	<key>山东省 - 枣庄 - 薛城区</key>
+	<integer>2463</integer>
+	<key>山东省 - 泰安 - 东平县</key>
+	<integer>2429</integer>
+	<key>山东省 - 泰安 - 宁阳县</key>
+	<integer>2428</integer>
+	<key>山东省 - 泰安 - 岱岳区</key>
+	<integer>2425</integer>
+	<key>山东省 - 泰安 - 新泰市</key>
+	<integer>2426</integer>
+	<key>山东省 - 泰安 - 泰山区</key>
+	<integer>2424</integer>
+	<key>山东省 - 泰安 - 肥城市</key>
+	<integer>2427</integer>
+	<key>山东省 - 济南 - 历下区</key>
+	<integer>2333</integer>
+	<key>山东省 - 济南 - 历城区</key>
+	<integer>2336</integer>
+	<key>山东省 - 济南 - 商河县</key>
+	<integer>2341</integer>
+	<key>山东省 - 济南 - 天桥区</key>
+	<integer>2334</integer>
+	<key>山东省 - 济南 - 市中区</key>
+	<integer>2332</integer>
+	<key>山东省 - 济南 - 平阴县</key>
+	<integer>2339</integer>
+	<key>山东省 - 济南 - 槐荫区</key>
+	<integer>2335</integer>
+	<key>山东省 - 济南 - 济阳县</key>
+	<integer>2340</integer>
+	<key>山东省 - 济南 - 章丘市</key>
+	<integer>2338</integer>
+	<key>山东省 - 济南 - 长清区</key>
+	<integer>2337</integer>
+	<key>山东省 - 济宁 - 任城区</key>
+	<integer>2387</integer>
+	<key>山东省 - 济宁 - 兖州市</key>
+	<integer>2389</integer>
+	<key>山东省 - 济宁 - 嘉祥县</key>
+	<integer>2394</integer>
+	<key>山东省 - 济宁 - 市中区</key>
+	<integer>2386</integer>
+	<key>山东省 - 济宁 - 微山县</key>
+	<integer>2391</integer>
+	<key>山东省 - 济宁 - 曲阜市</key>
+	<integer>2388</integer>
+	<key>山东省 - 济宁 - 梁山县</key>
+	<integer>2397</integer>
+	<key>山东省 - 济宁 - 汶上县</key>
+	<integer>2395</integer>
+	<key>山东省 - 济宁 - 泗水县</key>
+	<integer>2396</integer>
+	<key>山东省 - 济宁 - 邹城市</key>
+	<integer>2390</integer>
+	<key>山东省 - 济宁 - 金乡县</key>
+	<integer>2393</integer>
+	<key>山东省 - 济宁 - 鱼台县</key>
+	<integer>2392</integer>
+	<key>山东省 - 淄博 - 临淄区</key>
+	<integer>2466</integer>
+	<key>山东省 - 淄博 - 博山区</key>
+	<integer>2468</integer>
+	<key>山东省 - 淄博 - 周村区</key>
+	<integer>2469</integer>
+	<key>山东省 - 淄博 - 张店区</key>
+	<integer>2465</integer>
+	<key>山东省 - 淄博 - 桓台县</key>
+	<integer>2470</integer>
+	<key>山东省 - 淄博 - 沂源县</key>
+	<integer>2472</integer>
+	<key>山东省 - 淄博 - 淄川区</key>
+	<integer>2467</integer>
+	<key>山东省 - 淄博 - 高青县</key>
+	<integer>2471</integer>
+	<key>山东省 - 滨州 - 博兴县</key>
+	<integer>2359</integer>
+	<key>山东省 - 滨州 - 惠民县</key>
+	<integer>2355</integer>
+	<key>山东省 - 滨州 - 无棣县</key>
+	<integer>2357</integer>
+	<key>山东省 - 滨州 - 沾化县</key>
+	<integer>2358</integer>
+	<key>山东省 - 滨州 - 滨城区</key>
+	<integer>2354</integer>
+	<key>山东省 - 滨州 - 邹平县</key>
+	<integer>2360</integer>
+	<key>山东省 - 滨州 - 阳信县</key>
+	<integer>2356</integer>
+	<key>山东省 - 潍坊 - 临朐县</key>
+	<integer>2444</integer>
+	<key>山东省 - 潍坊 - 坊子区</key>
+	<integer>2436</integer>
+	<key>山东省 - 潍坊 - 奎文区</key>
+	<integer>2437</integer>
+	<key>山东省 - 潍坊 - 安丘市</key>
+	<integer>2441</integer>
+	<key>山东省 - 潍坊 - 寒亭区</key>
+	<integer>2435</integer>
+	<key>山东省 - 潍坊 - 寿光市</key>
+	<integer>2440</integer>
+	<key>山东省 - 潍坊 - 昌乐县</key>
+	<integer>2445</integer>
+	<key>山东省 - 潍坊 - 昌邑市</key>
+	<integer>2443</integer>
+	<key>山东省 - 潍坊 - 潍城区</key>
+	<integer>2434</integer>
+	<key>山东省 - 潍坊 - 诸城市</key>
+	<integer>2439</integer>
+	<key>山东省 - 潍坊 - 青州市</key>
+	<integer>2438</integer>
+	<key>山东省 - 潍坊 - 高密市</key>
+	<integer>2442</integer>
+	<key>山东省 - 烟台 - 开发区</key>
+	<integer>2450</integer>
+	<key>山东省 - 烟台 - 招远市</key>
+	<integer>2455</integer>
+	<key>山东省 - 烟台 - 栖霞市</key>
+	<integer>2456</integer>
+	<key>山东省 - 烟台 - 海阳市</key>
+	<integer>2457</integer>
+	<key>山东省 - 烟台 - 牟平区</key>
+	<integer>2448</integer>
+	<key>山东省 - 烟台 - 福山区</key>
+	<integer>2447</integer>
+	<key>山东省 - 烟台 - 芝罘区</key>
+	<integer>2446</integer>
+	<key>山东省 - 烟台 - 莱山区</key>
+	<integer>2449</integer>
+	<key>山东省 - 烟台 - 莱州市</key>
+	<integer>2453</integer>
+	<key>山东省 - 烟台 - 莱阳市</key>
+	<integer>2452</integer>
+	<key>山东省 - 烟台 - 蓬莱市</key>
+	<integer>2454</integer>
+	<key>山东省 - 烟台 - 长岛县</key>
+	<integer>2458</integer>
+	<key>山东省 - 烟台 - 龙口市</key>
+	<integer>2451</integer>
+	<key>山东省 - 聊城 - 东昌府区</key>
+	<integer>2400</integer>
+	<key>山东省 - 聊城 - 东阿县</key>
+	<integer>2405</integer>
+	<key>山东省 - 聊城 - 临清市</key>
+	<integer>2401</integer>
+	<key>山东省 - 聊城 - 冠县</key>
+	<integer>2406</integer>
+	<key>山东省 - 聊城 - 茌平县</key>
+	<integer>2404</integer>
+	<key>山东省 - 聊城 - 莘县</key>
+	<integer>2403</integer>
+	<key>山东省 - 聊城 - 阳谷县</key>
+	<integer>2402</integer>
+	<key>山东省 - 聊城 - 高唐县</key>
+	<integer>2407</integer>
+	<key>山东省 - 莱芜 - 莱城区</key>
+	<integer>2398</integer>
+	<key>山东省 - 莱芜 - 钢城区</key>
+	<integer>2399</integer>
+	<key>山东省 - 菏泽 - 东明县</key>
+	<integer>2385</integer>
+	<key>山东省 - 菏泽 - 单县</key>
+	<integer>2379</integer>
+	<key>山东省 - 菏泽 - 定陶县</key>
+	<integer>2384</integer>
+	<key>山东省 - 菏泽 - 巨野县</key>
+	<integer>2381</integer>
+	<key>山东省 - 菏泽 - 成武县</key>
+	<integer>2380</integer>
+	<key>山东省 - 菏泽 - 曹县</key>
+	<integer>2378</integer>
+	<key>山东省 - 菏泽 - 牡丹区</key>
+	<integer>2377</integer>
+	<key>山东省 - 菏泽 - 郓城县</key>
+	<integer>2382</integer>
+	<key>山东省 - 菏泽 - 鄄城县</key>
+	<integer>2383</integer>
+	<key>山东省 - 青岛 - 即墨市</key>
+	<integer>2350</integer>
+	<key>山东省 - 青岛 - 四方区</key>
+	<integer>2345</integer>
+	<key>山东省 - 青岛 - 城阳区</key>
+	<integer>2344</integer>
+	<key>山东省 - 青岛 - 崂山区</key>
+	<integer>2348</integer>
+	<key>山东省 - 青岛 - 市北区</key>
+	<integer>2343</integer>
+	<key>山东省 - 青岛 - 市南区</key>
+	<integer>2342</integer>
+	<key>山东省 - 青岛 - 平度市</key>
+	<integer>2351</integer>
+	<key>山东省 - 青岛 - 李沧区</key>
+	<integer>2346</integer>
+	<key>山东省 - 青岛 - 胶南市</key>
+	<integer>2352</integer>
+	<key>山东省 - 青岛 - 胶州市</key>
+	<integer>2349</integer>
+	<key>山东省 - 青岛 - 莱西市</key>
+	<integer>2353</integer>
+	<key>山东省 - 青岛 - 黄岛区</key>
+	<integer>2347</integer>
+	<key>山西省 - 临汾 - 乡宁县</key>
+	<integer>2538</integer>
+	<key>山西省 - 临汾 - 侯马市</key>
+	<integer>2528</integer>
+	<key>山西省 - 临汾 - 古县</key>
+	<integer>2537</integer>
+	<key>山西省 - 临汾 - 吉县</key>
+	<integer>2534</integer>
+	<key>山西省 - 临汾 - 大宁县</key>
+	<integer>2539</integer>
+	<key>山西省 - 临汾 - 安泽县</key>
+	<integer>2535</integer>
+	<key>山西省 - 临汾 - 尧都区</key>
+	<integer>2527</integer>
+	<key>山西省 - 临汾 - 曲沃县</key>
+	<integer>2530</integer>
+	<key>山西省 - 临汾 - 永和县</key>
+	<integer>2541</integer>
+	<key>山西省 - 临汾 - 汾西县</key>
+	<integer>2543</integer>
+	<key>山西省 - 临汾 - 洪洞县</key>
+	<integer>2533</integer>
+	<key>山西省 - 临汾 - 浮山县</key>
+	<integer>2536</integer>
+	<key>山西省 - 临汾 - 翼城县</key>
+	<integer>2531</integer>
+	<key>山西省 - 临汾 - 蒲县</key>
+	<integer>2542</integer>
+	<key>山西省 - 临汾 - 襄汾县</key>
+	<integer>2532</integer>
+	<key>山西省 - 临汾 - 隰县</key>
+	<integer>2540</integer>
+	<key>山西省 - 临汾 - 霍州市</key>
+	<integer>2529</integer>
+	<key>山西省 - 吕梁 - 中阳县</key>
+	<integer>2556</integer>
+	<key>山西省 - 吕梁 - 临县</key>
+	<integer>2551</integer>
+	<key>山西省 - 吕梁 - 交口县</key>
+	<integer>2557</integer>
+	<key>山西省 - 吕梁 - 交城县</key>
+	<integer>2549</integer>
+	<key>山西省 - 吕梁 - 兴县</key>
+	<integer>2550</integer>
+	<key>山西省 - 吕梁 - 孝义市</key>
+	<integer>2546</integer>
+	<key>山西省 - 吕梁 - 岚县</key>
+	<integer>2554</integer>
+	<key>山西省 - 吕梁 - 文水县</key>
+	<integer>2548</integer>
+	<key>山西省 - 吕梁 - 方山县</key>
+	<integer>2555</integer>
+	<key>山西省 - 吕梁 - 柳林县</key>
+	<integer>2552</integer>
+	<key>山西省 - 吕梁 - 汾阳市</key>
+	<integer>2547</integer>
+	<key>山西省 - 吕梁 - 石楼县</key>
+	<integer>2553</integer>
+	<key>山西省 - 吕梁 - 离石区</key>
+	<integer>2545</integer>
+	<key>山西省 - 吕梁 - 离石市</key>
+	<integer>2544</integer>
+	<key>山西省 - 大同 - 南郊区</key>
+	<integer>2501</integer>
+	<key>山西省 - 大同 - 城区</key>
+	<integer>2499</integer>
+	<key>山西省 - 大同 - 大同县</key>
+	<integer>2509</integer>
+	<key>山西省 - 大同 - 天镇县</key>
+	<integer>2504</integer>
+	<key>山西省 - 大同 - 左云县</key>
+	<integer>2508</integer>
+	<key>山西省 - 大同 - 广灵县</key>
+	<integer>2505</integer>
+	<key>山西省 - 大同 - 新荣区</key>
+	<integer>2502</integer>
+	<key>山西省 - 大同 - 浑源县</key>
+	<integer>2507</integer>
+	<key>山西省 - 大同 - 灵丘县</key>
+	<integer>2506</integer>
+	<key>山西省 - 大同 - 矿区</key>
+	<integer>2500</integer>
+	<key>山西省 - 大同 - 阳高县</key>
+	<integer>2503</integer>
+	<key>山西省 - 太原 - 万柏林区</key>
+	<integer>2477</integer>
+	<key>山西省 - 太原 - 古交市</key>
+	<integer>2485</integer>
+	<key>山西省 - 太原 - 娄烦县</key>
+	<integer>2484</integer>
+	<key>山西省 - 太原 - 小店区</key>
+	<integer>2474</integer>
+	<key>山西省 - 太原 - 尖草坪区</key>
+	<integer>2476</integer>
+	<key>山西省 - 太原 - 晋源区</key>
+	<integer>2478</integer>
+	<key>山西省 - 太原 - 杏花岭区</key>
+	<integer>2473</integer>
+	<key>山西省 - 太原 - 民营经济开发区</key>
+	<integer>2480</integer>
+	<key>山西省 - 太原 - 清徐县</key>
+	<integer>2482</integer>
+	<key>山西省 - 太原 - 经济技术开发区</key>
+	<integer>2481</integer>
+	<key>山西省 - 太原 - 迎泽区</key>
+	<integer>2475</integer>
+	<key>山西省 - 太原 - 阳曲县</key>
+	<integer>2483</integer>
+	<key>山西省 - 太原 - 高新开发区</key>
+	<integer>2479</integer>
+	<key>山西省 - 忻州 - 五台县</key>
+	<integer>2567</integer>
+	<key>山西省 - 忻州 - 五寨县</key>
+	<integer>2573</integer>
+	<key>山西省 - 忻州 - 代县</key>
+	<integer>2568</integer>
+	<key>山西省 - 忻州 - 保德县</key>
+	<integer>2576</integer>
+	<key>山西省 - 忻州 - 偏关县</key>
+	<integer>2577</integer>
+	<key>山西省 - 忻州 - 原平市</key>
+	<integer>2565</integer>
+	<key>山西省 - 忻州 - 宁武县</key>
+	<integer>2570</integer>
+	<key>山西省 - 忻州 - 定襄县</key>
+	<integer>2566</integer>
+	<key>山西省 - 忻州 - 岢岚县</key>
+	<integer>2574</integer>
+	<key>山西省 - 忻州 - 忻府区</key>
+	<integer>2564</integer>
+	<key>山西省 - 忻州 - 河曲县</key>
+	<integer>2575</integer>
+	<key>山西省 - 忻州 - 神池县</key>
+	<integer>2572</integer>
+	<key>山西省 - 忻州 - 繁峙县</key>
+	<integer>2569</integer>
+	<key>山西省 - 忻州 - 静乐县</key>
+	<integer>2571</integer>
+	<key>山西省 - 晋中 - 介休市</key>
+	<integer>2517</integer>
+	<key>山西省 - 晋中 - 和顺县</key>
+	<integer>2520</integer>
+	<key>山西省 - 晋中 - 太谷县</key>
+	<integer>2523</integer>
+	<key>山西省 - 晋中 - 寿阳县</key>
+	<integer>2522</integer>
+	<key>山西省 - 晋中 - 左权县</key>
+	<integer>2519</integer>
+	<key>山西省 - 晋中 - 平遥县</key>
+	<integer>2525</integer>
+	<key>山西省 - 晋中 - 昔阳县</key>
+	<integer>2521</integer>
+	<key>山西省 - 晋中 - 榆次区</key>
+	<integer>2516</integer>
+	<key>山西省 - 晋中 - 榆社县</key>
+	<integer>2518</integer>
+	<key>山西省 - 晋中 - 灵石县</key>
+	<integer>2526</integer>
+	<key>山西省 - 晋中 - 祁县</key>
+	<integer>2524</integer>
+	<key>山西省 - 晋城 - 城区</key>
+	<integer>2510</integer>
+	<key>山西省 - 晋城 - 沁水县</key>
+	<integer>2512</integer>
+	<key>山西省 - 晋城 - 泽州县</key>
+	<integer>2515</integer>
+	<key>山西省 - 晋城 - 阳城县</key>
+	<integer>2513</integer>
+	<key>山西省 - 晋城 - 陵川县</key>
+	<integer>2514</integer>
+	<key>山西省 - 晋城 - 高平市</key>
+	<integer>2511</integer>
+	<key>山西省 - 朔州 - 右玉县</key>
+	<integer>2562</integer>
+	<key>山西省 - 朔州 - 山阴县</key>
+	<integer>2560</integer>
+	<key>山西省 - 朔州 - 平鲁区</key>
+	<integer>2559</integer>
+	<key>山西省 - 朔州 - 应县</key>
+	<integer>2561</integer>
+	<key>山西省 - 朔州 - 怀仁县</key>
+	<integer>2563</integer>
+	<key>山西省 - 朔州 - 朔城区</key>
+	<integer>2558</integer>
+	<key>山西省 - 运城 - 万荣县</key>
+	<integer>2587</integer>
+	<key>山西省 - 运城 - 临猗县</key>
+	<integer>2586</integer>
+	<key>山西省 - 运城 - 垣曲县</key>
+	<integer>2592</integer>
+	<key>山西省 - 运城 - 夏县</key>
+	<integer>2593</integer>
+	<key>山西省 - 运城 - 平陆县</key>
+	<integer>2594</integer>
+	<key>山西省 - 运城 - 新绛县</key>
+	<integer>2590</integer>
+	<key>山西省 - 运城 - 永济市</key>
+	<integer>2584</integer>
+	<key>山西省 - 运城 - 河津市</key>
+	<integer>2585</integer>
+	<key>山西省 - 运城 - 盐湖区</key>
+	<integer>2583</integer>
+	<key>山西省 - 运城 - 稷山县</key>
+	<integer>2589</integer>
+	<key>山西省 - 运城 - 绛县</key>
+	<integer>2591</integer>
+	<key>山西省 - 运城 - 芮城县</key>
+	<integer>2595</integer>
+	<key>山西省 - 运城 - 闻喜县</key>
+	<integer>2588</integer>
+	<key>山西省 - 长治 - 城区</key>
+	<integer>2486</integer>
+	<key>山西省 - 长治 - 壶关县</key>
+	<integer>2495</integer>
+	<key>山西省 - 长治 - 屯留县</key>
+	<integer>2492</integer>
+	<key>山西省 - 长治 - 平顺县</key>
+	<integer>2493</integer>
+	<key>山西省 - 长治 - 武乡县</key>
+	<integer>2497</integer>
+	<key>山西省 - 长治 - 沁县</key>
+	<integer>2488</integer>
+	<key>山西省 - 长治 - 沁源县</key>
+	<integer>2498</integer>
+	<key>山西省 - 长治 - 潞城市</key>
+	<integer>2489</integer>
+	<key>山西省 - 长治 - 襄垣县</key>
+	<integer>2491</integer>
+	<key>山西省 - 长治 - 郊区</key>
+	<integer>2487</integer>
+	<key>山西省 - 长治 - 长子县</key>
+	<integer>2496</integer>
+	<key>山西省 - 长治 - 长治县</key>
+	<integer>2490</integer>
+	<key>山西省 - 长治 - 黎城县</key>
+	<integer>2494</integer>
+	<key>山西省 - 阳泉 - 城区</key>
+	<integer>2578</integer>
+	<key>山西省 - 阳泉 - 平定县</key>
+	<integer>2581</integer>
+	<key>山西省 - 阳泉 - 盂县</key>
+	<integer>2582</integer>
+	<key>山西省 - 阳泉 - 矿区</key>
+	<integer>2579</integer>
+	<key>山西省 - 阳泉 - 郊区</key>
+	<integer>2580</integer>
+	<key>广东省 - 东莞 - 万江区</key>
+	<integer>716</integer>
+	<key>广东省 - 东莞 - 东坑镇</key>
+	<integer>740</integer>
+	<key>广东省 - 东莞 - 东城区</key>
+	<integer>715</integer>
+	<key>广东省 - 东莞 - 中堂镇</key>
+	<integer>744</integer>
+	<key>广东省 - 东莞 - 企石镇</key>
+	<integer>741</integer>
+	<key>广东省 - 东莞 - 凤岗镇</key>
+	<integer>732</integer>
+	<key>广东省 - 东莞 - 南城区</key>
+	<integer>714</integer>
+	<key>广东省 - 东莞 - 厚街镇</key>
+	<integer>735</integer>
+	<key>广东省 - 东莞 - 塘厦镇</key>
+	<integer>733</integer>
+	<key>广东省 - 东莞 - 大岭山镇</key>
+	<integer>728</integer>
+	<key>广东省 - 东莞 - 大朗镇</key>
+	<integer>729</integer>
+	<key>广东省 - 东莞 - 寮步镇</key>
+	<integer>727</integer>
+	<key>广东省 - 东莞 - 常平镇</key>
+	<integer>737</integer>
+	<key>广东省 - 东莞 - 望牛墩镇</key>
+	<integer>724</integer>
+	<key>广东省 - 东莞 - 桥头镇</key>
+	<integer>738</integer>
+	<key>广东省 - 东莞 - 樟木头</key>
+	<integer>731</integer>
+	<key>广东省 - 东莞 - 横沥镇</key>
+	<integer>739</integer>
+	<key>广东省 - 东莞 - 沙田镇</key>
+	<integer>723</integer>
+	<key>广东省 - 东莞 - 洪梅镇</key>
+	<integer>725</integer>
+	<key>广东省 - 东莞 - 清溪镇</key>
+	<integer>736</integer>
+	<key>广东省 - 东莞 - 石排镇</key>
+	<integer>742</integer>
+	<key>广东省 - 东莞 - 石碣镇</key>
+	<integer>722</integer>
+	<key>广东省 - 东莞 - 石龙镇</key>
+	<integer>718</integer>
+	<key>广东省 - 东莞 - 茶山镇</key>
+	<integer>726</integer>
+	<key>广东省 - 东莞 - 莞城区</key>
+	<integer>717</integer>
+	<key>广东省 - 东莞 - 虎门镇</key>
+	<integer>719</integer>
+	<key>广东省 - 东莞 - 谢岗镇</key>
+	<integer>734</integer>
+	<key>广东省 - 东莞 - 道滘镇</key>
+	<integer>721</integer>
+	<key>广东省 - 东莞 - 长安镇</key>
+	<integer>743</integer>
+	<key>广东省 - 东莞 - 高埗镇</key>
+	<integer>745</integer>
+	<key>广东省 - 东莞 - 麻涌镇</key>
+	<integer>720</integer>
+	<key>广东省 - 东莞 - 黄江镇</key>
+	<integer>730</integer>
+	<key>广东省 - 中山 - 东区街道</key>
+	<integer>845</integer>
+	<key>广东省 - 中山 - 中山港街道</key>
+	<integer>848</integer>
+	<key>广东省 - 中山 - 五桂山街道</key>
+	<integer>849</integer>
+	<key>广东省 - 中山 - 环城街道</key>
+	<integer>847</integer>
+	<key>广东省 - 中山 - 石岐街道</key>
+	<integer>844</integer>
+	<key>广东省 - 中山 - 西区街道</key>
+	<integer>846</integer>
+	<key>广东省 - 云浮 - 云城区</key>
+	<integer>823</integer>
+	<key>广东省 - 云浮 - 云安县</key>
+	<integer>827</integer>
+	<key>广东省 - 云浮 - 新兴县</key>
+	<integer>825</integer>
+	<key>广东省 - 云浮 - 罗定市</key>
+	<integer>824</integer>
+	<key>广东省 - 云浮 - 郁南县</key>
+	<integer>826</integer>
+	<key>广东省 - 佛山 - 三水区</key>
+	<integer>749</integer>
+	<key>广东省 - 佛山 - 南海区</key>
+	<integer>747</integer>
+	<key>广东省 - 佛山 - 禅城区</key>
+	<integer>746</integer>
+	<key>广东省 - 佛山 - 顺德区</key>
+	<integer>748</integer>
+	<key>广东省 - 佛山 - 高明区</key>
+	<integer>750</integer>
+	<key>广东省 - 广州 - 东山区</key>
+	<integer>694</integer>
+	<key>广东省 - 广州 - 从化区</key>
+	<integer>703</integer>
+	<key>广东省 - 广州 - 从化市</key>
+	<integer>692</integer>
+	<key>广东省 - 广州 - 增城区</key>
+	<integer>702</integer>
+	<key>广东省 - 广州 - 天河区</key>
+	<integer>693</integer>
+	<key>广东省 - 广州 - 市郊</key>
+	<integer>704</integer>
+	<key>广东省 - 广州 - 海珠区</key>
+	<integer>696</integer>
+	<key>广东省 - 广州 - 番禺区</key>
+	<integer>700</integer>
+	<key>广东省 - 广州 - 白云区</key>
+	<integer>695</integer>
+	<key>广东省 - 广州 - 花都区</key>
+	<integer>701</integer>
+	<key>广东省 - 广州 - 荔湾区</key>
+	<integer>697</integer>
+	<key>广东省 - 广州 - 越秀区</key>
+	<integer>698</integer>
+	<key>广东省 - 广州 - 黄埔区</key>
+	<integer>699</integer>
+	<key>广东省 - 惠州 - 博罗县</key>
+	<integer>760</integer>
+	<key>广东省 - 惠州 - 大亚湾</key>
+	<integer>759</integer>
+	<key>广东省 - 惠州 - 惠东县</key>
+	<integer>761</integer>
+	<key>广东省 - 惠州 - 惠城区</key>
+	<integer>758</integer>
+	<key>广东省 - 惠州 - 惠阳区</key>
+	<integer>757</integer>
+	<key>广东省 - 惠州 - 龙门县</key>
+	<integer>762</integer>
+	<key>广东省 - 揭阳 - 惠来县</key>
+	<integer>774</integer>
+	<key>广东省 - 揭阳 - 揭东县</key>
+	<integer>772</integer>
+	<key>广东省 - 揭阳 - 揭西县</key>
+	<integer>773</integer>
+	<key>广东省 - 揭阳 - 普宁市</key>
+	<integer>771</integer>
+	<key>广东省 - 揭阳 - 榕城区</key>
+	<integer>770</integer>
+	<key>广东省 - 梅州 - 丰顺县</key>
+	<integer>785</integer>
+	<key>广东省 - 梅州 - 五华县</key>
+	<integer>786</integer>
+	<key>广东省 - 梅州 - 兴宁市</key>
+	<integer>783</integer>
+	<key>广东省 - 梅州 - 大埔县</key>
+	<integer>784</integer>
+	<key>广东省 - 梅州 - 平远县</key>
+	<integer>787</integer>
+	<key>广东省 - 梅州 - 梅县</key>
+	<integer>781</integer>
+	<key>广东省 - 梅州 - 梅江区</key>
+	<integer>782</integer>
+	<key>广东省 - 梅州 - 蕉岭县</key>
+	<integer>788</integer>
+	<key>广东省 - 汕头 - 南澳县</key>
+	<integer>797</integer>
+	<key>广东省 - 汕头 - 潮南区</key>
+	<integer>803</integer>
+	<key>广东省 - 汕头 - 潮阳区</key>
+	<integer>798</integer>
+	<key>广东省 - 汕头 - 澄海区</key>
+	<integer>799</integer>
+	<key>广东省 - 汕头 - 濠江区</key>
+	<integer>802</integer>
+	<key>广东省 - 汕头 - 金平区</key>
+	<integer>801</integer>
+	<key>广东省 - 汕头 - 龙湖区</key>
+	<integer>800</integer>
+	<key>广东省 - 汕尾 - 城区</key>
+	<integer>804</integer>
+	<key>广东省 - 汕尾 - 海丰县</key>
+	<integer>806</integer>
+	<key>广东省 - 汕尾 - 陆丰市</key>
+	<integer>805</integer>
+	<key>广东省 - 汕尾 - 陆河县</key>
+	<integer>807</integer>
+	<key>广东省 - 江门 - 台山市</key>
+	<integer>766</integer>
+	<key>广东省 - 江门 - 开平市</key>
+	<integer>767</integer>
+	<key>广东省 - 江门 - 恩平市</key>
+	<integer>769</integer>
+	<key>广东省 - 江门 - 新会区</key>
+	<integer>765</integer>
+	<key>广东省 - 江门 - 江海区</key>
+	<integer>763</integer>
+	<key>广东省 - 江门 - 蓬江区</key>
+	<integer>764</integer>
+	<key>广东省 - 江门 - 鹤山市</key>
+	<integer>768</integer>
+	<key>广东省 - 河源 - 东源县</key>
+	<integer>751</integer>
+	<key>广东省 - 河源 - 和平县</key>
+	<integer>752</integer>
+	<key>广东省 - 河源 - 源城区</key>
+	<integer>753</integer>
+	<key>广东省 - 河源 - 紫金县</key>
+	<integer>756</integer>
+	<key>广东省 - 河源 - 连平县</key>
+	<integer>754</integer>
+	<key>广东省 - 河源 - 龙川县</key>
+	<integer>755</integer>
+	<key>广东省 - 深圳 - 南山区</key>
+	<integer>707</integer>
+	<key>广东省 - 深圳 - 宝安区</key>
+	<integer>708</integer>
+	<key>广东省 - 深圳 - 盐田区</key>
+	<integer>710</integer>
+	<key>广东省 - 深圳 - 福田区</key>
+	<integer>705</integer>
+	<key>广东省 - 深圳 - 罗湖区</key>
+	<integer>706</integer>
+	<key>广东省 - 深圳 - 龙岗区</key>
+	<integer>709</integer>
+	<key>广东省 - 清远 - 佛冈县</key>
+	<integer>792</integer>
+	<key>广东省 - 清远 - 清城区</key>
+	<integer>789</integer>
+	<key>广东省 - 清远 - 清新县</key>
+	<integer>794</integer>
+	<key>广东省 - 清远 - 英德市</key>
+	<integer>790</integer>
+	<key>广东省 - 清远 - 连南</key>
+	<integer>796</integer>
+	<key>广东省 - 清远 - 连山</key>
+	<integer>795</integer>
+	<key>广东省 - 清远 - 连州市</key>
+	<integer>791</integer>
+	<key>广东省 - 清远 - 阳山县</key>
+	<integer>793</integer>
+	<key>广东省 - 湛江 - 吴川市</key>
+	<integer>834</integer>
+	<key>广东省 - 湛江 - 坡头区</key>
+	<integer>830</integer>
+	<key>广东省 - 湛江 - 廉江市</key>
+	<integer>832</integer>
+	<key>广东省 - 湛江 - 徐闻县</key>
+	<integer>836</integer>
+	<key>广东省 - 湛江 - 赤坎区</key>
+	<integer>828</integer>
+	<key>广东省 - 湛江 - 遂溪县</key>
+	<integer>835</integer>
+	<key>广东省 - 湛江 - 雷州市</key>
+	<integer>833</integer>
+	<key>广东省 - 湛江 - 霞山区</key>
+	<integer>829</integer>
+	<key>广东省 - 湛江 - 麻章区</key>
+	<integer>831</integer>
+	<key>广东省 - 潮州 - 湘桥区</key>
+	<integer>711</integer>
+	<key>广东省 - 潮州 - 潮安县</key>
+	<integer>712</integer>
+	<key>广东省 - 潮州 - 饶平县</key>
+	<integer>713</integer>
+	<key>广东省 - 珠海 - 斗门区</key>
+	<integer>851</integer>
+	<key>广东省 - 珠海 - 金湾区</key>
+	<integer>852</integer>
+	<key>广东省 - 珠海 - 香洲区</key>
+	<integer>850</integer>
+	<key>广东省 - 肇庆 - 四会市</key>
+	<integer>839</integer>
+	<key>广东省 - 肇庆 - 封开县</key>
+	<integer>842</integer>
+	<key>广东省 - 肇庆 - 广宁县</key>
+	<integer>840</integer>
+	<key>广东省 - 肇庆 - 德庆县</key>
+	<integer>843</integer>
+	<key>广东省 - 肇庆 - 怀集县</key>
+	<integer>841</integer>
+	<key>广东省 - 肇庆 - 肇庆市</key>
+	<integer>837</integer>
+	<key>广东省 - 肇庆 - 高要市</key>
+	<integer>838</integer>
+	<key>广东省 - 茂名 - 信宜市</key>
+	<integer>779</integer>
+	<key>广东省 - 茂名 - 化州市</key>
+	<integer>778</integer>
+	<key>广东省 - 茂名 - 电白县</key>
+	<integer>780</integer>
+	<key>广东省 - 茂名 - 茂南区</key>
+	<integer>775</integer>
+	<key>广东省 - 茂名 - 茂港区</key>
+	<integer>776</integer>
+	<key>广东省 - 茂名 - 高州市</key>
+	<integer>777</integer>
+	<key>广东省 - 阳江 - 江城区</key>
+	<integer>819</integer>
+	<key>广东省 - 阳江 - 阳东县</key>
+	<integer>822</integer>
+	<key>广东省 - 阳江 - 阳春市</key>
+	<integer>820</integer>
+	<key>广东省 - 阳江 - 阳西县</key>
+	<integer>821</integer>
+	<key>广东省 - 韶关 - 乐昌市</key>
+	<integer>812</integer>
+	<key>广东省 - 韶关 - 乳源</key>
+	<integer>818</integer>
+	<key>广东省 - 韶关 - 仁化县</key>
+	<integer>815</integer>
+	<key>广东省 - 韶关 - 南雄市</key>
+	<integer>813</integer>
+	<key>广东省 - 韶关 - 始兴县</key>
+	<integer>814</integer>
+	<key>广东省 - 韶关 - 新丰县</key>
+	<integer>817</integer>
+	<key>广东省 - 韶关 - 曲江区</key>
+	<integer>811</integer>
+	<key>广东省 - 韶关 - 曲江县</key>
+	<integer>808</integer>
+	<key>广东省 - 韶关 - 武江区</key>
+	<integer>810</integer>
+	<key>广东省 - 韶关 - 浈江区</key>
+	<integer>809</integer>
+	<key>广东省 - 韶关 - 翁源县</key>
+	<integer>816</integer>
+	<key>广西省 - 北海 - 合浦县</key>
+	<integer>897</integer>
+	<key>广西省 - 北海 - 海城区</key>
+	<integer>894</integer>
+	<key>广西省 - 北海 - 铁山港区</key>
+	<integer>896</integer>
+	<key>广西省 - 北海 - 银海区</key>
+	<integer>895</integer>
+	<key>广西省 - 南宁 - 上林县</key>
+	<integer>862</integer>
+	<key>广西省 - 南宁 - 兴宁区</key>
+	<integer>855</integer>
+	<key>广西省 - 南宁 - 宾阳县</key>
+	<integer>863</integer>
+	<key>广西省 - 南宁 - 横县</key>
+	<integer>864</integer>
+	<key>广西省 - 南宁 - 武鸣县</key>
+	<integer>859</integer>
+	<key>广西省 - 南宁 - 江南区</key>
+	<integer>858</integer>
+	<key>广西省 - 南宁 - 良庆区</key>
+	<integer>856</integer>
+	<key>广西省 - 南宁 - 西乡塘区</key>
+	<integer>857</integer>
+	<key>广西省 - 南宁 - 邕宁区</key>
+	<integer>853</integer>
+	<key>广西省 - 南宁 - 隆安县</key>
+	<integer>860</integer>
+	<key>广西省 - 南宁 - 青秀区</key>
+	<integer>854</integer>
+	<key>广西省 - 南宁 - 马山县</key>
+	<integer>861</integer>
+	<key>广西省 - 崇左 - 凭祥市</key>
+	<integer>899</integer>
+	<key>广西省 - 崇左 - 大新县</key>
+	<integer>903</integer>
+	<key>广西省 - 崇左 - 天等县</key>
+	<integer>904</integer>
+	<key>广西省 - 崇左 - 宁明县</key>
+	<integer>900</integer>
+	<key>广西省 - 崇左 - 扶绥县</key>
+	<integer>901</integer>
+	<key>广西省 - 崇左 - 江州区</key>
+	<integer>898</integer>
+	<key>广西省 - 崇左 - 龙州县</key>
+	<integer>902</integer>
+	<key>广西省 - 来宾 - 兴宾区</key>
+	<integer>929</integer>
+	<key>广西省 - 来宾 - 合山市</key>
+	<integer>930</integer>
+	<key>广西省 - 来宾 - 忻城县</key>
+	<integer>933</integer>
+	<key>广西省 - 来宾 - 武宣县</key>
+	<integer>932</integer>
+	<key>广西省 - 来宾 - 象州县</key>
+	<integer>931</integer>
+	<key>广西省 - 来宾 - 金秀</key>
+	<integer>934</integer>
+	<key>广西省 - 柳州 - 三江</key>
+	<integer>944</integer>
+	<key>广西省 - 柳州 - 城中区</key>
+	<integer>935</integer>
+	<key>广西省 - 柳州 - 柳北区</key>
+	<integer>937</integer>
+	<key>广西省 - 柳州 - 柳南区</key>
+	<integer>938</integer>
+	<key>广西省 - 柳州 - 柳城县</key>
+	<integer>940</integer>
+	<key>广西省 - 柳州 - 柳江县</key>
+	<integer>939</integer>
+	<key>广西省 - 柳州 - 融安县</key>
+	<integer>942</integer>
+	<key>广西省 - 柳州 - 融水</key>
+	<integer>943</integer>
+	<key>广西省 - 柳州 - 鱼峰区</key>
+	<integer>936</integer>
+	<key>广西省 - 柳州 - 鹿寨县</key>
+	<integer>941</integer>
+	<key>广西省 - 桂林 - 七星区</key>
+	<integer>868</integer>
+	<key>广西省 - 桂林 - 临桂县</key>
+	<integer>871</integer>
+	<key>广西省 - 桂林 - 全州县</key>
+	<integer>873</integer>
+	<key>广西省 - 桂林 - 兴安县</key>
+	<integer>875</integer>
+	<key>广西省 - 桂林 - 叠彩区</key>
+	<integer>866</integer>
+	<key>广西省 - 桂林 - 平乐县</key>
+	<integer>874</integer>
+	<key>广西省 - 桂林 - 恭城</key>
+	<integer>881</integer>
+	<key>广西省 - 桂林 - 永福县</key>
+	<integer>879</integer>
+	<key>广西省 - 桂林 - 灌阳县</key>
+	<integer>876</integer>
+	<key>广西省 - 桂林 - 灵川县</key>
+	<integer>872</integer>
+	<key>广西省 - 桂林 - 秀峰区</key>
+	<integer>865</integer>
+	<key>广西省 - 桂林 - 荔浦县</key>
+	<integer>877</integer>
+	<key>广西省 - 桂林 - 象山区</key>
+	<integer>867</integer>
+	<key>广西省 - 桂林 - 资源县</key>
+	<integer>878</integer>
+	<key>广西省 - 桂林 - 阳朔县</key>
+	<integer>870</integer>
+	<key>广西省 - 桂林 - 雁山区</key>
+	<integer>869</integer>
+	<key>广西省 - 桂林 - 龙胜</key>
+	<integer>880</integer>
+	<key>广西省 - 梧州 - 万秀区</key>
+	<integer>949</integer>
+	<key>广西省 - 梧州 - 岑溪市</key>
+	<integer>952</integer>
+	<key>广西省 - 梧州 - 苍梧县</key>
+	<integer>953</integer>
+	<key>广西省 - 梧州 - 蒙山县</key>
+	<integer>955</integer>
+	<key>广西省 - 梧州 - 藤县</key>
+	<integer>954</integer>
+	<key>广西省 - 梧州 - 蝶山区</key>
+	<integer>950</integer>
+	<key>广西省 - 梧州 - 长洲区</key>
+	<integer>951</integer>
+	<key>广西省 - 河池 - 东兰县</key>
+	<integer>919</integer>
+	<key>广西省 - 河池 - 凤山县</key>
+	<integer>917</integer>
+	<key>广西省 - 河池 - 南丹县</key>
+	<integer>918</integer>
+	<key>广西省 - 河池 - 大化</key>
+	<integer>924</integer>
+	<key>广西省 - 河池 - 天峨县</key>
+	<integer>916</integer>
+	<key>广西省 - 河池 - 宜州市</key>
+	<integer>915</integer>
+	<key>广西省 - 河池 - 巴马</key>
+	<integer>922</integer>
+	<key>广西省 - 河池 - 环江</key>
+	<integer>923</integer>
+	<key>广西省 - 河池 - 罗城</key>
+	<integer>921</integer>
+	<key>广西省 - 河池 - 都安</key>
+	<integer>920</integer>
+	<key>广西省 - 河池 - 金城江区</key>
+	<integer>914</integer>
+	<key>广西省 - 玉林 - 兴业县</key>
+	<integer>961</integer>
+	<key>广西省 - 玉林 - 北流市</key>
+	<integer>957</integer>
+	<key>广西省 - 玉林 - 博白县</key>
+	<integer>960</integer>
+	<key>广西省 - 玉林 - 容县</key>
+	<integer>958</integer>
+	<key>广西省 - 玉林 - 玉州区</key>
+	<integer>956</integer>
+	<key>广西省 - 玉林 - 陆川县</key>
+	<integer>959</integer>
+	<key>广西省 - 百色 - 乐业县</key>
+	<integer>886</integer>
+	<key>广西省 - 百色 - 凌云县</key>
+	<integer>883</integer>
+	<key>广西省 - 百色 - 右江区</key>
+	<integer>882</integer>
+	<key>广西省 - 百色 - 平果县</key>
+	<integer>884</integer>
+	<key>广西省 - 百色 - 德保县</key>
+	<integer>887</integer>
+	<key>广西省 - 百色 - 田东县</key>
+	<integer>891</integer>
+	<key>广西省 - 百色 - 田林县</key>
+	<integer>888</integer>
+	<key>广西省 - 百色 - 田阳县</key>
+	<integer>889</integer>
+	<key>广西省 - 百色 - 西林县</key>
+	<integer>885</integer>
+	<key>广西省 - 百色 - 那坡县</key>
+	<integer>892</integer>
+	<key>广西省 - 百色 - 隆林</key>
+	<integer>893</integer>
+	<key>广西省 - 百色 - 靖西县</key>
+	<integer>890</integer>
+	<key>广西省 - 贵港 - 平南县</key>
+	<integer>913</integer>
+	<key>广西省 - 贵港 - 桂平市</key>
+	<integer>912</integer>
+	<key>广西省 - 贵港 - 港北区</key>
+	<integer>909</integer>
+	<key>广西省 - 贵港 - 港南区</key>
+	<integer>910</integer>
+	<key>广西省 - 贵港 - 覃塘区</key>
+	<integer>911</integer>
+	<key>广西省 - 贺州 - 八步区</key>
+	<integer>925</integer>
+	<key>广西省 - 贺州 - 富川</key>
+	<integer>928</integer>
+	<key>广西省 - 贺州 - 昭平县</key>
+	<integer>927</integer>
+	<key>广西省 - 贺州 - 钟山县</key>
+	<integer>926</integer>
+	<key>广西省 - 钦州 - 浦北县</key>
+	<integer>948</integer>
+	<key>广西省 - 钦州 - 灵山县</key>
+	<integer>947</integer>
+	<key>广西省 - 钦州 - 钦北区</key>
+	<integer>946</integer>
+	<key>广西省 - 钦州 - 钦南区</key>
+	<integer>945</integer>
+	<key>广西省 - 防城港 - 上思县</key>
+	<integer>908</integer>
+	<key>广西省 - 防城港 - 东兴市</key>
+	<integer>907</integer>
+	<key>广西省 - 防城港 - 港口区</key>
+	<integer>905</integer>
+	<key>广西省 - 防城港 - 防城区</key>
+	<integer>906</integer>
+	<key>新疆 - 乌鲁木齐 - 乌鲁木齐县</key>
+	<integer>3011</integer>
+	<key>新疆 - 乌鲁木齐 - 天山区</key>
+	<integer>3004</integer>
+	<key>新疆 - 乌鲁木齐 - 头屯河区</key>
+	<integer>3008</integer>
+	<key>新疆 - 乌鲁木齐 - 新市区</key>
+	<integer>3006</integer>
+	<key>新疆 - 乌鲁木齐 - 水磨沟区</key>
+	<integer>3007</integer>
+	<key>新疆 - 乌鲁木齐 - 沙依巴克区</key>
+	<integer>3005</integer>
+	<key>新疆 - 乌鲁木齐 - 米东区</key>
+	<integer>3010</integer>
+	<key>新疆 - 乌鲁木齐 - 达坂城区</key>
+	<integer>3009</integer>
+	<key>新疆 - 五家渠 - 五家渠市</key>
+	<integer>3075</integer>
+	<key>新疆 - 伊犁 - 乌苏市</key>
+	<integer>3081</integer>
+	<key>新疆 - 伊犁 - 伊宁县</key>
+	<integer>3084</integer>
+	<key>新疆 - 伊犁 - 伊宁市</key>
+	<integer>3078</integer>
+	<key>新疆 - 伊犁 - 吉木乃县</key>
+	<integer>3095</integer>
+	<key>新疆 - 伊犁 - 和布克赛尔</key>
+	<integer>3094</integer>
+	<key>新疆 - 伊犁 - 哈巴河县</key>
+	<integer>3089</integer>
+	<key>新疆 - 伊犁 - 奎屯市</key>
+	<integer>3080</integer>
+	<key>新疆 - 伊犁 - 富蕴县</key>
+	<integer>3083</integer>
+	<key>新疆 - 伊犁 - 察布查尔</key>
+	<integer>3099</integer>
+	<key>新疆 - 伊犁 - 尼勒克县</key>
+	<integer>3098</integer>
+	<key>新疆 - 伊犁 - 巩留县</key>
+	<integer>3088</integer>
+	<key>新疆 - 伊犁 - 布克赛尔</key>
+	<integer>3077</integer>
+	<key>新疆 - 伊犁 - 布尔津县</key>
+	<integer>3079</integer>
+	<key>新疆 - 伊犁 - 托里县</key>
+	<integer>3090</integer>
+	<key>新疆 - 伊犁 - 新源县</key>
+	<integer>3092</integer>
+	<key>新疆 - 伊犁 - 昭苏县</key>
+	<integer>3096</integer>
+	<key>新疆 - 伊犁 - 沙湾县</key>
+	<integer>3087</integer>
+	<key>新疆 - 伊犁 - 特克斯县</key>
+	<integer>3097</integer>
+	<key>新疆 - 伊犁 - 福海县</key>
+	<integer>3085</integer>
+	<key>新疆 - 伊犁 - 裕民县</key>
+	<integer>3093</integer>
+	<key>新疆 - 伊犁 - 阿勒泰市</key>
+	<integer>3076</integer>
+	<key>新疆 - 伊犁 - 霍城县</key>
+	<integer>3086</integer>
+	<key>新疆 - 伊犁 - 青河县</key>
+	<integer>3091</integer>
+	<key>新疆 - 伊犁 - 额敏县</key>
+	<integer>3082</integer>
+	<key>新疆 - 克孜勒苏 - 乌恰县</key>
+	<integer>3069</integer>
+	<key>新疆 - 克孜勒苏 - 阿克陶县</key>
+	<integer>3067</integer>
+	<key>新疆 - 克孜勒苏 - 阿合奇县</key>
+	<integer>3068</integer>
+	<key>新疆 - 克孜勒苏 - 阿图什市</key>
+	<integer>3066</integer>
+	<key>新疆 - 克拉玛依 - 克拉玛依市</key>
+	<integer>3065</integer>
+	<key>新疆 - 博尔塔拉 - 博乐市</key>
+	<integer>3031</integer>
+	<key>新疆 - 博尔塔拉 - 温泉县</key>
+	<integer>3033</integer>
+	<key>新疆 - 博尔塔拉 - 精河县</key>
+	<integer>3032</integer>
+	<key>新疆 - 吐鲁番 - 吐鲁番市</key>
+	<integer>3072</integer>
+	<key>新疆 - 吐鲁番 - 托克逊县</key>
+	<integer>3074</integer>
+	<key>新疆 - 吐鲁番 - 鄯善县</key>
+	<integer>3073</integer>
+	<key>新疆 - 和田 - 于田县</key>
+	<integer>3051</integer>
+	<key>新疆 - 和田 - 和田县</key>
+	<integer>3046</integer>
+	<key>新疆 - 和田 - 和田市</key>
+	<integer>3045</integer>
+	<key>新疆 - 和田 - 墨玉县</key>
+	<integer>3047</integer>
+	<key>新疆 - 和田 - 民丰县</key>
+	<integer>3052</integer>
+	<key>新疆 - 和田 - 洛浦县</key>
+	<integer>3049</integer>
+	<key>新疆 - 和田 - 皮山县</key>
+	<integer>3048</integer>
+	<key>新疆 - 和田 - 策勒县</key>
+	<integer>3050</integer>
+	<key>新疆 - 哈密 - 伊吾县</key>
+	<integer>3043</integer>
+	<key>新疆 - 哈密 - 哈密市</key>
+	<integer>3042</integer>
+	<key>新疆 - 哈密 - 巴里坤</key>
+	<integer>3044</integer>
+	<key>新疆 - 喀什 - 伽师县</key>
+	<integer>3062</integer>
+	<key>新疆 - 喀什 - 叶城县</key>
+	<integer>3059</integer>
+	<key>新疆 - 喀什 - 喀什市</key>
+	<integer>3053</integer>
+	<key>新疆 - 喀什 - 塔什库尔干</key>
+	<integer>3064</integer>
+	<key>新疆 - 喀什 - 岳普湖县</key>
+	<integer>3061</integer>
+	<key>新疆 - 喀什 - 巴楚县</key>
+	<integer>3063</integer>
+	<key>新疆 - 喀什 - 泽普县</key>
+	<integer>3057</integer>
+	<key>新疆 - 喀什 - 疏勒县</key>
+	<integer>3055</integer>
+	<key>新疆 - 喀什 - 疏附县</key>
+	<integer>3054</integer>
+	<key>新疆 - 喀什 - 英吉沙县</key>
+	<integer>3056</integer>
+	<key>新疆 - 喀什 - 莎车县</key>
+	<integer>3058</integer>
+	<key>新疆 - 喀什 - 麦盖提县</key>
+	<integer>3060</integer>
+	<key>新疆 - 图木舒克 - 图木舒克市</key>
+	<integer>3071</integer>
+	<key>新疆 - 巴音郭楞 - 且末县</key>
+	<integer>3026</integer>
+	<key>新疆 - 巴音郭楞 - 博湖县</key>
+	<integer>3030</integer>
+	<key>新疆 - 巴音郭楞 - 和硕县</key>
+	<integer>3029</integer>
+	<key>新疆 - 巴音郭楞 - 和静县</key>
+	<integer>3028</integer>
+	<key>新疆 - 巴音郭楞 - 尉犁县</key>
+	<integer>3024</integer>
+	<key>新疆 - 巴音郭楞 - 库尔勒市</key>
+	<integer>3022</integer>
+	<key>新疆 - 巴音郭楞 - 焉耆</key>
+	<integer>3027</integer>
+	<key>新疆 - 巴音郭楞 - 若羌县</key>
+	<integer>3025</integer>
+	<key>新疆 - 巴音郭楞 - 轮台县</key>
+	<integer>3023</integer>
+	<key>新疆 - 昌吉 - 吉木萨尔县</key>
+	<integer>3040</integer>
+	<key>新疆 - 昌吉 - 呼图壁县</key>
+	<integer>3034</integer>
+	<key>新疆 - 昌吉 - 奇台县</key>
+	<integer>3039</integer>
+	<key>新疆 - 昌吉 - 昌吉市</key>
+	<integer>3036</integer>
+	<key>新疆 - 昌吉 - 木垒</key>
+	<integer>3041</integer>
+	<key>新疆 - 昌吉 - 玛纳斯县</key>
+	<integer>3038</integer>
+	<key>新疆 - 昌吉 - 米泉市</key>
+	<integer>3035</integer>
+	<key>新疆 - 昌吉 - 阜康市</key>
+	<integer>3037</integer>
+	<key>新疆 - 石河子 - 石河子市</key>
+	<integer>3070</integer>
+	<key>新疆 - 阿克苏 - 乌什县</key>
+	<integer>3018</integer>
+	<key>新疆 - 阿克苏 - 库车县</key>
+	<integer>3014</integer>
+	<key>新疆 - 阿克苏 - 拜城县</key>
+	<integer>3017</integer>
+	<key>新疆 - 阿克苏 - 新和县</key>
+	<integer>3016</integer>
+	<key>新疆 - 阿克苏 - 柯坪县</key>
+	<integer>3020</integer>
+	<key>新疆 - 阿克苏 - 沙雅县</key>
+	<integer>3015</integer>
+	<key>新疆 - 阿克苏 - 温宿县</key>
+	<integer>3013</integer>
+	<key>新疆 - 阿克苏 - 阿克苏市</key>
+	<integer>3012</integer>
+	<key>新疆 - 阿克苏 - 阿瓦提县</key>
+	<integer>3019</integer>
+	<key>新疆 - 阿拉尔 - 阿拉尔市</key>
+	<integer>3021</integer>
+	<key>江苏省 - 南京 - 下关区</key>
+	<integer>1840</integer>
+	<key>江苏省 - 南京 - 六合区</key>
+	<integer>1844</integer>
+	<key>江苏省 - 南京 - 建邺区</key>
+	<integer>1837</integer>
+	<key>江苏省 - 南京 - 栖霞区</key>
+	<integer>1841</integer>
+	<key>江苏省 - 南京 - 江宁区</key>
+	<integer>1843</integer>
+	<key>江苏省 - 南京 - 浦口区</key>
+	<integer>1842</integer>
+	<key>江苏省 - 南京 - 溧水县</key>
+	<integer>1845</integer>
+	<key>江苏省 - 南京 - 玄武区</key>
+	<integer>1834</integer>
+	<key>江苏省 - 南京 - 白下区</key>
+	<integer>1836</integer>
+	<key>江苏省 - 南京 - 秦淮区</key>
+	<integer>1838</integer>
+	<key>江苏省 - 南京 - 雨花台区</key>
+	<integer>1839</integer>
+	<key>江苏省 - 南京 - 高淳县</key>
+	<integer>1846</integer>
+	<key>江苏省 - 南京 - 鼓楼区</key>
+	<integer>1835</integer>
+	<key>江苏省 - 南通 - 启东市</key>
+	<integer>1905</integer>
+	<key>江苏省 - 南通 - 如东县</key>
+	<integer>1910</integer>
+	<key>江苏省 - 南通 - 如皋市</key>
+	<integer>1906</integer>
+	<key>江苏省 - 南通 - 崇川区</key>
+	<integer>1902</integer>
+	<key>江苏省 - 南通 - 海安县</key>
+	<integer>1909</integer>
+	<key>江苏省 - 南通 - 海门市</key>
+	<integer>1908</integer>
+	<key>江苏省 - 南通 - 港闸区</key>
+	<integer>1903</integer>
+	<key>江苏省 - 南通 - 经济开发区</key>
+	<integer>1904</integer>
+	<key>江苏省 - 南通 - 通州市</key>
+	<integer>1907</integer>
+	<key>江苏省 - 宿迁 - 宿城区</key>
+	<integer>1911</integer>
+	<key>江苏省 - 宿迁 - 宿豫区</key>
+	<integer>1912</integer>
+	<key>江苏省 - 宿迁 - 宿豫县</key>
+	<integer>1913</integer>
+	<key>江苏省 - 宿迁 - 沭阳县</key>
+	<integer>1914</integer>
+	<key>江苏省 - 宿迁 - 泗洪县</key>
+	<integer>1916</integer>
+	<key>江苏省 - 宿迁 - 泗阳县</key>
+	<integer>1915</integer>
+	<key>江苏省 - 常州 - 天宁区</key>
+	<integer>1879</integer>
+	<key>江苏省 - 常州 - 戚墅堰区</key>
+	<integer>1881</integer>
+	<key>江苏省 - 常州 - 新北区</key>
+	<integer>1883</integer>
+	<key>江苏省 - 常州 - 武进区</key>
+	<integer>1884</integer>
+	<key>江苏省 - 常州 - 溧阳市</key>
+	<integer>1885</integer>
+	<key>江苏省 - 常州 - 郊区</key>
+	<integer>1882</integer>
+	<key>江苏省 - 常州 - 金坛市</key>
+	<integer>1886</integer>
+	<key>江苏省 - 常州 - 钟楼区</key>
+	<integer>1880</integer>
+	<key>江苏省 - 徐州 - 丰县</key>
+	<integer>1930</integer>
+	<key>江苏省 - 徐州 - 九里区</key>
+	<integer>1925</integer>
+	<key>江苏省 - 徐州 - 云龙区</key>
+	<integer>1923</integer>
+	<key>江苏省 - 徐州 - 新沂市</key>
+	<integer>1928</integer>
+	<key>江苏省 - 徐州 - 沛县</key>
+	<integer>1931</integer>
+	<key>江苏省 - 徐州 - 泉山区</key>
+	<integer>1927</integer>
+	<key>江苏省 - 徐州 - 睢宁县</key>
+	<integer>1933</integer>
+	<key>江苏省 - 徐州 - 贾汪区</key>
+	<integer>1926</integer>
+	<key>江苏省 - 徐州 - 邳州市</key>
+	<integer>1929</integer>
+	<key>江苏省 - 徐州 - 铜山县</key>
+	<integer>1932</integer>
+	<key>江苏省 - 徐州 - 鼓楼区</key>
+	<integer>1924</integer>
+	<key>江苏省 - 扬州 - 仪征市</key>
+	<integer>1948</integer>
+	<key>江苏省 - 扬州 - 宝应县</key>
+	<integer>1951</integer>
+	<key>江苏省 - 扬州 - 广陵区</key>
+	<integer>1945</integer>
+	<key>江苏省 - 扬州 - 江都市</key>
+	<integer>1950</integer>
+	<key>江苏省 - 扬州 - 维扬区</key>
+	<integer>1946</integer>
+	<key>江苏省 - 扬州 - 邗江区</key>
+	<integer>1947</integer>
+	<key>江苏省 - 扬州 - 高邮市</key>
+	<integer>1949</integer>
+	<key>江苏省 - 无锡 - 北塘区</key>
+	<integer>1871</integer>
+	<key>江苏省 - 无锡 - 南长区</key>
+	<integer>1872</integer>
+	<key>江苏省 - 无锡 - 宜兴市</key>
+	<integer>1878</integer>
+	<key>江苏省 - 无锡 - 崇安区</key>
+	<integer>1870</integer>
+	<key>江苏省 - 无锡 - 惠山区</key>
+	<integer>1874</integer>
+	<key>江苏省 - 无锡 - 新区</key>
+	<integer>1876</integer>
+	<key>江苏省 - 无锡 - 江阴市</key>
+	<integer>1877</integer>
+	<key>江苏省 - 无锡 - 滨湖区</key>
+	<integer>1875</integer>
+	<key>江苏省 - 无锡 - 锡山区</key>
+	<integer>1873</integer>
+	<key>江苏省 - 泰州 - 兴化市</key>
+	<integer>1919</integer>
+	<key>江苏省 - 泰州 - 姜堰市</key>
+	<integer>1922</integer>
+	<key>江苏省 - 泰州 - 泰兴市</key>
+	<integer>1921</integer>
+	<key>江苏省 - 泰州 - 海陵区</key>
+	<integer>1917</integer>
+	<key>江苏省 - 泰州 - 靖江市</key>
+	<integer>1920</integer>
+	<key>江苏省 - 泰州 - 高港区</key>
+	<integer>1918</integer>
+	<key>江苏省 - 淮安 - 楚州区</key>
+	<integer>1889</integer>
+	<key>江苏省 - 淮安 - 洪泽县</key>
+	<integer>1892</integer>
+	<key>江苏省 - 淮安 - 涟水县</key>
+	<integer>1891</integer>
+	<key>江苏省 - 淮安 - 淮阴区</key>
+	<integer>1890</integer>
+	<key>江苏省 - 淮安 - 清河区</key>
+	<integer>1887</integer>
+	<key>江苏省 - 淮安 - 清浦区</key>
+	<integer>1888</integer>
+	<key>江苏省 - 淮安 - 盱眙县</key>
+	<integer>1893</integer>
+	<key>江苏省 - 淮安 - 金湖县</key>
+	<integer>1894</integer>
+	<key>江苏省 - 盐城 - 东台市</key>
+	<integer>1938</integer>
+	<key>江苏省 - 盐城 - 亭湖区</key>
+	<integer>1935</integer>
+	<key>江苏省 - 盐城 - 响水县</key>
+	<integer>1940</integer>
+	<key>江苏省 - 盐城 - 城区</key>
+	<integer>1934</integer>
+	<key>江苏省 - 盐城 - 大丰市</key>
+	<integer>1939</integer>
+	<key>江苏省 - 盐城 - 射阳县</key>
+	<integer>1943</integer>
+	<key>江苏省 - 盐城 - 建湖县</key>
+	<integer>1944</integer>
+	<key>江苏省 - 盐城 - 滨海县</key>
+	<integer>1941</integer>
+	<key>江苏省 - 盐城 - 盐都区</key>
+	<integer>1936</integer>
+	<key>江苏省 - 盐城 - 盐都县</key>
+	<integer>1937</integer>
+	<key>江苏省 - 盐城 - 阜宁县</key>
+	<integer>1942</integer>
+	<key>江苏省 - 苏州 - 千灯镇</key>
+	<integer>1865</integer>
+	<key>江苏省 - 苏州 - 吴中区</key>
+	<integer>1851</integer>
+	<key>江苏省 - 苏州 - 吴江市</key>
+	<integer>1868</integer>
+	<key>江苏省 - 苏州 - 周市镇</key>
+	<integer>1859</integer>
+	<key>江苏省 - 苏州 - 周庄镇</key>
+	<integer>1864</integer>
+	<key>江苏省 - 苏州 - 园区</key>
+	<integer>1853</integer>
+	<key>江苏省 - 苏州 - 太仓市</key>
+	<integer>1869</integer>
+	<key>江苏省 - 苏州 - 巴城镇</key>
+	<integer>1858</integer>
+	<key>江苏省 - 苏州 - 常熟市</key>
+	<integer>1855</integer>
+	<key>江苏省 - 苏州 - 平江区</key>
+	<integer>1849</integer>
+	<key>江苏省 - 苏州 - 开发区</key>
+	<integer>1867</integer>
+	<key>江苏省 - 苏州 - 张家港市</key>
+	<integer>1856</integer>
+	<key>江苏省 - 苏州 - 张浦镇</key>
+	<integer>1863</integer>
+	<key>江苏省 - 苏州 - 新区</key>
+	<integer>1854</integer>
+	<key>江苏省 - 苏州 - 沧浪区</key>
+	<integer>1847</integer>
+	<key>江苏省 - 苏州 - 淀山湖镇</key>
+	<integer>1862</integer>
+	<key>江苏省 - 苏州 - 玉山镇</key>
+	<integer>1857</integer>
+	<key>江苏省 - 苏州 - 相城区</key>
+	<integer>1852</integer>
+	<key>江苏省 - 苏州 - 花桥镇</key>
+	<integer>1861</integer>
+	<key>江苏省 - 苏州 - 虎丘区</key>
+	<integer>1850</integer>
+	<key>江苏省 - 苏州 - 金阊区</key>
+	<integer>1848</integer>
+	<key>江苏省 - 苏州 - 锦溪镇</key>
+	<integer>1866</integer>
+	<key>江苏省 - 苏州 - 陆家镇</key>
+	<integer>1860</integer>
+	<key>江苏省 - 连云港 - 东海县</key>
+	<integer>1899</integer>
+	<key>江苏省 - 连云港 - 新浦区</key>
+	<integer>1895</integer>
+	<key>江苏省 - 连云港 - 海州区</key>
+	<integer>1897</integer>
+	<key>江苏省 - 连云港 - 灌云县</key>
+	<integer>1900</integer>
+	<key>江苏省 - 连云港 - 灌南县</key>
+	<integer>1901</integer>
+	<key>江苏省 - 连云港 - 赣榆县</key>
+	<integer>1898</integer>
+	<key>江苏省 - 连云港 - 连云区</key>
+	<integer>1896</integer>
+	<key>江苏省 - 镇江 - 丹徒区</key>
+	<integer>1954</integer>
+	<key>江苏省 - 镇江 - 丹阳市</key>
+	<integer>1955</integer>
+	<key>江苏省 - 镇江 - 京口区</key>
+	<integer>1952</integer>
+	<key>江苏省 - 镇江 - 句容市</key>
+	<integer>1957</integer>
+	<key>江苏省 - 镇江 - 扬中市</key>
+	<integer>1956</integer>
+	<key>江苏省 - 镇江 - 润州区</key>
+	<integer>1953</integer>
+	<key>江西省 - 上饶 - 万年县</key>
+	<integer>2043</integer>
+	<key>江西省 - 上饶 - 上饶县</key>
+	<integer>2035</integer>
+	<key>江西省 - 上饶 - 余干县</key>
+	<integer>2041</integer>
+	<key>江西省 - 上饶 - 信州区</key>
+	<integer>2033</integer>
+	<key>江西省 - 上饶 - 婺源县</key>
+	<integer>2044</integer>
+	<key>江西省 - 上饶 - 广丰县</key>
+	<integer>2036</integer>
+	<key>江西省 - 上饶 - 弋阳县</key>
+	<integer>2040</integer>
+	<key>江西省 - 上饶 - 德兴市</key>
+	<integer>2034</integer>
+	<key>江西省 - 上饶 - 横峰县</key>
+	<integer>2039</integer>
+	<key>江西省 - 上饶 - 波阳县</key>
+	<integer>2042</integer>
+	<key>江西省 - 上饶 - 玉山县</key>
+	<integer>2037</integer>
+	<key>江西省 - 上饶 - 铅山县</key>
+	<integer>2038</integer>
+	<key>江西省 - 九江 - 九江县</key>
+	<integer>2019</integer>
+	<key>江西省 - 九江 - 修水县</key>
+	<integer>2021</integer>
+	<key>江西省 - 九江 - 庐山区</key>
+	<integer>2017</integer>
+	<key>江西省 - 九江 - 彭泽县</key>
+	<integer>2027</integer>
+	<key>江西省 - 九江 - 德安县</key>
+	<integer>2023</integer>
+	<key>江西省 - 九江 - 星子县</key>
+	<integer>2024</integer>
+	<key>江西省 - 九江 - 武宁县</key>
+	<integer>2020</integer>
+	<key>江西省 - 九江 - 永修县</key>
+	<integer>2022</integer>
+	<key>江西省 - 九江 - 浔阳区</key>
+	<integer>2016</integer>
+	<key>江西省 - 九江 - 湖口县</key>
+	<integer>2026</integer>
+	<key>江西省 - 九江 - 瑞昌市</key>
+	<integer>2018</integer>
+	<key>江西省 - 九江 - 都昌县</key>
+	<integer>2025</integer>
+	<key>江西省 - 南昌 - 东湖区</key>
+	<integer>1958</integer>
+	<key>江西省 - 南昌 - 南昌县</key>
+	<integer>1966</integer>
+	<key>江西省 - 南昌 - 安义县</key>
+	<integer>1968</integer>
+	<key>江西省 - 南昌 - 新建县</key>
+	<integer>1967</integer>
+	<key>江西省 - 南昌 - 昌北区</key>
+	<integer>1964</integer>
+	<key>江西省 - 南昌 - 湾里区</key>
+	<integer>1961</integer>
+	<key>江西省 - 南昌 - 红谷滩新区</key>
+	<integer>1963</integer>
+	<key>江西省 - 南昌 - 西湖区</key>
+	<integer>1959</integer>
+	<key>江西省 - 南昌 - 进贤县</key>
+	<integer>1969</integer>
+	<key>江西省 - 南昌 - 青云谱区</key>
+	<integer>1960</integer>
+	<key>江西省 - 南昌 - 青山湖区</key>
+	<integer>1962</integer>
+	<key>江西省 - 南昌 - 高新区</key>
+	<integer>1965</integer>
+	<key>江西省 - 吉安 - 万安县</key>
+	<integer>2010</integer>
+	<key>江西省 - 吉安 - 井冈山市</key>
+	<integer>2002</integer>
+	<key>江西省 - 吉安 - 吉安县</key>
+	<integer>2003</integer>
+	<key>江西省 - 吉安 - 吉州区</key>
+	<integer>2000</integer>
+	<key>江西省 - 吉安 - 吉水县</key>
+	<integer>2004</integer>
+	<key>江西省 - 吉安 - 安福县</key>
+	<integer>1999</integer>
+	<key>江西省 - 吉安 - 峡江县</key>
+	<integer>2005</integer>
+	<key>江西省 - 吉安 - 新干县</key>
+	<integer>2006</integer>
+	<key>江西省 - 吉安 - 永丰县</key>
+	<integer>2007</integer>
+	<key>江西省 - 吉安 - 永新县</key>
+	<integer>2011</integer>
+	<key>江西省 - 吉安 - 泰和县</key>
+	<integer>2008</integer>
+	<key>江西省 - 吉安 - 遂川县</key>
+	<integer>2009</integer>
+	<key>江西省 - 吉安 - 青原区</key>
+	<integer>2001</integer>
+	<key>江西省 - 宜春 - 万载县</key>
+	<integer>2052</integer>
+	<key>江西省 - 宜春 - 上高县</key>
+	<integer>2053</integer>
+	<key>江西省 - 宜春 - 丰城市</key>
+	<integer>2048</integer>
+	<key>江西省 - 宜春 - 奉新县</key>
+	<integer>2051</integer>
+	<key>江西省 - 宜春 - 宜丰县</key>
+	<integer>2054</integer>
+	<key>江西省 - 宜春 - 樟树市</key>
+	<integer>2049</integer>
+	<key>江西省 - 宜春 - 袁州区</key>
+	<integer>2047</integer>
+	<key>江西省 - 宜春 - 铜鼓县</key>
+	<integer>2056</integer>
+	<key>江西省 - 宜春 - 靖安县</key>
+	<integer>2055</integer>
+	<key>江西省 - 宜春 - 高安市</key>
+	<integer>2050</integer>
+	<key>江西省 - 抚州 - 东乡县</key>
+	<integer>1979</integer>
+	<key>江西省 - 抚州 - 临川区</key>
+	<integer>1970</integer>
+	<key>江西省 - 抚州 - 乐安县</key>
+	<integer>1975</integer>
+	<key>江西省 - 抚州 - 南丰县</key>
+	<integer>1973</integer>
+	<key>江西省 - 抚州 - 南城县</key>
+	<integer>1971</integer>
+	<key>江西省 - 抚州 - 宜黄县</key>
+	<integer>1976</integer>
+	<key>江西省 - 抚州 - 崇仁县</key>
+	<integer>1974</integer>
+	<key>江西省 - 抚州 - 广昌县</key>
+	<integer>1980</integer>
+	<key>江西省 - 抚州 - 资溪县</key>
+	<integer>1978</integer>
+	<key>江西省 - 抚州 - 金溪县</key>
+	<integer>1977</integer>
+	<key>江西省 - 抚州 - 黎川县</key>
+	<integer>1972</integer>
+	<key>江西省 - 新余 - 分宜县</key>
+	<integer>2046</integer>
+	<key>江西省 - 新余 - 渝水区</key>
+	<integer>2045</integer>
+	<key>江西省 - 景德镇 - 乐平市</key>
+	<integer>2014</integer>
+	<key>江西省 - 景德镇 - 昌江区</key>
+	<integer>2013</integer>
+	<key>江西省 - 景德镇 - 浮梁县</key>
+	<integer>2015</integer>
+	<key>江西省 - 景德镇 - 珠山区</key>
+	<integer>2012</integer>
+	<key>江西省 - 萍乡 - 上栗县</key>
+	<integer>2032</integer>
+	<key>江西省 - 萍乡 - 安源区</key>
+	<integer>2028</integer>
+	<key>江西省 - 萍乡 - 湘东区</key>
+	<integer>2029</integer>
+	<key>江西省 - 萍乡 - 芦溪县</key>
+	<integer>2031</integer>
+	<key>江西省 - 萍乡 - 莲花县</key>
+	<integer>2030</integer>
+	<key>江西省 - 赣州 - 上犹县</key>
+	<integer>1988</integer>
+	<key>江西省 - 赣州 - 于都县</key>
+	<integer>1982</integer>
+	<key>江西省 - 赣州 - 会昌县</key>
+	<integer>1996</integer>
+	<key>江西省 - 赣州 - 信丰县</key>
+	<integer>1986</integer>
+	<key>江西省 - 赣州 - 全南县</key>
+	<integer>1993</integer>
+	<key>江西省 - 赣州 - 兴国县</key>
+	<integer>1995</integer>
+	<key>江西省 - 赣州 - 南康市</key>
+	<integer>1984</integer>
+	<key>江西省 - 赣州 - 大余县</key>
+	<integer>1987</integer>
+	<key>江西省 - 赣州 - 宁都县</key>
+	<integer>1994</integer>
+	<key>江西省 - 赣州 - 安远县</key>
+	<integer>1990</integer>
+	<key>江西省 - 赣州 - 定南县</key>
+	<integer>1992</integer>
+	<key>江西省 - 赣州 - 寻乌县</key>
+	<integer>1997</integer>
+	<key>江西省 - 赣州 - 崇义县</key>
+	<integer>1989</integer>
+	<key>江西省 - 赣州 - 瑞金市</key>
+	<integer>1983</integer>
+	<key>江西省 - 赣州 - 石城县</key>
+	<integer>1998</integer>
+	<key>江西省 - 赣州 - 章贡区</key>
+	<integer>1981</integer>
+	<key>江西省 - 赣州 - 赣县</key>
+	<integer>1985</integer>
+	<key>江西省 - 赣州 - 龙南县</key>
+	<integer>1991</integer>
+	<key>江西省 - 鹰潭 - 余江县</key>
+	<integer>2059</integer>
+	<key>江西省 - 鹰潭 - 月湖区</key>
+	<integer>2057</integer>
+	<key>江西省 - 鹰潭 - 贵溪市</key>
+	<integer>2058</integer>
+	<key>河北省 - 保定 - 北市区</key>
+	<integer>1104</integer>
+	<key>河北省 - 保定 - 南市区</key>
+	<integer>1103</integer>
+	<key>河北省 - 保定 - 博野县</key>
+	<integer>1125</integer>
+	<key>河北省 - 保定 - 唐县</key>
+	<integer>1115</integer>
+	<key>河北省 - 保定 - 安国市</key>
+	<integer>1107</integer>
+	<key>河北省 - 保定 - 安新县</key>
+	<integer>1120</integer>
+	<key>河北省 - 保定 - 定兴县</key>
+	<integer>1114</integer>
+	<key>河北省 - 保定 - 定州市</key>
+	<integer>1106</integer>
+	<key>河北省 - 保定 - 容城县</key>
+	<integer>1117</integer>
+	<key>河北省 - 保定 - 徐水县</key>
+	<integer>1113</integer>
+	<key>河北省 - 保定 - 新市区</key>
+	<integer>1102</integer>
+	<key>河北省 - 保定 - 易县</key>
+	<integer>1121</integer>
+	<key>河北省 - 保定 - 曲阳县</key>
+	<integer>1122</integer>
+	<key>河北省 - 保定 - 望都县</key>
+	<integer>1119</integer>
+	<key>河北省 - 保定 - 涞水县</key>
+	<integer>1111</integer>
+	<key>河北省 - 保定 - 涞源县</key>
+	<integer>1118</integer>
+	<key>河北省 - 保定 - 涿州市</key>
+	<integer>1105</integer>
+	<key>河北省 - 保定 - 清苑县</key>
+	<integer>1110</integer>
+	<key>河北省 - 保定 - 满城县</key>
+	<integer>1109</integer>
+	<key>河北省 - 保定 - 蠡县</key>
+	<integer>1123</integer>
+	<key>河北省 - 保定 - 阜平县</key>
+	<integer>1112</integer>
+	<key>河北省 - 保定 - 雄县</key>
+	<integer>1126</integer>
+	<key>河北省 - 保定 - 顺平县</key>
+	<integer>1124</integer>
+	<key>河北省 - 保定 - 高碑店市</key>
+	<integer>1108</integer>
+	<key>河北省 - 保定 - 高阳县</key>
+	<integer>1116</integer>
+	<key>河北省 - 唐山 - 丰南区</key>
+	<integer>1205</integer>
+	<key>河北省 - 唐山 - 丰润区</key>
+	<integer>1206</integer>
+	<key>河北省 - 唐山 - 乐亭县</key>
+	<integer>1211</integer>
+	<key>河北省 - 唐山 - 古冶区</key>
+	<integer>1203</integer>
+	<key>河北省 - 唐山 - 唐海县</key>
+	<integer>1214</integer>
+	<key>河北省 - 唐山 - 开平区</key>
+	<integer>1204</integer>
+	<key>河北省 - 唐山 - 滦南县</key>
+	<integer>1210</integer>
+	<key>河北省 - 唐山 - 滦县</key>
+	<integer>1209</integer>
+	<key>河北省 - 唐山 - 玉田县</key>
+	<integer>1213</integer>
+	<key>河北省 - 唐山 - 路北区</key>
+	<integer>1201</integer>
+	<key>河北省 - 唐山 - 路南区</key>
+	<integer>1202</integer>
+	<key>河北省 - 唐山 - 迁安市</key>
+	<integer>1208</integer>
+	<key>河北省 - 唐山 - 迁西县</key>
+	<integer>1212</integer>
+	<key>河北省 - 唐山 - 遵化市</key>
+	<integer>1207</integer>
+	<key>河北省 - 廊坊 - 三河市</key>
+	<integer>1187</integer>
+	<key>河北省 - 廊坊 - 固安县</key>
+	<integer>1188</integer>
+	<key>河北省 - 廊坊 - 大厂</key>
+	<integer>1193</integer>
+	<key>河北省 - 廊坊 - 大城县</key>
+	<integer>1191</integer>
+	<key>河北省 - 廊坊 - 安次区</key>
+	<integer>1184</integer>
+	<key>河北省 - 廊坊 - 广阳区</key>
+	<integer>1185</integer>
+	<key>河北省 - 廊坊 - 文安县</key>
+	<integer>1192</integer>
+	<key>河北省 - 廊坊 - 永清县</key>
+	<integer>1189</integer>
+	<key>河北省 - 廊坊 - 霸州市</key>
+	<integer>1186</integer>
+	<key>河北省 - 廊坊 - 香河县</key>
+	<integer>1190</integer>
+	<key>河北省 - 张家口 - 万全县</key>
+	<integer>1246</integer>
+	<key>河北省 - 张家口 - 下花园区</key>
+	<integer>1237</integer>
+	<key>河北省 - 张家口 - 宣化区</key>
+	<integer>1236</integer>
+	<key>河北省 - 张家口 - 宣化县</key>
+	<integer>1238</integer>
+	<key>河北省 - 张家口 - 尚义县</key>
+	<integer>1242</integer>
+	<key>河北省 - 张家口 - 崇礼县</key>
+	<integer>1250</integer>
+	<key>河北省 - 张家口 - 康保县</key>
+	<integer>1240</integer>
+	<key>河北省 - 张家口 - 张北县</key>
+	<integer>1239</integer>
+	<key>河北省 - 张家口 - 怀安县</key>
+	<integer>1245</integer>
+	<key>河北省 - 张家口 - 怀来县</key>
+	<integer>1247</integer>
+	<key>河北省 - 张家口 - 桥东区</key>
+	<integer>1235</integer>
+	<key>河北省 - 张家口 - 桥西区</key>
+	<integer>1234</integer>
+	<key>河北省 - 张家口 - 沽源县</key>
+	<integer>1241</integer>
+	<key>河北省 - 张家口 - 涿鹿县</key>
+	<integer>1248</integer>
+	<key>河北省 - 张家口 - 蔚县</key>
+	<integer>1243</integer>
+	<key>河北省 - 张家口 - 赤城县</key>
+	<integer>1249</integer>
+	<key>河北省 - 张家口 - 阳原县</key>
+	<integer>1244</integer>
+	<key>河北省 - 承德 - 丰宁</key>
+	<integer>1151</integer>
+	<key>河北省 - 承德 - 兴隆县</key>
+	<integer>1147</integer>
+	<key>河北省 - 承德 - 双桥区</key>
+	<integer>1143</integer>
+	<key>河北省 - 承德 - 双滦区</key>
+	<integer>1144</integer>
+	<key>河北省 - 承德 - 围场</key>
+	<integer>1153</integer>
+	<key>河北省 - 承德 - 宽城</key>
+	<integer>1152</integer>
+	<key>河北省 - 承德 - 平泉县</key>
+	<integer>1148</integer>
+	<key>河北省 - 承德 - 承德县</key>
+	<integer>1146</integer>
+	<key>河北省 - 承德 - 滦平县</key>
+	<integer>1149</integer>
+	<key>河北省 - 承德 - 隆化县</key>
+	<integer>1150</integer>
+	<key>河北省 - 承德 - 鹰手营子矿区</key>
+	<integer>1145</integer>
+	<key>河北省 - 沧州 - 东光县</key>
+	<integer>1135</integer>
+	<key>河北省 - 沧州 - 任丘市</key>
+	<integer>1130</integer>
+	<key>河北省 - 沧州 - 南皮县</key>
+	<integer>1139</integer>
+	<key>河北省 - 沧州 - 吴桥县</key>
+	<integer>1140</integer>
+	<key>河北省 - 沧州 - 孟村</key>
+	<integer>1142</integer>
+	<key>河北省 - 沧州 - 新华区</key>
+	<integer>1128</integer>
+	<key>河北省 - 沧州 - 沧县</key>
+	<integer>1133</integer>
+	<key>河北省 - 沧州 - 河间市</key>
+	<integer>1132</integer>
+	<key>河北省 - 沧州 - 泊头市</key>
+	<integer>1129</integer>
+	<key>河北省 - 沧州 - 海兴县</key>
+	<integer>1136</integer>
+	<key>河北省 - 沧州 - 献县</key>
+	<integer>1141</integer>
+	<key>河北省 - 沧州 - 盐山县</key>
+	<integer>1137</integer>
+	<key>河北省 - 沧州 - 肃宁县</key>
+	<integer>1138</integer>
+	<key>河北省 - 沧州 - 运河区</key>
+	<integer>1127</integer>
+	<key>河北省 - 沧州 - 青县</key>
+	<integer>1134</integer>
+	<key>河北省 - 沧州 - 黄骅市</key>
+	<integer>1131</integer>
+	<key>河北省 - 石家庄 - 井陉县</key>
+	<integer>1090</integer>
+	<key>河北省 - 石家庄 - 井陉矿区</key>
+	<integer>1083</integer>
+	<key>河北省 - 石家庄 - 元氏县</key>
+	<integer>1100</integer>
+	<key>河北省 - 石家庄 - 平山县</key>
+	<integer>1099</integer>
+	<key>河北省 - 石家庄 - 新乐市</key>
+	<integer>1088</integer>
+	<key>河北省 - 石家庄 - 新华区</key>
+	<integer>1081</integer>
+	<key>河北省 - 石家庄 - 无极县</key>
+	<integer>1098</integer>
+	<key>河北省 - 石家庄 - 晋州市</key>
+	<integer>1087</integer>
+	<key>河北省 - 石家庄 - 栾城县</key>
+	<integer>1092</integer>
+	<key>河北省 - 石家庄 - 桥东区</key>
+	<integer>1079</integer>
+	<key>河北省 - 石家庄 - 桥西区</key>
+	<integer>1080</integer>
+	<key>河北省 - 石家庄 - 正定县</key>
+	<integer>1091</integer>
+	<key>河北省 - 石家庄 - 深泽县</key>
+	<integer>1096</integer>
+	<key>河北省 - 石家庄 - 灵寿县</key>
+	<integer>1094</integer>
+	<key>河北省 - 石家庄 - 藁城市</key>
+	<integer>1086</integer>
+	<key>河北省 - 石家庄 - 行唐县</key>
+	<integer>1093</integer>
+	<key>河北省 - 石家庄 - 裕华区</key>
+	<integer>1082</integer>
+	<key>河北省 - 石家庄 - 赞皇县</key>
+	<integer>1097</integer>
+	<key>河北省 - 石家庄 - 赵县</key>
+	<integer>1101</integer>
+	<key>河北省 - 石家庄 - 辛集市</key>
+	<integer>1085</integer>
+	<key>河北省 - 石家庄 - 长安区</key>
+	<integer>1078</integer>
+	<key>河北省 - 石家庄 - 高新区</key>
+	<integer>1084</integer>
+	<key>河北省 - 石家庄 - 高邑县</key>
+	<integer>1095</integer>
+	<key>河北省 - 石家庄 - 鹿泉市</key>
+	<integer>1089</integer>
+	<key>河北省 - 秦皇岛 - 北戴河区</key>
+	<integer>1196</integer>
+	<key>河北省 - 秦皇岛 - 卢龙县</key>
+	<integer>1199</integer>
+	<key>河北省 - 秦皇岛 - 山海关区</key>
+	<integer>1195</integer>
+	<key>河北省 - 秦皇岛 - 抚宁县</key>
+	<integer>1198</integer>
+	<key>河北省 - 秦皇岛 - 昌黎县</key>
+	<integer>1197</integer>
+	<key>河北省 - 秦皇岛 - 海港区</key>
+	<integer>1194</integer>
+	<key>河北省 - 秦皇岛 - 青龙</key>
+	<integer>1200</integer>
+	<key>河北省 - 衡水 - 冀州市</key>
+	<integer>1174</integer>
+	<key>河北省 - 衡水 - 安平县</key>
+	<integer>1180</integer>
+	<key>河北省 - 衡水 - 故城县</key>
+	<integer>1181</integer>
+	<key>河北省 - 衡水 - 景县</key>
+	<integer>1182</integer>
+	<key>河北省 - 衡水 - 枣强县</key>
+	<integer>1176</integer>
+	<key>河北省 - 衡水 - 桃城区</key>
+	<integer>1173</integer>
+	<key>河北省 - 衡水 - 武强县</key>
+	<integer>1178</integer>
+	<key>河北省 - 衡水 - 武邑县</key>
+	<integer>1177</integer>
+	<key>河北省 - 衡水 - 深州市</key>
+	<integer>1175</integer>
+	<key>河北省 - 衡水 - 阜城县</key>
+	<integer>1183</integer>
+	<key>河北省 - 衡水 - 饶阳县</key>
+	<integer>1179</integer>
+	<key>河北省 - 邢台 - 临城县</key>
+	<integer>1220</integer>
+	<key>河北省 - 邢台 - 临西县</key>
+	<integer>1233</integer>
+	<key>河北省 - 邢台 - 任县</key>
+	<integer>1224</integer>
+	<key>河北省 - 邢台 - 内丘县</key>
+	<integer>1221</integer>
+	<key>河北省 - 邢台 - 南和县</key>
+	<integer>1225</integer>
+	<key>河北省 - 邢台 - 南宫市</key>
+	<integer>1217</integer>
+	<key>河北省 - 邢台 - 威县</key>
+	<integer>1231</integer>
+	<key>河北省 - 邢台 - 宁晋县</key>
+	<integer>1226</integer>
+	<key>河北省 - 邢台 - 巨鹿县</key>
+	<integer>1227</integer>
+	<key>河北省 - 邢台 - 平乡县</key>
+	<integer>1230</integer>
+	<key>河北省 - 邢台 - 广宗县</key>
+	<integer>1229</integer>
+	<key>河北省 - 邢台 - 新河县</key>
+	<integer>1228</integer>
+	<key>河北省 - 邢台 - 柏乡县</key>
+	<integer>1222</integer>
+	<key>河北省 - 邢台 - 桥东区</key>
+	<integer>1215</integer>
+	<key>河北省 - 邢台 - 桥西区</key>
+	<integer>1216</integer>
+	<key>河北省 - 邢台 - 沙河市</key>
+	<integer>1218</integer>
+	<key>河北省 - 邢台 - 清河县</key>
+	<integer>1232</integer>
+	<key>河北省 - 邢台 - 邢台县</key>
+	<integer>1219</integer>
+	<key>河北省 - 邢台 - 隆尧县</key>
+	<integer>1223</integer>
+	<key>河北省 - 邯郸 - 临漳县</key>
+	<integer>1160</integer>
+	<key>河北省 - 邯郸 - 从台区</key>
+	<integer>1154</integer>
+	<key>河北省 - 邯郸 - 复兴区</key>
+	<integer>1155</integer>
+	<key>河北省 - 邯郸 - 大名县</key>
+	<integer>1162</integer>
+	<key>河北省 - 邯郸 - 峰峰矿区</key>
+	<integer>1157</integer>
+	<key>河北省 - 邯郸 - 广平县</key>
+	<integer>1169</integer>
+	<key>河北省 - 邯郸 - 成安县</key>
+	<integer>1161</integer>
+	<key>河北省 - 邯郸 - 曲周县</key>
+	<integer>1172</integer>
+	<key>河北省 - 邯郸 - 武安市</key>
+	<integer>1158</integer>
+	<key>河北省 - 邯郸 - 永年县</key>
+	<integer>1166</integer>
+	<key>河北省 - 邯郸 - 涉县</key>
+	<integer>1163</integer>
+	<key>河北省 - 邯郸 - 磁县</key>
+	<integer>1164</integer>
+	<key>河北省 - 邯郸 - 肥乡县</key>
+	<integer>1165</integer>
+	<key>河北省 - 邯郸 - 邯山区</key>
+	<integer>1156</integer>
+	<key>河北省 - 邯郸 - 邯郸县</key>
+	<integer>1159</integer>
+	<key>河北省 - 邯郸 - 邱县</key>
+	<integer>1167</integer>
+	<key>河北省 - 邯郸 - 馆陶县</key>
+	<integer>1170</integer>
+	<key>河北省 - 邯郸 - 魏县</key>
+	<integer>1171</integer>
+	<key>河北省 - 邯郸 - 鸡泽县</key>
+	<integer>1168</integer>
+	<key>河南省 - 三门峡 - 义马市</key>
+	<integer>1342</integer>
+	<key>河南省 - 三门峡 - 卢氏县</key>
+	<integer>1346</integer>
+	<key>河南省 - 三门峡 - 渑池县</key>
+	<integer>1344</integer>
+	<key>河南省 - 三门峡 - 湖滨区</key>
+	<integer>1341</integer>
+	<key>河南省 - 三门峡 - 灵宝市</key>
+	<integer>1343</integer>
+	<key>河南省 - 三门峡 - 陕县</key>
+	<integer>1345</integer>
+	<key>河南省 - 信阳 - 光山县</key>
+	<integer>1371</integer>
+	<key>河南省 - 信阳 - 商城县</key>
+	<integer>1373</integer>
+	<key>河南省 - 信阳 - 固始县</key>
+	<integer>1374</integer>
+	<key>河南省 - 信阳 - 平桥区</key>
+	<integer>1369</integer>
+	<key>河南省 - 信阳 - 息县</key>
+	<integer>1377</integer>
+	<key>河南省 - 信阳 - 新县</key>
+	<integer>1372</integer>
+	<key>河南省 - 信阳 - 浉河区</key>
+	<integer>1368</integer>
+	<key>河南省 - 信阳 - 淮滨县</key>
+	<integer>1376</integer>
+	<key>河南省 - 信阳 - 潢川县</key>
+	<integer>1375</integer>
+	<key>河南省 - 信阳 - 罗山县</key>
+	<integer>1370</integer>
+	<key>河南省 - 南阳 - 内乡县</key>
+	<integer>1325</integer>
+	<key>河南省 - 南阳 - 南召县</key>
+	<integer>1321</integer>
+	<key>河南省 - 南阳 - 卧龙区</key>
+	<integer>1318</integer>
+	<key>河南省 - 南阳 - 唐河县</key>
+	<integer>1328</integer>
+	<key>河南省 - 南阳 - 宛城区</key>
+	<integer>1319</integer>
+	<key>河南省 - 南阳 - 新野县</key>
+	<integer>1329</integer>
+	<key>河南省 - 南阳 - 方城县</key>
+	<integer>1322</integer>
+	<key>河南省 - 南阳 - 桐柏县</key>
+	<integer>1330</integer>
+	<key>河南省 - 南阳 - 淅川县</key>
+	<integer>1326</integer>
+	<key>河南省 - 南阳 - 社旗县</key>
+	<integer>1327</integer>
+	<key>河南省 - 南阳 - 西峡县</key>
+	<integer>1323</integer>
+	<key>河南省 - 南阳 - 邓州市</key>
+	<integer>1320</integer>
+	<key>河南省 - 南阳 - 镇平县</key>
+	<integer>1324</integer>
+	<key>河南省 - 周口 - 商水县</key>
+	<integer>1388</integer>
+	<key>河南省 - 周口 - 太康县</key>
+	<integer>1392</integer>
+	<key>河南省 - 周口 - 川汇区</key>
+	<integer>1384</integer>
+	<key>河南省 - 周口 - 扶沟县</key>
+	<integer>1386</integer>
+	<key>河南省 - 周口 - 沈丘县</key>
+	<integer>1389</integer>
+	<key>河南省 - 周口 - 淮阳县</key>
+	<integer>1391</integer>
+	<key>河南省 - 周口 - 西华县</key>
+	<integer>1387</integer>
+	<key>河南省 - 周口 - 郸城县</key>
+	<integer>1390</integer>
+	<key>河南省 - 周口 - 项城市</key>
+	<integer>1385</integer>
+	<key>河南省 - 周口 - 鹿邑县</key>
+	<integer>1393</integer>
+	<key>河南省 - 商丘 - 夏邑县</key>
+	<integer>1355</integer>
+	<key>河南省 - 商丘 - 宁陵县</key>
+	<integer>1352</integer>
+	<key>河南省 - 商丘 - 柘城县</key>
+	<integer>1354</integer>
+	<key>河南省 - 商丘 - 梁园区</key>
+	<integer>1347</integer>
+	<key>河南省 - 商丘 - 民权县</key>
+	<integer>1350</integer>
+	<key>河南省 - 商丘 - 永城市</key>
+	<integer>1349</integer>
+	<key>河南省 - 商丘 - 睢县</key>
+	<integer>1351</integer>
+	<key>河南省 - 商丘 - 睢阳区</key>
+	<integer>1348</integer>
+	<key>河南省 - 商丘 - 虞城县</key>
+	<integer>1353</integer>
+	<key>河南省 - 安阳 - 内黄县</key>
+	<integer>1301</integer>
+	<key>河南省 - 安阳 - 北关区</key>
+	<integer>1293</integer>
+	<key>河南省 - 安阳 - 安阳县</key>
+	<integer>1298</integer>
+	<key>河南省 - 安阳 - 文峰区</key>
+	<integer>1294</integer>
+	<key>河南省 - 安阳 - 林州市</key>
+	<integer>1297</integer>
+	<key>河南省 - 安阳 - 殷都区</key>
+	<integer>1295</integer>
+	<key>河南省 - 安阳 - 汤阴县</key>
+	<integer>1299</integer>
+	<key>河南省 - 安阳 - 滑县</key>
+	<integer>1300</integer>
+	<key>河南省 - 安阳 - 龙安区</key>
+	<integer>1296</integer>
+	<key>河南省 - 平顶山 - 卫东区</key>
+	<integer>1332</integer>
+	<key>河南省 - 平顶山 - 叶县</key>
+	<integer>1338</integer>
+	<key>河南省 - 平顶山 - 宝丰县</key>
+	<integer>1337</integer>
+	<key>河南省 - 平顶山 - 新华区</key>
+	<integer>1331</integer>
+	<key>河南省 - 平顶山 - 汝州市</key>
+	<integer>1336</integer>
+	<key>河南省 - 平顶山 - 湛河区</key>
+	<integer>1333</integer>
+	<key>河南省 - 平顶山 - 石龙区</key>
+	<integer>1334</integer>
+	<key>河南省 - 平顶山 - 舞钢市</key>
+	<integer>1335</integer>
+	<key>河南省 - 平顶山 - 郏县</key>
+	<integer>1340</integer>
+	<key>河南省 - 平顶山 - 鲁山县</key>
+	<integer>1339</integer>
+	<key>河南省 - 开封 - 兰考县</key>
+	<integer>1292</integer>
+	<key>河南省 - 开封 - 尉氏县</key>
+	<integer>1290</integer>
+	<key>河南省 - 开封 - 开封县</key>
+	<integer>1291</integer>
+	<key>河南省 - 开封 - 杞县</key>
+	<integer>1288</integer>
+	<key>河南省 - 开封 - 禹王台区</key>
+	<integer>1287</integer>
+	<key>河南省 - 开封 - 通许县</key>
+	<integer>1289</integer>
+	<key>河南省 - 开封 - 金明区</key>
+	<integer>1286</integer>
+	<key>河南省 - 开封 - 顺河回族区</key>
+	<integer>1285</integer>
+	<key>河南省 - 开封 - 鼓楼区</key>
+	<integer>1283</integer>
+	<key>河南省 - 开封 - 龙亭区</key>
+	<integer>1284</integer>
+	<key>河南省 - 新乡 - 凤泉区</key>
+	<integer>1358</integer>
+	<key>河南省 - 新乡 - 卫滨区</key>
+	<integer>1356</integer>
+	<key>河南省 - 新乡 - 卫辉市</key>
+	<integer>1360</integer>
+	<key>河南省 - 新乡 - 原阳县</key>
+	<integer>1364</integer>
+	<key>河南省 - 新乡 - 封丘县</key>
+	<integer>1366</integer>
+	<key>河南省 - 新乡 - 延津县</key>
+	<integer>1365</integer>
+	<key>河南省 - 新乡 - 新乡县</key>
+	<integer>1362</integer>
+	<key>河南省 - 新乡 - 牧野区</key>
+	<integer>1359</integer>
+	<key>河南省 - 新乡 - 红旗区</key>
+	<integer>1357</integer>
+	<key>河南省 - 新乡 - 获嘉县</key>
+	<integer>1363</integer>
+	<key>河南省 - 新乡 - 辉县市</key>
+	<integer>1361</integer>
+	<key>河南省 - 新乡 - 长垣县</key>
+	<integer>1367</integer>
+	<key>河南省 - 洛阳 - 伊川县</key>
+	<integer>1282</integer>
+	<key>河南省 - 洛阳 - 偃师市</key>
+	<integer>1274</integer>
+	<key>河南省 - 洛阳 - 吉利区</key>
+	<integer>1273</integer>
+	<key>河南省 - 洛阳 - 孟津县</key>
+	<integer>1275</integer>
+	<key>河南省 - 洛阳 - 宜阳县</key>
+	<integer>1280</integer>
+	<key>河南省 - 洛阳 - 嵩县</key>
+	<integer>1278</integer>
+	<key>河南省 - 洛阳 - 新安县</key>
+	<integer>1276</integer>
+	<key>河南省 - 洛阳 - 栾川县</key>
+	<integer>1277</integer>
+	<key>河南省 - 洛阳 - 汝阳县</key>
+	<integer>1279</integer>
+	<key>河南省 - 洛阳 - 洛宁县</key>
+	<integer>1281</integer>
+	<key>河南省 - 洛阳 - 洛龙区</key>
+	<integer>1272</integer>
+	<key>河南省 - 洛阳 - 涧西区</key>
+	<integer>1270</integer>
+	<key>河南省 - 洛阳 - 瀍河回族区</key>
+	<integer>1271</integer>
+	<key>河南省 - 洛阳 - 老城区</key>
+	<integer>1269</integer>
+	<key>河南省 - 洛阳 - 西工区</key>
+	<integer>1268</integer>
+	<key>河南省 - 济源 - 济源市</key>
+	<integer>1307</integer>
+	<key>河南省 - 漯河 - 临颍县</key>
+	<integer>1408</integer>
+	<key>河南省 - 漯河 - 召陵区</key>
+	<integer>1406</integer>
+	<key>河南省 - 漯河 - 源汇区</key>
+	<integer>1405</integer>
+	<key>河南省 - 漯河 - 舞阳县</key>
+	<integer>1407</integer>
+	<key>河南省 - 漯河 - 郾城区</key>
+	<integer>1404</integer>
+	<key>河南省 - 濮阳 - 华龙区</key>
+	<integer>1409</integer>
+	<key>河南省 - 濮阳 - 南乐县</key>
+	<integer>1411</integer>
+	<key>河南省 - 濮阳 - 台前县</key>
+	<integer>1413</integer>
+	<key>河南省 - 濮阳 - 清丰县</key>
+	<integer>1410</integer>
+	<key>河南省 - 濮阳 - 濮阳县</key>
+	<integer>1414</integer>
+	<key>河南省 - 濮阳 - 范县</key>
+	<integer>1412</integer>
+	<key>河南省 - 焦作 - 中站区</key>
+	<integer>1309</integer>
+	<key>河南省 - 焦作 - 修武县</key>
+	<integer>1314</integer>
+	<key>河南省 - 焦作 - 博爱县</key>
+	<integer>1315</integer>
+	<key>河南省 - 焦作 - 孟州市</key>
+	<integer>1313</integer>
+	<key>河南省 - 焦作 - 山阳区</key>
+	<integer>1311</integer>
+	<key>河南省 - 焦作 - 武陟县</key>
+	<integer>1316</integer>
+	<key>河南省 - 焦作 - 沁阳市</key>
+	<integer>1312</integer>
+	<key>河南省 - 焦作 - 温县</key>
+	<integer>1317</integer>
+	<key>河南省 - 焦作 - 解放区</key>
+	<integer>1308</integer>
+	<key>河南省 - 焦作 - 马村区</key>
+	<integer>1310</integer>
+	<key>河南省 - 许昌 - 禹州市</key>
+	<integer>1379</integer>
+	<key>河南省 - 许昌 - 襄城县</key>
+	<integer>1383</integer>
+	<key>河南省 - 许昌 - 许昌县</key>
+	<integer>1381</integer>
+	<key>河南省 - 许昌 - 鄢陵县</key>
+	<integer>1382</integer>
+	<key>河南省 - 许昌 - 长葛市</key>
+	<integer>1380</integer>
+	<key>河南省 - 许昌 - 魏都区</key>
+	<integer>1378</integer>
+	<key>河南省 - 郑州 - 上街区</key>
+	<integer>1256</integer>
+	<key>河南省 - 郑州 - 中原区</key>
+	<integer>1255</integer>
+	<key>河南省 - 郑州 - 中牟县</key>
+	<integer>1267</integer>
+	<key>河南省 - 郑州 - 二七区</key>
+	<integer>1253</integer>
+	<key>河南省 - 郑州 - 出口加工区</key>
+	<integer>1261</integer>
+	<key>河南省 - 郑州 - 巩义市</key>
+	<integer>1262</integer>
+	<key>河南省 - 郑州 - 惠济区</key>
+	<integer>1257</integer>
+	<key>河南省 - 郑州 - 新密市</key>
+	<integer>1264</integer>
+	<key>河南省 - 郑州 - 新郑市</key>
+	<integer>1265</integer>
+	<key>河南省 - 郑州 - 登封市</key>
+	<integer>1266</integer>
+	<key>河南省 - 郑州 - 管城区</key>
+	<integer>1254</integer>
+	<key>河南省 - 郑州 - 经济技术开发区</key>
+	<integer>1259</integer>
+	<key>河南省 - 郑州 - 荥阳市</key>
+	<integer>1263</integer>
+	<key>河南省 - 郑州 - 邙山区</key>
+	<integer>1252</integer>
+	<key>河南省 - 郑州 - 郑东新区</key>
+	<integer>1258</integer>
+	<key>河南省 - 郑州 - 金水区</key>
+	<integer>1251</integer>
+	<key>河南省 - 郑州 - 高新开发区</key>
+	<integer>1260</integer>
+	<key>河南省 - 驻马店 - 上蔡县</key>
+	<integer>1396</integer>
+	<key>河南省 - 驻马店 - 平舆县</key>
+	<integer>1397</integer>
+	<key>河南省 - 驻马店 - 新蔡县</key>
+	<integer>1403</integer>
+	<key>河南省 - 驻马店 - 正阳县</key>
+	<integer>1398</integer>
+	<key>河南省 - 驻马店 - 汝南县</key>
+	<integer>1401</integer>
+	<key>河南省 - 驻马店 - 泌阳县</key>
+	<integer>1400</integer>
+	<key>河南省 - 驻马店 - 确山县</key>
+	<integer>1399</integer>
+	<key>河南省 - 驻马店 - 西平县</key>
+	<integer>1395</integer>
+	<key>河南省 - 驻马店 - 遂平县</key>
+	<integer>1402</integer>
+	<key>河南省 - 驻马店 - 驿城区</key>
+	<integer>1394</integer>
+	<key>河南省 - 鹤壁 - 山城区</key>
+	<integer>1303</integer>
+	<key>河南省 - 鹤壁 - 浚县</key>
+	<integer>1305</integer>
+	<key>河南省 - 鹤壁 - 淇县</key>
+	<integer>1306</integer>
+	<key>河南省 - 鹤壁 - 淇滨区</key>
+	<integer>1302</integer>
+	<key>河南省 - 鹤壁 - 鹤山区</key>
+	<integer>1304</integer>
+	<key>浙江省 - 丽水 - 云和县</key>
+	<integer>3276</integer>
+	<key>浙江省 - 丽水 - 庆元县</key>
+	<integer>3277</integer>
+	<key>浙江省 - 丽水 - 景宁</key>
+	<integer>3278</integer>
+	<key>浙江省 - 丽水 - 松阳县</key>
+	<integer>3275</integer>
+	<key>浙江省 - 丽水 - 缙云县</key>
+	<integer>3273</integer>
+	<key>浙江省 - 丽水 - 莲都区</key>
+	<integer>3270</integer>
+	<key>浙江省 - 丽水 - 遂昌县</key>
+	<integer>3274</integer>
+	<key>浙江省 - 丽水 - 青田县</key>
+	<integer>3272</integer>
+	<key>浙江省 - 丽水 - 龙泉市</key>
+	<integer>3271</integer>
+	<key>浙江省 - 台州 - 三门县</key>
+	<integer>3302</integer>
+	<key>浙江省 - 台州 - 临海市</key>
+	<integer>3300</integer>
+	<key>浙江省 - 台州 - 仙居县</key>
+	<integer>3304</integer>
+	<key>浙江省 - 台州 - 天台县</key>
+	<integer>3303</integer>
+	<key>浙江省 - 台州 - 椒江区</key>
+	<integer>3296</integer>
+	<key>浙江省 - 台州 - 温岭市</key>
+	<integer>3299</integer>
+	<key>浙江省 - 台州 - 玉环县</key>
+	<integer>3301</integer>
+	<key>浙江省 - 台州 - 路桥区</key>
+	<integer>3298</integer>
+	<key>浙江省 - 台州 - 黄岩区</key>
+	<integer>3297</integer>
+	<key>浙江省 - 嘉兴 - 南湖区</key>
+	<integer>3248</integer>
+	<key>浙江省 - 嘉兴 - 嘉善县</key>
+	<integer>3251</integer>
+	<key>浙江省 - 嘉兴 - 平湖市</key>
+	<integer>3252</integer>
+	<key>浙江省 - 嘉兴 - 桐乡市</key>
+	<integer>3253</integer>
+	<key>浙江省 - 嘉兴 - 海宁市</key>
+	<integer>3250</integer>
+	<key>浙江省 - 嘉兴 - 海盐县</key>
+	<integer>3254</integer>
+	<key>浙江省 - 嘉兴 - 秀洲区</key>
+	<integer>3249</integer>
+	<key>浙江省 - 宁波 - 余姚市</key>
+	<integer>3285</integer>
+	<key>浙江省 - 宁波 - 北仑区</key>
+	<integer>3283</integer>
+	<key>浙江省 - 宁波 - 奉化市</key>
+	<integer>3287</integer>
+	<key>浙江省 - 宁波 - 宁海县</key>
+	<integer>3289</integer>
+	<key>浙江省 - 宁波 - 慈溪市</key>
+	<integer>3286</integer>
+	<key>浙江省 - 宁波 - 江东区</key>
+	<integer>3280</integer>
+	<key>浙江省 - 宁波 - 江北区</key>
+	<integer>3281</integer>
+	<key>浙江省 - 宁波 - 海曙区</key>
+	<integer>3279</integer>
+	<key>浙江省 - 宁波 - 象山县</key>
+	<integer>3288</integer>
+	<key>浙江省 - 宁波 - 鄞州区</key>
+	<integer>3284</integer>
+	<key>浙江省 - 宁波 - 镇海区</key>
+	<integer>3282</integer>
+	<key>浙江省 - 杭州 - 上城区</key>
+	<integer>3230</integer>
+	<key>浙江省 - 杭州 - 下城区</key>
+	<integer>3231</integer>
+	<key>浙江省 - 杭州 - 临安市</key>
+	<integer>3240</integer>
+	<key>浙江省 - 杭州 - 余杭区</key>
+	<integer>3236</integer>
+	<key>浙江省 - 杭州 - 富阳市</key>
+	<integer>3239</integer>
+	<key>浙江省 - 杭州 - 市郊</key>
+	<integer>3237</integer>
+	<key>浙江省 - 杭州 - 建德市</key>
+	<integer>3238</integer>
+	<key>浙江省 - 杭州 - 拱墅区</key>
+	<integer>3232</integer>
+	<key>浙江省 - 杭州 - 桐庐县</key>
+	<integer>3241</integer>
+	<key>浙江省 - 杭州 - 江干区</key>
+	<integer>3234</integer>
+	<key>浙江省 - 杭州 - 淳安县</key>
+	<integer>3242</integer>
+	<key>浙江省 - 杭州 - 滨江区</key>
+	<integer>3233</integer>
+	<key>浙江省 - 杭州 - 萧山区</key>
+	<integer>3235</integer>
+	<key>浙江省 - 杭州 - 西湖区</key>
+	<integer>3229</integer>
+	<key>浙江省 - 温州 - 乐清市</key>
+	<integer>3309</integer>
+	<key>浙江省 - 温州 - 平阳县</key>
+	<integer>3312</integer>
+	<key>浙江省 - 温州 - 文成县</key>
+	<integer>3314</integer>
+	<key>浙江省 - 温州 - 永嘉县</key>
+	<integer>3311</integer>
+	<key>浙江省 - 温州 - 泰顺县</key>
+	<integer>3315</integer>
+	<key>浙江省 - 温州 - 洞头县</key>
+	<integer>3310</integer>
+	<key>浙江省 - 温州 - 瑞安市</key>
+	<integer>3308</integer>
+	<key>浙江省 - 温州 - 瓯海区</key>
+	<integer>3307</integer>
+	<key>浙江省 - 温州 - 苍南县</key>
+	<integer>3313</integer>
+	<key>浙江省 - 温州 - 鹿城区</key>
+	<integer>3305</integer>
+	<key>浙江省 - 温州 - 龙湾区</key>
+	<integer>3306</integer>
+	<key>浙江省 - 湖州 - 南浔区</key>
+	<integer>3244</integer>
+	<key>浙江省 - 湖州 - 吴兴区</key>
+	<integer>3243</integer>
+	<key>浙江省 - 湖州 - 安吉县</key>
+	<integer>3247</integer>
+	<key>浙江省 - 湖州 - 德清县</key>
+	<integer>3245</integer>
+	<key>浙江省 - 湖州 - 长兴县</key>
+	<integer>3246</integer>
+	<key>浙江省 - 绍兴 - 上虞市</key>
+	<integer>3291</integer>
+	<key>浙江省 - 绍兴 - 嵊州市</key>
+	<integer>3292</integer>
+	<key>浙江省 - 绍兴 - 新昌县</key>
+	<integer>3294</integer>
+	<key>浙江省 - 绍兴 - 绍兴县</key>
+	<integer>3293</integer>
+	<key>浙江省 - 绍兴 - 诸暨市</key>
+	<integer>3295</integer>
+	<key>浙江省 - 绍兴 - 越城区</key>
+	<integer>3290</integer>
+	<key>浙江省 - 舟山 - 定海区</key>
+	<integer>3316</integer>
+	<key>浙江省 - 舟山 - 岱山县</key>
+	<integer>3318</integer>
+	<key>浙江省 - 舟山 - 嵊泗县</key>
+	<integer>3319</integer>
+	<key>浙江省 - 舟山 - 普陀区</key>
+	<integer>3317</integer>
+	<key>浙江省 - 衢州 - 常山县</key>
+	<integer>3322</integer>
+	<key>浙江省 - 衢州 - 开化县</key>
+	<integer>3323</integer>
+	<key>浙江省 - 衢州 - 江山市</key>
+	<integer>3321</integer>
+	<key>浙江省 - 衢州 - 衢州市</key>
+	<integer>3320</integer>
+	<key>浙江省 - 衢州 - 龙游县</key>
+	<integer>3324</integer>
+	<key>浙江省 - 金华 - 上溪镇</key>
+	<integer>3260</integer>
+	<key>浙江省 - 金华 - 东阳市</key>
+	<integer>3265</integer>
+	<key>浙江省 - 金华 - 义亭镇</key>
+	<integer>3261</integer>
+	<key>浙江省 - 金华 - 佛堂镇</key>
+	<integer>3259</integer>
+	<key>浙江省 - 金华 - 兰溪市</key>
+	<integer>3257</integer>
+	<key>浙江省 - 金华 - 大陈镇</key>
+	<integer>3262</integer>
+	<key>浙江省 - 金华 - 婺城区</key>
+	<integer>3255</integer>
+	<key>浙江省 - 金华 - 市区</key>
+	<integer>3258</integer>
+	<key>浙江省 - 金华 - 武义县</key>
+	<integer>3267</integer>
+	<key>浙江省 - 金华 - 永康市</key>
+	<integer>3266</integer>
+	<key>浙江省 - 金华 - 浦江县</key>
+	<integer>3268</integer>
+	<key>浙江省 - 金华 - 磐安县</key>
+	<integer>3269</integer>
+	<key>浙江省 - 金华 - 苏溪镇</key>
+	<integer>3263</integer>
+	<key>浙江省 - 金华 - 赤岸镇</key>
+	<integer>3264</integer>
+	<key>浙江省 - 金华 - 金东区</key>
+	<integer>3256</integer>
+	<key>海南省 - 儋州 - 三都镇</key>
+	<integer>1076</integer>
+	<key>海南省 - 儋州 - 东成镇</key>
+	<integer>1072</integer>
+	<key>海南省 - 儋州 - 中和镇</key>
+	<integer>1064</integer>
+	<key>海南省 - 儋州 - 光村镇</key>
+	<integer>1073</integer>
+	<key>海南省 - 儋州 - 兰洋镇</key>
+	<integer>1068</integer>
+	<key>海南省 - 儋州 - 其他</key>
+	<integer>1077</integer>
+	<key>海南省 - 儋州 - 南丰镇</key>
+	<integer>1066</integer>
+	<key>海南省 - 儋州 - 和庆镇</key>
+	<integer>1069</integer>
+	<key>海南省 - 儋州 - 大成镇</key>
+	<integer>1063</integer>
+	<key>海南省 - 儋州 - 峨蔓镇</key>
+	<integer>1065</integer>
+	<key>海南省 - 儋州 - 市区</key>
+	<integer>1058</integer>
+	<key>海南省 - 儋州 - 排浦镇</key>
+	<integer>1071</integer>
+	<key>海南省 - 儋州 - 新州镇</key>
+	<integer>1075</integer>
+	<key>海南省 - 儋州 - 木棠镇</key>
+	<integer>1074</integer>
+	<key>海南省 - 儋州 - 洋浦开发区</key>
+	<integer>1059</integer>
+	<key>海南省 - 儋州 - 海头镇</key>
+	<integer>1070</integer>
+	<key>海南省 - 儋州 - 王五镇</key>
+	<integer>1061</integer>
+	<key>海南省 - 儋州 - 白马井镇</key>
+	<integer>1067</integer>
+	<key>海南省 - 儋州 - 那大镇</key>
+	<integer>1060</integer>
+	<key>海南省 - 儋州 - 雅星镇</key>
+	<integer>1062</integer>
+	<key>海南省 - 海口 - 琼山区</key>
+	<integer>1056</integer>
+	<key>海南省 - 海口 - 秀英区</key>
+	<integer>1054</integer>
+	<key>海南省 - 海口 - 美兰区</key>
+	<integer>1057</integer>
+	<key>海南省 - 海口 - 龙华区</key>
+	<integer>1055</integer>
+	<key>湖北省 - 仙桃 - 仙桃市</key>
+	<integer>1558</integer>
+	<key>湖北省 - 十堰 - 丹江口市</key>
+	<integer>1595</integer>
+	<key>湖北省 - 十堰 - 张湾区</key>
+	<integer>1593</integer>
+	<key>湖北省 - 十堰 - 房县</key>
+	<integer>1600</integer>
+	<key>湖北省 - 十堰 - 竹山县</key>
+	<integer>1598</integer>
+	<key>湖北省 - 十堰 - 竹溪县</key>
+	<integer>1599</integer>
+	<key>湖北省 - 十堰 - 茅箭区</key>
+	<integer>1594</integer>
+	<key>湖北省 - 十堰 - 郧县</key>
+	<integer>1596</integer>
+	<key>湖北省 - 十堰 - 郧西县</key>
+	<integer>1597</integer>
+	<key>湖北省 - 咸宁 - 咸安区</key>
+	<integer>1604</integer>
+	<key>湖北省 - 咸宁 - 嘉鱼县</key>
+	<integer>1606</integer>
+	<key>湖北省 - 咸宁 - 崇阳县</key>
+	<integer>1608</integer>
+	<key>湖北省 - 咸宁 - 赤壁市</key>
+	<integer>1605</integer>
+	<key>湖北省 - 咸宁 - 通城县</key>
+	<integer>1607</integer>
+	<key>湖北省 - 咸宁 - 通山县</key>
+	<integer>1609</integer>
+	<key>湖北省 - 天门 - 天门市</key>
+	<integer>1603</integer>
+	<key>湖北省 - 孝感 - 云梦县</key>
+	<integer>1625</integer>
+	<key>湖北省 - 孝感 - 大悟县</key>
+	<integer>1624</integer>
+	<key>湖北省 - 孝感 - 孝南区</key>
+	<integer>1619</integer>
+	<key>湖北省 - 孝感 - 孝昌县</key>
+	<integer>1623</integer>
+	<key>湖北省 - 孝感 - 安陆市</key>
+	<integer>1621</integer>
+	<key>湖北省 - 孝感 - 应城市</key>
+	<integer>1620</integer>
+	<key>湖北省 - 孝感 - 汉川市</key>
+	<integer>1622</integer>
+	<key>湖北省 - 宜昌 - 五峰</key>
+	<integer>1627</integer>
+	<key>湖北省 - 宜昌 - 伍家岗区</key>
+	<integer>1629</integer>
+	<key>湖北省 - 宜昌 - 兴山县</key>
+	<integer>1637</integer>
+	<key>湖北省 - 宜昌 - 夷陵区</key>
+	<integer>1632</integer>
+	<key>湖北省 - 宜昌 - 宜都市</key>
+	<integer>1633</integer>
+	<key>湖北省 - 宜昌 - 当阳市</key>
+	<integer>1634</integer>
+	<key>湖北省 - 宜昌 - 枝江市</key>
+	<integer>1635</integer>
+	<key>湖北省 - 宜昌 - 点军区</key>
+	<integer>1630</integer>
+	<key>湖北省 - 宜昌 - 猇亭区</key>
+	<integer>1631</integer>
+	<key>湖北省 - 宜昌 - 秭归县</key>
+	<integer>1638</integer>
+	<key>湖北省 - 宜昌 - 西陵区</key>
+	<integer>1628</integer>
+	<key>湖北省 - 宜昌 - 远安县</key>
+	<integer>1636</integer>
+	<key>湖北省 - 宜昌 - 长阳</key>
+	<integer>1626</integer>
+	<key>湖北省 - 恩施 - 利川市</key>
+	<integer>1640</integer>
+	<key>湖北省 - 恩施 - 咸丰县</key>
+	<integer>1644</integer>
+	<key>湖北省 - 恩施 - 宣恩县</key>
+	<integer>1643</integer>
+	<key>湖北省 - 恩施 - 巴东县</key>
+	<integer>1642</integer>
+	<key>湖北省 - 恩施 - 建始县</key>
+	<integer>1641</integer>
+	<key>湖北省 - 恩施 - 恩施市</key>
+	<integer>1639</integer>
+	<key>湖北省 - 恩施 - 来凤县</key>
+	<integer>1645</integer>
+	<key>湖北省 - 恩施 - 鹤峰县</key>
+	<integer>1646</integer>
+	<key>湖北省 - 武汉 - 东西湖区</key>
+	<integer>1551</integer>
+	<key>湖北省 - 武汉 - 新洲区</key>
+	<integer>1556</integer>
+	<key>湖北省 - 武汉 - 武昌区</key>
+	<integer>1545</integer>
+	<key>湖北省 - 武汉 - 汉南区</key>
+	<integer>1552</integer>
+	<key>湖北省 - 武汉 - 汉阳区</key>
+	<integer>1548</integer>
+	<key>湖北省 - 武汉 - 江夏区</key>
+	<integer>1554</integer>
+	<key>湖北省 - 武汉 - 江岸区</key>
+	<integer>1544</integer>
+	<key>湖北省 - 武汉 - 江汉区</key>
+	<integer>1546</integer>
+	<key>湖北省 - 武汉 - 洪山区</key>
+	<integer>1550</integer>
+	<key>湖北省 - 武汉 - 硚口区</key>
+	<integer>1547</integer>
+	<key>湖北省 - 武汉 - 经济开发区</key>
+	<integer>1557</integer>
+	<key>湖北省 - 武汉 - 蔡甸区</key>
+	<integer>1553</integer>
+	<key>湖北省 - 武汉 - 青山区</key>
+	<integer>1549</integer>
+	<key>湖北省 - 武汉 - 黄陂区</key>
+	<integer>1555</integer>
+	<key>湖北省 - 潜江 - 潜江市</key>
+	<integer>1591</integer>
+	<key>湖北省 - 神农架林区 - 神农架林区</key>
+	<integer>1592</integer>
+	<key>湖北省 - 荆州 - 公安县</key>
+	<integer>1588</integer>
+	<key>湖北省 - 荆州 - 松滋市</key>
+	<integer>1587</integer>
+	<key>湖北省 - 荆州 - 江陵县</key>
+	<integer>1590</integer>
+	<key>湖北省 - 荆州 - 沙市区</key>
+	<integer>1583</integer>
+	<key>湖北省 - 荆州 - 洪湖市</key>
+	<integer>1586</integer>
+	<key>湖北省 - 荆州 - 监利县</key>
+	<integer>1589</integer>
+	<key>湖北省 - 荆州 - 石首市</key>
+	<integer>1585</integer>
+	<key>湖北省 - 荆州 - 荆州区</key>
+	<integer>1584</integer>
+	<key>湖北省 - 荆门 - 东宝区</key>
+	<integer>1578</integer>
+	<key>湖北省 - 荆门 - 京山县</key>
+	<integer>1581</integer>
+	<key>湖北省 - 荆门 - 掇刀区</key>
+	<integer>1579</integer>
+	<key>湖北省 - 荆门 - 沙洋县</key>
+	<integer>1582</integer>
+	<key>湖北省 - 荆门 - 钟祥市</key>
+	<integer>1580</integer>
+	<key>湖北省 - 襄樊 - 保康县</key>
+	<integer>1618</integer>
+	<key>湖北省 - 襄樊 - 南漳县</key>
+	<integer>1616</integer>
+	<key>湖北省 - 襄樊 - 宜城市</key>
+	<integer>1615</integer>
+	<key>湖北省 - 襄樊 - 枣阳市</key>
+	<integer>1614</integer>
+	<key>湖北省 - 襄樊 - 樊城区</key>
+	<integer>1611</integer>
+	<key>湖北省 - 襄樊 - 老河口市</key>
+	<integer>1613</integer>
+	<key>湖北省 - 襄樊 - 襄城区</key>
+	<integer>1610</integer>
+	<key>湖北省 - 襄樊 - 襄阳区</key>
+	<integer>1612</integer>
+	<key>湖北省 - 襄樊 - 谷城县</key>
+	<integer>1617</integer>
+	<key>湖北省 - 鄂州 - 华容区</key>
+	<integer>1560</integer>
+	<key>湖北省 - 鄂州 - 梁子湖区</key>
+	<integer>1561</integer>
+	<key>湖北省 - 鄂州 - 鄂城区</key>
+	<integer>1559</integer>
+	<key>湖北省 - 随州 - 广水市</key>
+	<integer>1602</integer>
+	<key>湖北省 - 随州 - 曾都区</key>
+	<integer>1601</integer>
+	<key>湖北省 - 黄冈 - 团风县</key>
+	<integer>1565</integer>
+	<key>湖北省 - 黄冈 - 武穴市</key>
+	<integer>1564</integer>
+	<key>湖北省 - 黄冈 - 浠水县</key>
+	<integer>1569</integer>
+	<key>湖北省 - 黄冈 - 红安县</key>
+	<integer>1566</integer>
+	<key>湖北省 - 黄冈 - 罗田县</key>
+	<integer>1567</integer>
+	<key>湖北省 - 黄冈 - 英山县</key>
+	<integer>1568</integer>
+	<key>湖北省 - 黄冈 - 蕲春县</key>
+	<integer>1570</integer>
+	<key>湖北省 - 黄冈 - 麻城市</key>
+	<integer>1563</integer>
+	<key>湖北省 - 黄冈 - 黄州区</key>
+	<integer>1562</integer>
+	<key>湖北省 - 黄冈 - 黄梅县</key>
+	<integer>1571</integer>
+	<key>湖北省 - 黄石 - 下陆区</key>
+	<integer>1574</integer>
+	<key>湖北省 - 黄石 - 大冶市</key>
+	<integer>1576</integer>
+	<key>湖北省 - 黄石 - 西塞山区</key>
+	<integer>1573</integer>
+	<key>湖北省 - 黄石 - 铁山区</key>
+	<integer>1575</integer>
+	<key>湖北省 - 黄石 - 阳新县</key>
+	<integer>1577</integer>
+	<key>湖北省 - 黄石 - 黄石港区</key>
+	<integer>1572</integer>
+	<key>湖南省 - 娄底 - 冷水江市</key>
+	<integer>1706</integer>
+	<key>湖南省 - 娄底 - 双峰县</key>
+	<integer>1708</integer>
+	<key>湖南省 - 娄底 - 娄星区</key>
+	<integer>1705</integer>
+	<key>湖南省 - 娄底 - 新化县</key>
+	<integer>1709</integer>
+	<key>湖南省 - 娄底 - 涟源市</key>
+	<integer>1707</integer>
+	<key>湖南省 - 岳阳 - 临湘市</key>
+	<integer>1756</integer>
+	<key>湖南省 - 岳阳 - 云溪区</key>
+	<integer>1754</integer>
+	<key>湖南省 - 岳阳 - 华容县</key>
+	<integer>1758</integer>
+	<key>湖南省 - 岳阳 - 君山区</key>
+	<integer>1753</integer>
+	<key>湖南省 - 岳阳 - 岳阳县</key>
+	<integer>1757</integer>
+	<key>湖南省 - 岳阳 - 岳阳楼区</key>
+	<integer>1752</integer>
+	<key>湖南省 - 岳阳 - 平江县</key>
+	<integer>1760</integer>
+	<key>湖南省 - 岳阳 - 汨罗市</key>
+	<integer>1755</integer>
+	<key>湖南省 - 岳阳 - 湘阴县</key>
+	<integer>1759</integer>
+	<key>湖南省 - 常德 - 临澧县</key>
+	<integer>1667</integer>
+	<key>湖南省 - 常德 - 安乡县</key>
+	<integer>1664</integer>
+	<key>湖南省 - 常德 - 桃源县</key>
+	<integer>1668</integer>
+	<key>湖南省 - 常德 - 武陵区</key>
+	<integer>1661</integer>
+	<key>湖南省 - 常德 - 汉寿县</key>
+	<integer>1665</integer>
+	<key>湖南省 - 常德 - 津市市</key>
+	<integer>1663</integer>
+	<key>湖南省 - 常德 - 澧县</key>
+	<integer>1666</integer>
+	<key>湖南省 - 常德 - 石门县</key>
+	<integer>1669</integer>
+	<key>湖南省 - 常德 - 鼎城区</key>
+	<integer>1662</integer>
+	<key>湖南省 - 张家界 - 慈利县</key>
+	<integer>1659</integer>
+	<key>湖南省 - 张家界 - 桑植县</key>
+	<integer>1660</integer>
+	<key>湖南省 - 张家界 - 武陵源区</key>
+	<integer>1658</integer>
+	<key>湖南省 - 张家界 - 永定区</key>
+	<integer>1657</integer>
+	<key>湖南省 - 怀化 - 中方县</key>
+	<integer>1702</integer>
+	<key>湖南省 - 怀化 - 会同县</key>
+	<integer>1703</integer>
+	<key>湖南省 - 怀化 - 新晃</key>
+	<integer>1697</integer>
+	<key>湖南省 - 怀化 - 沅陵县</key>
+	<integer>1699</integer>
+	<key>湖南省 - 怀化 - 洪江市</key>
+	<integer>1704</integer>
+	<key>湖南省 - 怀化 - 溆浦县</key>
+	<integer>1701</integer>
+	<key>湖南省 - 怀化 - 芷江</key>
+	<integer>1698</integer>
+	<key>湖南省 - 怀化 - 辰溪县</key>
+	<integer>1700</integer>
+	<key>湖南省 - 怀化 - 通道</key>
+	<integer>1696</integer>
+	<key>湖南省 - 怀化 - 靖州</key>
+	<integer>1694</integer>
+	<key>湖南省 - 怀化 - 鹤城区</key>
+	<integer>1693</integer>
+	<key>湖南省 - 怀化 - 麻阳</key>
+	<integer>1695</integer>
+	<key>湖南省 - 株洲 - 天元区</key>
+	<integer>1761</integer>
+	<key>湖南省 - 株洲 - 攸县</key>
+	<integer>1767</integer>
+	<key>湖南省 - 株洲 - 株洲县</key>
+	<integer>1766</integer>
+	<key>湖南省 - 株洲 - 炎陵县</key>
+	<integer>1769</integer>
+	<key>湖南省 - 株洲 - 石峰区</key>
+	<integer>1764</integer>
+	<key>湖南省 - 株洲 - 芦淞区</key>
+	<integer>1763</integer>
+	<key>湖南省 - 株洲 - 茶陵县</key>
+	<integer>1768</integer>
+	<key>湖南省 - 株洲 - 荷塘区</key>
+	<integer>1762</integer>
+	<key>湖南省 - 株洲 - 醴陵市</key>
+	<integer>1765</integer>
+	<key>湖南省 - 永州 - 东安县</key>
+	<integer>1745</integer>
+	<key>湖南省 - 永州 - 冷水滩区</key>
+	<integer>1742</integer>
+	<key>湖南省 - 永州 - 双牌县</key>
+	<integer>1746</integer>
+	<key>湖南省 - 永州 - 宁远县</key>
+	<integer>1749</integer>
+	<key>湖南省 - 永州 - 新田县</key>
+	<integer>1751</integer>
+	<key>湖南省 - 永州 - 江华</key>
+	<integer>1741</integer>
+	<key>湖南省 - 永州 - 江永县</key>
+	<integer>1748</integer>
+	<key>湖南省 - 永州 - 祁阳县</key>
+	<integer>1744</integer>
+	<key>湖南省 - 永州 - 蓝山县</key>
+	<integer>1750</integer>
+	<key>湖南省 - 永州 - 道县</key>
+	<integer>1747</integer>
+	<key>湖南省 - 永州 - 零陵区</key>
+	<integer>1743</integer>
+	<key>湖南省 - 湘潭 - 岳塘区</key>
+	<integer>1722</integer>
+	<key>湖南省 - 湘潭 - 湘乡市</key>
+	<integer>1724</integer>
+	<key>湖南省 - 湘潭 - 湘潭县</key>
+	<integer>1726</integer>
+	<key>湖南省 - 湘潭 - 雨湖区</key>
+	<integer>1723</integer>
+	<key>湖南省 - 湘潭 - 韶山市</key>
+	<integer>1725</integer>
+	<key>湖南省 - 湘西 - 保靖县</key>
+	<integer>1731</integer>
+	<key>湖南省 - 湘西 - 凤凰县</key>
+	<integer>1729</integer>
+	<key>湖南省 - 湘西 - 古丈县</key>
+	<integer>1732</integer>
+	<key>湖南省 - 湘西 - 吉首市</key>
+	<integer>1727</integer>
+	<key>湖南省 - 湘西 - 永顺县</key>
+	<integer>1733</integer>
+	<key>湖南省 - 湘西 - 泸溪县</key>
+	<integer>1728</integer>
+	<key>湖南省 - 湘西 - 花垣县</key>
+	<integer>1730</integer>
+	<key>湖南省 - 湘西 - 龙山县</key>
+	<integer>1734</integer>
+	<key>湖南省 - 益阳 - 南县</key>
+	<integer>1738</integer>
+	<key>湖南省 - 益阳 - 安化县</key>
+	<integer>1740</integer>
+	<key>湖南省 - 益阳 - 桃江县</key>
+	<integer>1739</integer>
+	<key>湖南省 - 益阳 - 沅江市</key>
+	<integer>1737</integer>
+	<key>湖南省 - 益阳 - 资阳区</key>
+	<integer>1736</integer>
+	<key>湖南省 - 益阳 - 赫山区</key>
+	<integer>1735</integer>
+	<key>湖南省 - 衡阳 - 南岳区</key>
+	<integer>1685</integer>
+	<key>湖南省 - 衡阳 - 常宁市</key>
+	<integer>1687</integer>
+	<key>湖南省 - 衡阳 - 珠晖区</key>
+	<integer>1682</integer>
+	<key>湖南省 - 衡阳 - 石鼓区</key>
+	<integer>1683</integer>
+	<key>湖南省 - 衡阳 - 祁东县</key>
+	<integer>1692</integer>
+	<key>湖南省 - 衡阳 - 耒阳市</key>
+	<integer>1686</integer>
+	<key>湖南省 - 衡阳 - 蒸湘区</key>
+	<integer>1684</integer>
+	<key>湖南省 - 衡阳 - 衡东县</key>
+	<integer>1691</integer>
+	<key>湖南省 - 衡阳 - 衡南县</key>
+	<integer>1689</integer>
+	<key>湖南省 - 衡阳 - 衡山县</key>
+	<integer>1690</integer>
+	<key>湖南省 - 衡阳 - 衡阳县</key>
+	<integer>1688</integer>
+	<key>湖南省 - 衡阳 - 雁峰区</key>
+	<integer>1681</integer>
+	<key>湖南省 - 邵阳 - 北塔区</key>
+	<integer>1713</integer>
+	<key>湖南省 - 邵阳 - 双清区</key>
+	<integer>1711</integer>
+	<key>湖南省 - 邵阳 - 城步</key>
+	<integer>1710</integer>
+	<key>湖南省 - 邵阳 - 大祥区</key>
+	<integer>1712</integer>
+	<key>湖南省 - 邵阳 - 新宁县</key>
+	<integer>1721</integer>
+	<key>湖南省 - 邵阳 - 新邵县</key>
+	<integer>1716</integer>
+	<key>湖南省 - 邵阳 - 武冈市</key>
+	<integer>1714</integer>
+	<key>湖南省 - 邵阳 - 洞口县</key>
+	<integer>1719</integer>
+	<key>湖南省 - 邵阳 - 绥宁县</key>
+	<integer>1720</integer>
+	<key>湖南省 - 邵阳 - 邵东县</key>
+	<integer>1715</integer>
+	<key>湖南省 - 邵阳 - 邵阳县</key>
+	<integer>1717</integer>
+	<key>湖南省 - 邵阳 - 隆回县</key>
+	<integer>1718</integer>
+	<key>湖南省 - 郴州 - 临武县</key>
+	<integer>1677</integer>
+	<key>湖南省 - 郴州 - 北湖区</key>
+	<integer>1670</integer>
+	<key>湖南省 - 郴州 - 嘉禾县</key>
+	<integer>1676</integer>
+	<key>湖南省 - 郴州 - 安仁县</key>
+	<integer>1680</integer>
+	<key>湖南省 - 郴州 - 宜章县</key>
+	<integer>1674</integer>
+	<key>湖南省 - 郴州 - 桂东县</key>
+	<integer>1679</integer>
+	<key>湖南省 - 郴州 - 桂阳县</key>
+	<integer>1673</integer>
+	<key>湖南省 - 郴州 - 永兴县</key>
+	<integer>1675</integer>
+	<key>湖南省 - 郴州 - 汝城县</key>
+	<integer>1678</integer>
+	<key>湖南省 - 郴州 - 苏仙区</key>
+	<integer>1671</integer>
+	<key>湖南省 - 郴州 - 资兴市</key>
+	<integer>1672</integer>
+	<key>湖南省 - 长沙 - 天心区</key>
+	<integer>1649</integer>
+	<key>湖南省 - 长沙 - 宁乡县</key>
+	<integer>1656</integer>
+	<key>湖南省 - 长沙 - 岳麓区</key>
+	<integer>1647</integer>
+	<key>湖南省 - 长沙 - 开发区</key>
+	<integer>1652</integer>
+	<key>湖南省 - 长沙 - 开福区</key>
+	<integer>1650</integer>
+	<key>湖南省 - 长沙 - 望城县</key>
+	<integer>1655</integer>
+	<key>湖南省 - 长沙 - 浏阳市</key>
+	<integer>1653</integer>
+	<key>湖南省 - 长沙 - 芙蓉区</key>
+	<integer>1648</integer>
+	<key>湖南省 - 长沙 - 长沙县</key>
+	<integer>1654</integer>
+	<key>湖南省 - 长沙 - 雨花区</key>
+	<integer>1651</integer>
+	<key>澳门 - 澳门 - 澳门</key>
+	<integer>3383</integer>
+	<key>甘肃省 - 临夏 - 东乡族自治县</key>
+	<integer>649</integer>
+	<key>甘肃省 - 临夏 - 临夏县</key>
+	<integer>644</integer>
+	<key>甘肃省 - 临夏 - 临夏市</key>
+	<integer>643</integer>
+	<key>甘肃省 - 临夏 - 和政县</key>
+	<integer>648</integer>
+	<key>甘肃省 - 临夏 - 广河县</key>
+	<integer>647</integer>
+	<key>甘肃省 - 临夏 - 康乐县</key>
+	<integer>645</integer>
+	<key>甘肃省 - 临夏 - 永靖县</key>
+	<integer>646</integer>
+	<key>甘肃省 - 临夏 - 积石山</key>
+	<integer>650</integer>
+	<key>甘肃省 - 兰州 - 七里河区</key>
+	<integer>606</integer>
+	<key>甘肃省 - 兰州 - 城关区</key>
+	<integer>605</integer>
+	<key>甘肃省 - 兰州 - 安宁区</key>
+	<integer>608</integer>
+	<key>甘肃省 - 兰州 - 榆中县</key>
+	<integer>611</integer>
+	<key>甘肃省 - 兰州 - 永登县</key>
+	<integer>610</integer>
+	<key>甘肃省 - 兰州 - 皋兰县</key>
+	<integer>604</integer>
+	<key>甘肃省 - 兰州 - 红古区</key>
+	<integer>609</integer>
+	<key>甘肃省 - 兰州 - 西固区</key>
+	<integer>607</integer>
+	<key>甘肃省 - 嘉峪关 - 嘉峪关市</key>
+	<integer>633</integer>
+	<key>甘肃省 - 天水 - 张家川</key>
+	<integer>681</integer>
+	<key>甘肃省 - 天水 - 武山县</key>
+	<integer>680</integer>
+	<key>甘肃省 - 天水 - 清水县</key>
+	<integer>677</integer>
+	<key>甘肃省 - 天水 - 甘谷县</key>
+	<integer>675</integer>
+	<key>甘肃省 - 天水 - 秦安县</key>
+	<integer>676</integer>
+	<key>甘肃省 - 天水 - 秦州区</key>
+	<integer>678</integer>
+	<key>甘肃省 - 天水 - 麦积区</key>
+	<integer>679</integer>
+	<key>甘肃省 - 定西 - 临洮县</key>
+	<integer>617</integer>
+	<key>甘肃省 - 定西 - 安定区</key>
+	<integer>624</integer>
+	<key>甘肃省 - 定西 - 岷县</key>
+	<integer>622</integer>
+	<key>甘肃省 - 定西 - 渭源县</key>
+	<integer>620</integer>
+	<key>甘肃省 - 定西 - 漳县</key>
+	<integer>621</integer>
+	<key>甘肃省 - 定西 - 通渭县</key>
+	<integer>619</integer>
+	<key>甘肃省 - 定西 - 陇西县</key>
+	<integer>618</integer>
+	<key>甘肃省 - 平凉 - 华亭县</key>
+	<integer>661</integer>
+	<key>甘肃省 - 平凉 - 崆峒区</key>
+	<integer>664</integer>
+	<key>甘肃省 - 平凉 - 崇信县</key>
+	<integer>660</integer>
+	<key>甘肃省 - 平凉 - 庄浪县</key>
+	<integer>665</integer>
+	<key>甘肃省 - 平凉 - 泾川县</key>
+	<integer>666</integer>
+	<key>甘肃省 - 平凉 - 灵台县</key>
+	<integer>663</integer>
+	<key>甘肃省 - 平凉 - 静宁县</key>
+	<integer>662</integer>
+	<key>甘肃省 - 庆阳 - 华池县</key>
+	<integer>668</integer>
+	<key>甘肃省 - 庆阳 - 合水县</key>
+	<integer>667</integer>
+	<key>甘肃省 - 庆阳 - 宁县</key>
+	<integer>670</integer>
+	<key>甘肃省 - 庆阳 - 庆城县</key>
+	<integer>671</integer>
+	<key>甘肃省 - 庆阳 - 正宁县</key>
+	<integer>674</integer>
+	<key>甘肃省 - 庆阳 - 环县</key>
+	<integer>669</integer>
+	<key>甘肃省 - 庆阳 - 西峰区</key>
+	<integer>672</integer>
+	<key>甘肃省 - 庆阳 - 镇原县</key>
+	<integer>673</integer>
+	<key>甘肃省 - 张掖 - 临泽县</key>
+	<integer>687</integer>
+	<key>甘肃省 - 张掖 - 山丹县</key>
+	<integer>689</integer>
+	<key>甘肃省 - 张掖 - 民乐县</key>
+	<integer>688</integer>
+	<key>甘肃省 - 张掖 - 甘州区</key>
+	<integer>691</integer>
+	<key>甘肃省 - 张掖 - 肃南</key>
+	<integer>690</integer>
+	<key>甘肃省 - 张掖 - 高台县</key>
+	<integer>686</integer>
+	<key>甘肃省 - 武威 - 凉州区</key>
+	<integer>685</integer>
+	<key>甘肃省 - 武威 - 古浪县</key>
+	<integer>682</integer>
+	<key>甘肃省 - 武威 - 天祝</key>
+	<integer>684</integer>
+	<key>甘肃省 - 武威 - 民勤县</key>
+	<integer>683</integer>
+	<key>甘肃省 - 甘南 - 临潭县</key>
+	<integer>626</integer>
+	<key>甘肃省 - 甘南 - 卓尼县</key>
+	<integer>627</integer>
+	<key>甘肃省 - 甘南 - 合作市</key>
+	<integer>625</integer>
+	<key>甘肃省 - 甘南 - 夏河县</key>
+	<integer>632</integer>
+	<key>甘肃省 - 甘南 - 玛曲县</key>
+	<integer>630</integer>
+	<key>甘肃省 - 甘南 - 碌曲县</key>
+	<integer>631</integer>
+	<key>甘肃省 - 甘南 - 舟曲县</key>
+	<integer>628</integer>
+	<key>甘肃省 - 甘南 - 迭部县</key>
+	<integer>629</integer>
+	<key>甘肃省 - 白银 - 会宁县</key>
+	<integer>614</integer>
+	<key>甘肃省 - 白银 - 平川区</key>
+	<integer>613</integer>
+	<key>甘肃省 - 白银 - 景泰县</key>
+	<integer>615</integer>
+	<key>甘肃省 - 白银 - 白银区</key>
+	<integer>612</integer>
+	<key>甘肃省 - 白银 - 靖远县</key>
+	<integer>616</integer>
+	<key>甘肃省 - 酒泉 - 敦煌市</key>
+	<integer>638</integer>
+	<key>甘肃省 - 酒泉 - 玉门市</key>
+	<integer>637</integer>
+	<key>甘肃省 - 酒泉 - 瓜州县</key>
+	<integer>640</integer>
+	<key>甘肃省 - 酒泉 - 肃北</key>
+	<integer>641</integer>
+	<key>甘肃省 - 酒泉 - 肃州区</key>
+	<integer>636</integer>
+	<key>甘肃省 - 酒泉 - 金塔县</key>
+	<integer>639</integer>
+	<key>甘肃省 - 酒泉 - 阿克塞</key>
+	<integer>642</integer>
+	<key>甘肃省 - 金昌 - 永昌县</key>
+	<integer>635</integer>
+	<key>甘肃省 - 金昌 - 金川区</key>
+	<integer>634</integer>
+	<key>甘肃省 - 陇南 - 两当县</key>
+	<integer>655</integer>
+	<key>甘肃省 - 陇南 - 宕昌县</key>
+	<integer>658</integer>
+	<key>甘肃省 - 陇南 - 康县</key>
+	<integer>653</integer>
+	<key>甘肃省 - 陇南 - 徽县</key>
+	<integer>652</integer>
+	<key>甘肃省 - 陇南 - 成县</key>
+	<integer>651</integer>
+	<key>甘肃省 - 陇南 - 文县</key>
+	<integer>656</integer>
+	<key>甘肃省 - 陇南 - 武都区</key>
+	<integer>659</integer>
+	<key>甘肃省 - 陇南 - 礼县</key>
+	<integer>654</integer>
+	<key>甘肃省 - 陇南 - 西和县</key>
+	<integer>657</integer>
+	<key>福建省 - 三明 - 三元区</key>
+	<integer>576</integer>
+	<key>福建省 - 三明 - 大田县</key>
+	<integer>581</integer>
+	<key>福建省 - 三明 - 宁化县</key>
+	<integer>580</integer>
+	<key>福建省 - 三明 - 将乐县</key>
+	<integer>584</integer>
+	<key>福建省 - 三明 - 尤溪县</key>
+	<integer>582</integer>
+	<key>福建省 - 三明 - 建宁县</key>
+	<integer>586</integer>
+	<key>福建省 - 三明 - 明溪县</key>
+	<integer>578</integer>
+	<key>福建省 - 三明 - 梅列区</key>
+	<integer>575</integer>
+	<key>福建省 - 三明 - 永安市</key>
+	<integer>577</integer>
+	<key>福建省 - 三明 - 沙县</key>
+	<integer>583</integer>
+	<key>福建省 - 三明 - 泰宁县</key>
+	<integer>585</integer>
+	<key>福建省 - 三明 - 清流县</key>
+	<integer>579</integer>
+	<key>福建省 - 南平 - 光泽县</key>
+	<integer>545</integer>
+	<key>福建省 - 南平 - 延平区</key>
+	<integer>538</integer>
+	<key>福建省 - 南平 - 建瓯市</key>
+	<integer>541</integer>
+	<key>福建省 - 南平 - 建阳市</key>
+	<integer>542</integer>
+	<key>福建省 - 南平 - 政和县</key>
+	<integer>547</integer>
+	<key>福建省 - 南平 - 松溪县</key>
+	<integer>546</integer>
+	<key>福建省 - 南平 - 武夷山市</key>
+	<integer>540</integer>
+	<key>福建省 - 南平 - 浦城县</key>
+	<integer>544</integer>
+	<key>福建省 - 南平 - 邵武市</key>
+	<integer>539</integer>
+	<key>福建省 - 南平 - 顺昌县</key>
+	<integer>543</integer>
+	<key>福建省 - 厦门 - 同安区</key>
+	<integer>591</integer>
+	<key>福建省 - 厦门 - 思明区</key>
+	<integer>587</integer>
+	<key>福建省 - 厦门 - 海沧区</key>
+	<integer>588</integer>
+	<key>福建省 - 厦门 - 湖里区</key>
+	<integer>589</integer>
+	<key>福建省 - 厦门 - 翔安区</key>
+	<integer>592</integer>
+	<key>福建省 - 厦门 - 集美区</key>
+	<integer>590</integer>
+	<key>福建省 - 宁德 - 古田县</key>
+	<integer>552</integer>
+	<key>福建省 - 宁德 - 周宁县</key>
+	<integer>555</integer>
+	<key>福建省 - 宁德 - 寿宁县</key>
+	<integer>554</integer>
+	<key>福建省 - 宁德 - 屏南县</key>
+	<integer>553</integer>
+	<key>福建省 - 宁德 - 柘荣县</key>
+	<integer>556</integer>
+	<key>福建省 - 宁德 - 福安市</key>
+	<integer>549</integer>
+	<key>福建省 - 宁德 - 福鼎市</key>
+	<integer>550</integer>
+	<key>福建省 - 宁德 - 蕉城区</key>
+	<integer>548</integer>
+	<key>福建省 - 宁德 - 霞浦县</key>
+	<integer>551</integer>
+	<key>福建省 - 泉州 - 丰泽区</key>
+	<integer>563</integer>
+	<key>福建省 - 泉州 - 南安市</key>
+	<integer>569</integer>
+	<key>福建省 - 泉州 - 安溪县</key>
+	<integer>571</integer>
+	<key>福建省 - 泉州 - 德化县</key>
+	<integer>573</integer>
+	<key>福建省 - 泉州 - 惠安县</key>
+	<integer>570</integer>
+	<key>福建省 - 泉州 - 晋江市</key>
+	<integer>568</integer>
+	<key>福建省 - 泉州 - 永春县</key>
+	<integer>572</integer>
+	<key>福建省 - 泉州 - 泉港区</key>
+	<integer>566</integer>
+	<key>福建省 - 泉州 - 洛江区</key>
+	<integer>564</integer>
+	<key>福建省 - 泉州 - 清濛开发区</key>
+	<integer>565</integer>
+	<key>福建省 - 泉州 - 石狮市</key>
+	<integer>567</integer>
+	<key>福建省 - 泉州 - 金门县</key>
+	<integer>574</integer>
+	<key>福建省 - 泉州 - 鲤城区</key>
+	<integer>562</integer>
+	<key>福建省 - 漳州 - 东山县</key>
+	<integer>600</integer>
+	<key>福建省 - 漳州 - 云霄县</key>
+	<integer>596</integer>
+	<key>福建省 - 漳州 - 华安县</key>
+	<integer>603</integer>
+	<key>福建省 - 漳州 - 南靖县</key>
+	<integer>601</integer>
+	<key>福建省 - 漳州 - 平和县</key>
+	<integer>602</integer>
+	<key>福建省 - 漳州 - 漳浦县</key>
+	<integer>597</integer>
+	<key>福建省 - 漳州 - 芗城区</key>
+	<integer>593</integer>
+	<key>福建省 - 漳州 - 诏安县</key>
+	<integer>598</integer>
+	<key>福建省 - 漳州 - 长泰县</key>
+	<integer>599</integer>
+	<key>福建省 - 漳州 - 龙文区</key>
+	<integer>594</integer>
+	<key>福建省 - 漳州 - 龙海市</key>
+	<integer>595</integer>
+	<key>福建省 - 福州 - 仓山区</key>
+	<integer>520</integer>
+	<key>福建省 - 福州 - 台江区</key>
+	<integer>519</integer>
+	<key>福建省 - 福州 - 平潭县</key>
+	<integer>530</integer>
+	<key>福建省 - 福州 - 晋安区</key>
+	<integer>522</integer>
+	<key>福建省 - 福州 - 永泰县</key>
+	<integer>529</integer>
+	<key>福建省 - 福州 - 福清市</key>
+	<integer>523</integer>
+	<key>福建省 - 福州 - 罗源县</key>
+	<integer>527</integer>
+	<key>福建省 - 福州 - 连江县</key>
+	<integer>526</integer>
+	<key>福建省 - 福州 - 长乐市</key>
+	<integer>524</integer>
+	<key>福建省 - 福州 - 闽侯县</key>
+	<integer>525</integer>
+	<key>福建省 - 福州 - 闽清县</key>
+	<integer>528</integer>
+	<key>福建省 - 福州 - 马尾区</key>
+	<integer>521</integer>
+	<key>福建省 - 福州 - 鼓楼区</key>
+	<integer>518</integer>
+	<key>福建省 - 莆田 - 仙游县</key>
+	<integer>561</integer>
+	<key>福建省 - 莆田 - 城厢区</key>
+	<integer>557</integer>
+	<key>福建省 - 莆田 - 涵江区</key>
+	<integer>558</integer>
+	<key>福建省 - 莆田 - 秀屿区</key>
+	<integer>560</integer>
+	<key>福建省 - 莆田 - 荔城区</key>
+	<integer>559</integer>
+	<key>福建省 - 龙岩 - 上杭县</key>
+	<integer>535</integer>
+	<key>福建省 - 龙岩 - 新罗区</key>
+	<integer>531</integer>
+	<key>福建省 - 龙岩 - 武平县</key>
+	<integer>536</integer>
+	<key>福建省 - 龙岩 - 永定县</key>
+	<integer>534</integer>
+	<key>福建省 - 龙岩 - 漳平市</key>
+	<integer>532</integer>
+	<key>福建省 - 龙岩 - 连城县</key>
+	<integer>537</integer>
+	<key>福建省 - 龙岩 - 长汀县</key>
+	<integer>533</integer>
+	<key>西藏 - 山南 - 乃东县</key>
+	<integer>2992</integer>
+	<key>西藏 - 山南 - 加查县</key>
+	<integer>3000</integer>
+	<key>西藏 - 山南 - 扎囊县</key>
+	<integer>2993</integer>
+	<key>西藏 - 山南 - 措美县</key>
+	<integer>2998</integer>
+	<key>西藏 - 山南 - 曲松县</key>
+	<integer>2997</integer>
+	<key>西藏 - 山南 - 桑日县</key>
+	<integer>2995</integer>
+	<key>西藏 - 山南 - 洛扎县</key>
+	<integer>2999</integer>
+	<key>西藏 - 山南 - 浪卡子县</key>
+	<integer>3003</integer>
+	<key>西藏 - 山南 - 琼结县</key>
+	<integer>2996</integer>
+	<key>西藏 - 山南 - 贡嘎县</key>
+	<integer>2994</integer>
+	<key>西藏 - 山南 - 错那县</key>
+	<integer>3002</integer>
+	<key>西藏 - 山南 - 隆子县</key>
+	<integer>3001</integer>
+	<key>西藏 - 拉萨 - 城关区</key>
+	<integer>2931</integer>
+	<key>西藏 - 拉萨 - 堆龙德庆县</key>
+	<integer>2936</integer>
+	<key>西藏 - 拉萨 - 墨竹工卡县</key>
+	<integer>2938</integer>
+	<key>西藏 - 拉萨 - 尼木县</key>
+	<integer>2934</integer>
+	<key>西藏 - 拉萨 - 当雄县</key>
+	<integer>2933</integer>
+	<key>西藏 - 拉萨 - 曲水县</key>
+	<integer>2935</integer>
+	<key>西藏 - 拉萨 - 林周县</key>
+	<integer>2932</integer>
+	<key>西藏 - 拉萨 - 达孜县</key>
+	<integer>2937</integer>
+	<key>西藏 - 日喀则 - 亚东县</key>
+	<integer>2987</integer>
+	<key>西藏 - 日喀则 - 仁布县</key>
+	<integer>2983</integer>
+	<key>西藏 - 日喀则 - 仲巴县</key>
+	<integer>2986</integer>
+	<key>西藏 - 日喀则 - 南木林县</key>
+	<integer>2975</integer>
+	<key>西藏 - 日喀则 - 吉隆县</key>
+	<integer>2988</integer>
+	<key>西藏 - 日喀则 - 定日县</key>
+	<integer>2977</integer>
+	<key>西藏 - 日喀则 - 定结县</key>
+	<integer>2985</integer>
+	<key>西藏 - 日喀则 - 岗巴县</key>
+	<integer>2991</integer>
+	<key>西藏 - 日喀则 - 康马县</key>
+	<integer>2984</integer>
+	<key>西藏 - 日喀则 - 拉孜县</key>
+	<integer>2979</integer>
+	<key>西藏 - 日喀则 - 日喀则市</key>
+	<integer>2974</integer>
+	<key>西藏 - 日喀则 - 昂仁县</key>
+	<integer>2980</integer>
+	<key>西藏 - 日喀则 - 江孜县</key>
+	<integer>2976</integer>
+	<key>西藏 - 日喀则 - 白朗县</key>
+	<integer>2982</integer>
+	<key>西藏 - 日喀则 - 聂拉木县</key>
+	<integer>2989</integer>
+	<key>西藏 - 日喀则 - 萨嘎县</key>
+	<integer>2990</integer>
+	<key>西藏 - 日喀则 - 萨迦县</key>
+	<integer>2978</integer>
+	<key>西藏 - 日喀则 - 谢通门县</key>
+	<integer>2981</integer>
+	<key>西藏 - 昌都 - 丁青县</key>
+	<integer>2950</integer>
+	<key>西藏 - 昌都 - 八宿县</key>
+	<integer>2952</integer>
+	<key>西藏 - 昌都 - 察雅县</key>
+	<integer>2951</integer>
+	<key>西藏 - 昌都 - 左贡县</key>
+	<integer>2953</integer>
+	<key>西藏 - 昌都 - 昌都县</key>
+	<integer>2946</integer>
+	<key>西藏 - 昌都 - 江达县</key>
+	<integer>2947</integer>
+	<key>西藏 - 昌都 - 洛隆县</key>
+	<integer>2955</integer>
+	<key>西藏 - 昌都 - 类乌齐县</key>
+	<integer>2949</integer>
+	<key>西藏 - 昌都 - 芒康县</key>
+	<integer>2954</integer>
+	<key>西藏 - 昌都 - 贡觉县</key>
+	<integer>2948</integer>
+	<key>西藏 - 昌都 - 边坝县</key>
+	<integer>2956</integer>
+	<key>西藏 - 林芝 - 墨脱县</key>
+	<integer>2960</integer>
+	<key>西藏 - 林芝 - 察隅县</key>
+	<integer>2962</integer>
+	<key>西藏 - 林芝 - 工布江达县</key>
+	<integer>2958</integer>
+	<key>西藏 - 林芝 - 朗县</key>
+	<integer>2963</integer>
+	<key>西藏 - 林芝 - 林芝县</key>
+	<integer>2957</integer>
+	<key>西藏 - 林芝 - 波密县</key>
+	<integer>2961</integer>
+	<key>西藏 - 林芝 - 米林县</key>
+	<integer>2959</integer>
+	<key>西藏 - 那曲 - 嘉黎县</key>
+	<integer>2965</integer>
+	<key>西藏 - 那曲 - 安多县</key>
+	<integer>2968</integer>
+	<key>西藏 - 那曲 - 尼玛县</key>
+	<integer>2973</integer>
+	<key>西藏 - 那曲 - 巴青县</key>
+	<integer>2972</integer>
+	<key>西藏 - 那曲 - 比如县</key>
+	<integer>2966</integer>
+	<key>西藏 - 那曲 - 班戈县</key>
+	<integer>2971</integer>
+	<key>西藏 - 那曲 - 申扎县</key>
+	<integer>2969</integer>
+	<key>西藏 - 那曲 - 索县</key>
+	<integer>2970</integer>
+	<key>西藏 - 那曲 - 聂荣县</key>
+	<integer>2967</integer>
+	<key>西藏 - 那曲 - 那曲县</key>
+	<integer>2964</integer>
+	<key>西藏 - 阿里 - 噶尔县</key>
+	<integer>2939</integer>
+	<key>西藏 - 阿里 - 措勤县</key>
+	<integer>2945</integer>
+	<key>西藏 - 阿里 - 改则县</key>
+	<integer>2944</integer>
+	<key>西藏 - 阿里 - 日土县</key>
+	<integer>2942</integer>
+	<key>西藏 - 阿里 - 普兰县</key>
+	<integer>2940</integer>
+	<key>西藏 - 阿里 - 札达县</key>
+	<integer>2941</integer>
+	<key>西藏 - 阿里 - 革吉县</key>
+	<integer>2943</integer>
+	<key>贵州省 - 六盘水 - 六枝特区</key>
+	<integer>989</integer>
+	<key>贵州省 - 六盘水 - 水城县</key>
+	<integer>990</integer>
+	<key>贵州省 - 六盘水 - 盘县</key>
+	<integer>991</integer>
+	<key>贵州省 - 六盘水 - 钟山区</key>
+	<integer>988</integer>
+	<key>贵州省 - 安顺 - 关岭</key>
+	<integer>975</integer>
+	<key>贵州省 - 安顺 - 平坝县</key>
+	<integer>978</integer>
+	<key>贵州省 - 安顺 - 普定县</key>
+	<integer>979</integer>
+	<key>贵州省 - 安顺 - 紫云</key>
+	<integer>977</integer>
+	<key>贵州省 - 安顺 - 西秀区</key>
+	<integer>974</integer>
+	<key>贵州省 - 安顺 - 镇宁</key>
+	<integer>976</integer>
+	<key>贵州省 - 毕节 - 大方县</key>
+	<integer>981</integer>
+	<key>贵州省 - 毕节 - 威宁</key>
+	<integer>987</integer>
+	<key>贵州省 - 毕节 - 毕节市</key>
+	<integer>980</integer>
+	<key>贵州省 - 毕节 - 纳雍县</key>
+	<integer>985</integer>
+	<key>贵州省 - 毕节 - 织金县</key>
+	<integer>984</integer>
+	<key>贵州省 - 毕节 - 赫章县</key>
+	<integer>986</integer>
+	<key>贵州省 - 毕节 - 金沙县</key>
+	<integer>983</integer>
+	<key>贵州省 - 毕节 - 黔西县</key>
+	<integer>982</integer>
+	<key>贵州省 - 贵阳 - 乌当区</key>
+	<integer>965</integer>
+	<key>贵州省 - 贵阳 - 云岩区</key>
+	<integer>963</integer>
+	<key>贵州省 - 贵阳 - 修文县</key>
+	<integer>972</integer>
+	<key>贵州省 - 贵阳 - 南明区</key>
+	<integer>962</integer>
+	<key>贵州省 - 贵阳 - 小河区</key>
+	<integer>967</integer>
+	<key>贵州省 - 贵阳 - 开阳县</key>
+	<integer>971</integer>
+	<key>贵州省 - 贵阳 - 息烽县</key>
+	<integer>973</integer>
+	<key>贵州省 - 贵阳 - 新天园区</key>
+	<integer>969</integer>
+	<key>贵州省 - 贵阳 - 清镇市</key>
+	<integer>970</integer>
+	<key>贵州省 - 贵阳 - 白云区</key>
+	<integer>966</integer>
+	<key>贵州省 - 贵阳 - 花溪区</key>
+	<integer>964</integer>
+	<key>贵州省 - 贵阳 - 金阳新区</key>
+	<integer>968</integer>
+	<key>贵州省 - 遵义 - 习水县</key>
+	<integer>1051</integer>
+	<key>贵州省 - 遵义 - 仁怀市</key>
+	<integer>1043</integer>
+	<key>贵州省 - 遵义 - 余庆县</key>
+	<integer>1050</integer>
+	<key>贵州省 - 遵义 - 凤冈县</key>
+	<integer>1048</integer>
+	<key>贵州省 - 遵义 - 务川</key>
+	<integer>1053</integer>
+	<key>贵州省 - 遵义 - 务川县</key>
+	<integer>1039</integer>
+	<key>贵州省 - 遵义 - 桐梓县</key>
+	<integer>1045</integer>
+	<key>贵州省 - 遵义 - 正安县</key>
+	<integer>1047</integer>
+	<key>贵州省 - 遵义 - 汇川区</key>
+	<integer>1041</integer>
+	<key>贵州省 - 遵义 - 湄潭县</key>
+	<integer>1049</integer>
+	<key>贵州省 - 遵义 - 红花岗区</key>
+	<integer>1038</integer>
+	<key>贵州省 - 遵义 - 绥阳县</key>
+	<integer>1046</integer>
+	<key>贵州省 - 遵义 - 赤水市</key>
+	<integer>1042</integer>
+	<key>贵州省 - 遵义 - 道真</key>
+	<integer>1052</integer>
+	<key>贵州省 - 遵义 - 道真县</key>
+	<integer>1040</integer>
+	<key>贵州省 - 遵义 - 遵义县</key>
+	<integer>1044</integer>
+	<key>贵州省 - 铜仁 - 万山特区</key>
+	<integer>1037</integer>
+	<key>贵州省 - 铜仁 - 印江</key>
+	<integer>1034</integer>
+	<key>贵州省 - 铜仁 - 德江县</key>
+	<integer>1032</integer>
+	<key>贵州省 - 铜仁 - 思南县</key>
+	<integer>1031</integer>
+	<key>贵州省 - 铜仁 - 松桃</key>
+	<integer>1036</integer>
+	<key>贵州省 - 铜仁 - 江口县</key>
+	<integer>1029</integer>
+	<key>贵州省 - 铜仁 - 沿河</key>
+	<integer>1035</integer>
+	<key>贵州省 - 铜仁 - 玉屏</key>
+	<integer>1033</integer>
+	<key>贵州省 - 铜仁 - 石阡县</key>
+	<integer>1030</integer>
+	<key>贵州省 - 铜仁 - 铜仁市</key>
+	<integer>1028</integer>
+	<key>贵州省 - 黔东南 - 三穗县</key>
+	<integer>995</integer>
+	<key>贵州省 - 黔东南 - 丹寨县</key>
+	<integer>1007</integer>
+	<key>贵州省 - 黔东南 - 从江县</key>
+	<integer>1004</integer>
+	<key>贵州省 - 黔东南 - 凯里市</key>
+	<integer>992</integer>
+	<key>贵州省 - 黔东南 - 剑河县</key>
+	<integer>1000</integer>
+	<key>贵州省 - 黔东南 - 台江县</key>
+	<integer>1001</integer>
+	<key>贵州省 - 黔东南 - 天柱县</key>
+	<integer>998</integer>
+	<key>贵州省 - 黔东南 - 岑巩县</key>
+	<integer>997</integer>
+	<key>贵州省 - 黔东南 - 施秉县</key>
+	<integer>994</integer>
+	<key>贵州省 - 黔东南 - 榕江县</key>
+	<integer>1003</integer>
+	<key>贵州省 - 黔东南 - 锦屏县</key>
+	<integer>999</integer>
+	<key>贵州省 - 黔东南 - 镇远县</key>
+	<integer>996</integer>
+	<key>贵州省 - 黔东南 - 雷山县</key>
+	<integer>1005</integer>
+	<key>贵州省 - 黔东南 - 麻江县</key>
+	<integer>1006</integer>
+	<key>贵州省 - 黔东南 - 黄平县</key>
+	<integer>993</integer>
+	<key>贵州省 - 黔东南 - 黎平县</key>
+	<integer>1002</integer>
+	<key>贵州省 - 黔南 - 三都</key>
+	<integer>1019</integer>
+	<key>贵州省 - 黔南 - 平塘县</key>
+	<integer>1014</integer>
+	<key>贵州省 - 黔南 - 惠水县</key>
+	<integer>1018</integer>
+	<key>贵州省 - 黔南 - 独山县</key>
+	<integer>1013</integer>
+	<key>贵州省 - 黔南 - 瓮安县</key>
+	<integer>1012</integer>
+	<key>贵州省 - 黔南 - 福泉市</key>
+	<integer>1009</integer>
+	<key>贵州省 - 黔南 - 罗甸县</key>
+	<integer>1015</integer>
+	<key>贵州省 - 黔南 - 荔波县</key>
+	<integer>1010</integer>
+	<key>贵州省 - 黔南 - 贵定县</key>
+	<integer>1011</integer>
+	<key>贵州省 - 黔南 - 都匀市</key>
+	<integer>1008</integer>
+	<key>贵州省 - 黔南 - 长顺县</key>
+	<integer>1016</integer>
+	<key>贵州省 - 黔南 - 龙里县</key>
+	<integer>1017</integer>
+	<key>贵州省 - 黔西南 - 兴义市</key>
+	<integer>1020</integer>
+	<key>贵州省 - 黔西南 - 兴仁县</key>
+	<integer>1021</integer>
+	<key>贵州省 - 黔西南 - 册亨县</key>
+	<integer>1026</integer>
+	<key>贵州省 - 黔西南 - 安龙县</key>
+	<integer>1027</integer>
+	<key>贵州省 - 黔西南 - 普安县</key>
+	<integer>1022</integer>
+	<key>贵州省 - 黔西南 - 晴隆县</key>
+	<integer>1023</integer>
+	<key>贵州省 - 黔西南 - 望谟县</key>
+	<integer>1025</integer>
+	<key>贵州省 - 黔西南 - 贞丰县</key>
+	<integer>1024</integer>
+	<key>辽宁省 - 丹东 - 东港市</key>
+	<integer>2109</integer>
+	<key>辽宁省 - 丹东 - 元宝区</key>
+	<integer>2106</integer>
+	<key>辽宁省 - 丹东 - 凤城市</key>
+	<integer>2110</integer>
+	<key>辽宁省 - 丹东 - 宽甸</key>
+	<integer>2108</integer>
+	<key>辽宁省 - 丹东 - 振兴区</key>
+	<integer>2105</integer>
+	<key>辽宁省 - 丹东 - 振安区</key>
+	<integer>2107</integer>
+	<key>辽宁省 - 大连 - 中山区</key>
+	<integer>2075</integer>
+	<key>辽宁省 - 大连 - 庄河市</key>
+	<integer>2083</integer>
+	<key>辽宁省 - 大连 - 开发区</key>
+	<integer>2080</integer>
+	<key>辽宁省 - 大连 - 旅顺口区</key>
+	<integer>2078</integer>
+	<key>辽宁省 - 大连 - 普兰店市</key>
+	<integer>2082</integer>
+	<key>辽宁省 - 大连 - 沙河口区</key>
+	<integer>2076</integer>
+	<key>辽宁省 - 大连 - 瓦房店市</key>
+	<integer>2081</integer>
+	<key>辽宁省 - 大连 - 甘井子区</key>
+	<integer>2077</integer>
+	<key>辽宁省 - 大连 - 西岗区</key>
+	<integer>2074</integer>
+	<key>辽宁省 - 大连 - 金州区</key>
+	<integer>2079</integer>
+	<key>辽宁省 - 大连 - 长海县</key>
+	<integer>2084</integer>
+	<key>辽宁省 - 抚顺 - 东洲区</key>
+	<integer>2113</integer>
+	<key>辽宁省 - 抚顺 - 抚顺县</key>
+	<integer>2117</integer>
+	<key>辽宁省 - 抚顺 - 新宾</key>
+	<integer>2116</integer>
+	<key>辽宁省 - 抚顺 - 新抚区</key>
+	<integer>2112</integer>
+	<key>辽宁省 - 抚顺 - 望花区</key>
+	<integer>2114</integer>
+	<key>辽宁省 - 抚顺 - 清原</key>
+	<integer>2115</integer>
+	<key>辽宁省 - 抚顺 - 顺城区</key>
+	<integer>2111</integer>
+	<key>辽宁省 - 朝阳 - 凌源市</key>
+	<integer>2102</integer>
+	<key>辽宁省 - 朝阳 - 北票市</key>
+	<integer>2101</integer>
+	<key>辽宁省 - 朝阳 - 双塔区</key>
+	<integer>2098</integer>
+	<key>辽宁省 - 朝阳 - 喀喇沁左翼蒙古族自治县</key>
+	<integer>2100</integer>
+	<key>辽宁省 - 朝阳 - 建平县</key>
+	<integer>2104</integer>
+	<key>辽宁省 - 朝阳 - 朝阳县</key>
+	<integer>2103</integer>
+	<key>辽宁省 - 朝阳 - 龙城区</key>
+	<integer>2099</integer>
+	<key>辽宁省 - 本溪 - 南芬区</key>
+	<integer>2096</integer>
+	<key>辽宁省 - 本溪 - 平山区</key>
+	<integer>2093</integer>
+	<key>辽宁省 - 本溪 - 明山区</key>
+	<integer>2094</integer>
+	<key>辽宁省 - 本溪 - 本溪</key>
+	<integer>2092</integer>
+	<key>辽宁省 - 本溪 - 桓仁</key>
+	<integer>2097</integer>
+	<key>辽宁省 - 本溪 - 溪湖区</key>
+	<integer>2095</integer>
+	<key>辽宁省 - 沈阳 - 东陵区</key>
+	<integer>2066</integer>
+	<key>辽宁省 - 沈阳 - 于洪区</key>
+	<integer>2068</integer>
+	<key>辽宁省 - 沈阳 - 和平区</key>
+	<integer>2062</integer>
+	<key>辽宁省 - 沈阳 - 大东区</key>
+	<integer>2063</integer>
+	<key>辽宁省 - 沈阳 - 康平县</key>
+	<integer>2072</integer>
+	<key>辽宁省 - 沈阳 - 新民市</key>
+	<integer>2070</integer>
+	<key>辽宁省 - 沈阳 - 沈北新区</key>
+	<integer>2067</integer>
+	<key>辽宁省 - 沈阳 - 沈河区</key>
+	<integer>2060</integer>
+	<key>辽宁省 - 沈阳 - 法库县</key>
+	<integer>2073</integer>
+	<key>辽宁省 - 沈阳 - 浑南新区</key>
+	<integer>2069</integer>
+	<key>辽宁省 - 沈阳 - 皇姑区</key>
+	<integer>2061</integer>
+	<key>辽宁省 - 沈阳 - 苏家屯区</key>
+	<integer>2065</integer>
+	<key>辽宁省 - 沈阳 - 辽中县</key>
+	<integer>2071</integer>
+	<key>辽宁省 - 沈阳 - 铁西区</key>
+	<integer>2064</integer>
+	<key>辽宁省 - 盘锦 - 兴隆台区</key>
+	<integer>2146</integer>
+	<key>辽宁省 - 盘锦 - 双台子区</key>
+	<integer>2145</integer>
+	<key>辽宁省 - 盘锦 - 大洼县</key>
+	<integer>2147</integer>
+	<key>辽宁省 - 盘锦 - 盘山县</key>
+	<integer>2148</integer>
+	<key>辽宁省 - 营口 - 大石桥市</key>
+	<integer>2161</integer>
+	<key>辽宁省 - 营口 - 盖州市</key>
+	<integer>2160</integer>
+	<key>辽宁省 - 营口 - 站前区</key>
+	<integer>2156</integer>
+	<key>辽宁省 - 营口 - 老边区</key>
+	<integer>2159</integer>
+	<key>辽宁省 - 营口 - 西市区</key>
+	<integer>2157</integer>
+	<key>辽宁省 - 营口 - 鲅鱼圈区</key>
+	<integer>2158</integer>
+	<key>辽宁省 - 葫芦岛 - 兴城市</key>
+	<integer>2128</integer>
+	<key>辽宁省 - 葫芦岛 - 南票区</key>
+	<integer>2126</integer>
+	<key>辽宁省 - 葫芦岛 - 建昌县</key>
+	<integer>2130</integer>
+	<key>辽宁省 - 葫芦岛 - 绥中县</key>
+	<integer>2129</integer>
+	<key>辽宁省 - 葫芦岛 - 连山区</key>
+	<integer>2127</integer>
+	<key>辽宁省 - 葫芦岛 - 龙港区</key>
+	<integer>2125</integer>
+	<key>辽宁省 - 辽阳 - 太子河区</key>
+	<integer>2141</integer>
+	<key>辽宁省 - 辽阳 - 宏伟区</key>
+	<integer>2140</integer>
+	<key>辽宁省 - 辽阳 - 弓长岭区</key>
+	<integer>2142</integer>
+	<key>辽宁省 - 辽阳 - 文圣区</key>
+	<integer>2139</integer>
+	<key>辽宁省 - 辽阳 - 灯塔市</key>
+	<integer>2143</integer>
+	<key>辽宁省 - 辽阳 - 白塔区</key>
+	<integer>2138</integer>
+	<key>辽宁省 - 辽阳 - 辽阳县</key>
+	<integer>2144</integer>
+	<key>辽宁省 - 铁岭 - 开原市</key>
+	<integer>2152</integer>
+	<key>辽宁省 - 铁岭 - 昌图县</key>
+	<integer>2155</integer>
+	<key>辽宁省 - 铁岭 - 清河区</key>
+	<integer>2150</integer>
+	<key>辽宁省 - 铁岭 - 西丰县</key>
+	<integer>2154</integer>
+	<key>辽宁省 - 铁岭 - 调兵山市</key>
+	<integer>2151</integer>
+	<key>辽宁省 - 铁岭 - 铁岭县</key>
+	<integer>2153</integer>
+	<key>辽宁省 - 铁岭 - 银州区</key>
+	<integer>2149</integer>
+	<key>辽宁省 - 锦州 - 义县</key>
+	<integer>2137</integer>
+	<key>辽宁省 - 锦州 - 凌河区</key>
+	<integer>2133</integer>
+	<key>辽宁省 - 锦州 - 凌海市</key>
+	<integer>2134</integer>
+	<key>辽宁省 - 锦州 - 北镇市</key>
+	<integer>2135</integer>
+	<key>辽宁省 - 锦州 - 古塔区</key>
+	<integer>2132</integer>
+	<key>辽宁省 - 锦州 - 太和区</key>
+	<integer>2131</integer>
+	<key>辽宁省 - 锦州 - 黑山县</key>
+	<integer>2136</integer>
+	<key>辽宁省 - 阜新 - 太平区</key>
+	<integer>2121</integer>
+	<key>辽宁省 - 阜新 - 彰武县</key>
+	<integer>2124</integer>
+	<key>辽宁省 - 阜新 - 新邱区</key>
+	<integer>2120</integer>
+	<key>辽宁省 - 阜新 - 海州区</key>
+	<integer>2119</integer>
+	<key>辽宁省 - 阜新 - 清河门区</key>
+	<integer>2122</integer>
+	<key>辽宁省 - 阜新 - 细河区</key>
+	<integer>2123</integer>
+	<key>辽宁省 - 阜新 - 阜新</key>
+	<integer>2118</integer>
+	<key>辽宁省 - 鞍山 - 千山区</key>
+	<integer>2088</integer>
+	<key>辽宁省 - 鞍山 - 台安县</key>
+	<integer>2091</integer>
+	<key>辽宁省 - 鞍山 - 岫岩</key>
+	<integer>2089</integer>
+	<key>辽宁省 - 鞍山 - 海城市</key>
+	<integer>2090</integer>
+	<key>辽宁省 - 鞍山 - 立山区</key>
+	<integer>2087</integer>
+	<key>辽宁省 - 鞍山 - 铁东区</key>
+	<integer>2085</integer>
+	<key>辽宁省 - 鞍山 - 铁西区</key>
+	<integer>2086</integer>
+	<key>重庆市 - 重庆市 - 万州区</key>
+	<integer>3333</integer>
+	<key>重庆市 - 重庆市 - 万盛区</key>
+	<integer>3331</integer>
+	<key>重庆市 - 重庆市 - 丰都县</key>
+	<integer>3352</integer>
+	<key>重庆市 - 重庆市 - 九龙坡区</key>
+	<integer>3339</integer>
+	<key>重庆市 - 重庆市 - 云阳县</key>
+	<integer>3359</integer>
+	<key>重庆市 - 重庆市 - 北碚区</key>
+	<integer>3334</integer>
+	<key>重庆市 - 重庆市 - 南岸区</key>
+	<integer>3329</integer>
+	<key>重庆市 - 重庆市 - 南川区</key>
+	<integer>3327</integer>
+	<key>重庆市 - 重庆市 - 双桥区</key>
+	<integer>3343</integer>
+	<key>重庆市 - 重庆市 - 合川区</key>
+	<integer>3325</integer>
+	<key>重庆市 - 重庆市 - 垫江县</key>
+	<integer>3350</integer>
+	<key>重庆市 - 重庆市 - 城口县</key>
+	<integer>3353</integer>
+	<key>重庆市 - 重庆市 - 大渡口区</key>
+	<integer>3332</integer>
+	<key>重庆市 - 重庆市 - 大足县</key>
+	<integer>3347</integer>
+	<key>重庆市 - 重庆市 - 奉节县</key>
+	<integer>3358</integer>
+	<key>重庆市 - 重庆市 - 巫山县</key>
+	<integer>3357</integer>
+	<key>重庆市 - 重庆市 - 巫溪县</key>
+	<integer>3356</integer>
+	<key>重庆市 - 重庆市 - 巴南区</key>
+	<integer>3336</integer>
+	<key>重庆市 - 重庆市 - 开县</key>
+	<integer>3355</integer>
+	<key>重庆市 - 重庆市 - 彭水</key>
+	<integer>3362</integer>
+	<key>重庆市 - 重庆市 - 忠县</key>
+	<integer>3360</integer>
+	<key>重庆市 - 重庆市 - 梁平县</key>
+	<integer>3354</integer>
+	<key>重庆市 - 重庆市 - 武隆县</key>
+	<integer>3351</integer>
+	<key>重庆市 - 重庆市 - 永川区</key>
+	<integer>3328</integer>
+	<key>重庆市 - 重庆市 - 江北区</key>
+	<integer>3338</integer>
+	<key>重庆市 - 重庆市 - 江津区</key>
+	<integer>3326</integer>
+	<key>重庆市 - 重庆市 - 沙坪坝区</key>
+	<integer>3335</integer>
+	<key>重庆市 - 重庆市 - 涪陵区</key>
+	<integer>3337</integer>
+	<key>重庆市 - 重庆市 - 渝中区</key>
+	<integer>3340</integer>
+	<key>重庆市 - 重庆市 - 渝北区</key>
+	<integer>3330</integer>
+	<key>重庆市 - 重庆市 - 潼南县</key>
+	<integer>3345</integer>
+	<key>重庆市 - 重庆市 - 璧山县</key>
+	<integer>3349</integer>
+	<key>重庆市 - 重庆市 - 石柱</key>
+	<integer>3361</integer>
+	<key>重庆市 - 重庆市 - 秀山</key>
+	<integer>3364</integer>
+	<key>重庆市 - 重庆市 - 綦江县</key>
+	<integer>3344</integer>
+	<key>重庆市 - 重庆市 - 荣昌县</key>
+	<integer>3348</integer>
+	<key>重庆市 - 重庆市 - 酉阳</key>
+	<integer>3363</integer>
+	<key>重庆市 - 重庆市 - 铜梁县</key>
+	<integer>3346</integer>
+	<key>重庆市 - 重庆市 - 长寿区</key>
+	<integer>3342</integer>
+	<key>重庆市 - 重庆市 - 黔江开发区</key>
+	<integer>3341</integer>
+	<key>陕西省 - 咸阳 - 三原县</key>
+	<integer>2668</integer>
+	<key>陕西省 - 咸阳 - 乾县</key>
+	<integer>2670</integer>
+	<key>陕西省 - 咸阳 - 兴平市</key>
+	<integer>2667</integer>
+	<key>陕西省 - 咸阳 - 彬县</key>
+	<integer>2673</integer>
+	<key>陕西省 - 咸阳 - 旬邑县</key>
+	<integer>2675</integer>
+	<key>陕西省 - 咸阳 - 杨陵区</key>
+	<integer>2666</integer>
+	<key>陕西省 - 咸阳 - 武功县</key>
+	<integer>2677</integer>
+	<key>陕西省 - 咸阳 - 永寿县</key>
+	<integer>2672</integer>
+	<key>陕西省 - 咸阳 - 泾阳县</key>
+	<integer>2669</integer>
+	<key>陕西省 - 咸阳 - 淳化县</key>
+	<integer>2676</integer>
+	<key>陕西省 - 咸阳 - 渭城区</key>
+	<integer>2665</integer>
+	<key>陕西省 - 咸阳 - 礼泉县</key>
+	<integer>2671</integer>
+	<key>陕西省 - 咸阳 - 秦都区</key>
+	<integer>2664</integer>
+	<key>陕西省 - 咸阳 - 长武县</key>
+	<integer>2674</integer>
+	<key>陕西省 - 商洛 - 丹凤县</key>
+	<integer>2644</integer>
+	<key>陕西省 - 商洛 - 商南县</key>
+	<integer>2645</integer>
+	<key>陕西省 - 商洛 - 商州区</key>
+	<integer>2642</integer>
+	<key>陕西省 - 商洛 - 山阳县</key>
+	<integer>2646</integer>
+	<key>陕西省 - 商洛 - 柞水县</key>
+	<integer>2648</integer>
+	<key>陕西省 - 商洛 - 洛南县</key>
+	<integer>2643</integer>
+	<key>陕西省 - 商洛 - 镇安县</key>
+	<integer>2647</integer>
+	<key>陕西省 - 安康 - 宁陕县</key>
+	<integer>2612</integer>
+	<key>陕西省 - 安康 - 岚皋县</key>
+	<integer>2614</integer>
+	<key>陕西省 - 安康 - 平利县</key>
+	<integer>2615</integer>
+	<key>陕西省 - 安康 - 旬阳县</key>
+	<integer>2617</integer>
+	<key>陕西省 - 安康 - 汉滨区</key>
+	<integer>2609</integer>
+	<key>陕西省 - 安康 - 汉阴县</key>
+	<integer>2610</integer>
+	<key>陕西省 - 安康 - 白河县</key>
+	<integer>2618</integer>
+	<key>陕西省 - 安康 - 石泉县</key>
+	<integer>2611</integer>
+	<key>陕西省 - 安康 - 紫阳县</key>
+	<integer>2613</integer>
+	<key>陕西省 - 安康 - 镇坪县</key>
+	<integer>2616</integer>
+	<key>陕西省 - 宝鸡 - 凤县</key>
+	<integer>2629</integer>
+	<key>陕西省 - 宝鸡 - 凤翔县</key>
+	<integer>2622</integer>
+	<key>陕西省 - 宝鸡 - 千阳县</key>
+	<integer>2627</integer>
+	<key>陕西省 - 宝鸡 - 太白县</key>
+	<integer>2630</integer>
+	<key>陕西省 - 宝鸡 - 岐山县</key>
+	<integer>2623</integer>
+	<key>陕西省 - 宝鸡 - 扶风县</key>
+	<integer>2624</integer>
+	<key>陕西省 - 宝鸡 - 渭滨区</key>
+	<integer>2620</integer>
+	<key>陕西省 - 宝鸡 - 眉县</key>
+	<integer>2625</integer>
+	<key>陕西省 - 宝鸡 - 金台区</key>
+	<integer>2621</integer>
+	<key>陕西省 - 宝鸡 - 陇县</key>
+	<integer>2626</integer>
+	<key>陕西省 - 宝鸡 - 陈仓区</key>
+	<integer>2619</integer>
+	<key>陕西省 - 宝鸡 - 麟游县</key>
+	<integer>2628</integer>
+	<key>陕西省 - 延安 - 吴起县</key>
+	<integer>2678</integer>
+	<key>陕西省 - 延安 - 子长县</key>
+	<integer>2682</integer>
+	<key>陕西省 - 延安 - 安塞县</key>
+	<integer>2683</integer>
+	<key>陕西省 - 延安 - 宜川县</key>
+	<integer>2688</integer>
+	<key>陕西省 - 延安 - 宝塔区</key>
+	<integer>2679</integer>
+	<key>陕西省 - 延安 - 富县</key>
+	<integer>2686</integer>
+	<key>陕西省 - 延安 - 延川县</key>
+	<integer>2681</integer>
+	<key>陕西省 - 延安 - 延长县</key>
+	<integer>2680</integer>
+	<key>陕西省 - 延安 - 志丹县</key>
+	<integer>2684</integer>
+	<key>陕西省 - 延安 - 洛川县</key>
+	<integer>2687</integer>
+	<key>陕西省 - 延安 - 甘泉县</key>
+	<integer>2685</integer>
+	<key>陕西省 - 延安 - 黄陵县</key>
+	<integer>2690</integer>
+	<key>陕西省 - 延安 - 黄龙县</key>
+	<integer>2689</integer>
+	<key>陕西省 - 榆林 - 佳县</key>
+	<integer>2699</integer>
+	<key>陕西省 - 榆林 - 吴堡县</key>
+	<integer>2700</integer>
+	<key>陕西省 - 榆林 - 子洲县</key>
+	<integer>2702</integer>
+	<key>陕西省 - 榆林 - 定边县</key>
+	<integer>2696</integer>
+	<key>陕西省 - 榆林 - 府谷县</key>
+	<integer>2693</integer>
+	<key>陕西省 - 榆林 - 榆阳区</key>
+	<integer>2691</integer>
+	<key>陕西省 - 榆林 - 横山县</key>
+	<integer>2694</integer>
+	<key>陕西省 - 榆林 - 清涧县</key>
+	<integer>2701</integer>
+	<key>陕西省 - 榆林 - 神木县</key>
+	<integer>2692</integer>
+	<key>陕西省 - 榆林 - 米脂县</key>
+	<integer>2698</integer>
+	<key>陕西省 - 榆林 - 绥德县</key>
+	<integer>2697</integer>
+	<key>陕西省 - 榆林 - 靖边县</key>
+	<integer>2695</integer>
+	<key>陕西省 - 汉中 - 佛坪县</key>
+	<integer>2641</integer>
+	<key>陕西省 - 汉中 - 勉县</key>
+	<integer>2636</integer>
+	<key>陕西省 - 汉中 - 南郑县</key>
+	<integer>2632</integer>
+	<key>陕西省 - 汉中 - 城固县</key>
+	<integer>2633</integer>
+	<key>陕西省 - 汉中 - 宁强县</key>
+	<integer>2637</integer>
+	<key>陕西省 - 汉中 - 汉台区</key>
+	<integer>2631</integer>
+	<key>陕西省 - 汉中 - 洋县</key>
+	<integer>2634</integer>
+	<key>陕西省 - 汉中 - 留坝县</key>
+	<integer>2640</integer>
+	<key>陕西省 - 汉中 - 略阳县</key>
+	<integer>2638</integer>
+	<key>陕西省 - 汉中 - 西乡县</key>
+	<integer>2635</integer>
+	<key>陕西省 - 汉中 - 镇巴县</key>
+	<integer>2639</integer>
+	<key>陕西省 - 渭南 - 临渭区</key>
+	<integer>2653</integer>
+	<key>陕西省 - 渭南 - 华县</key>
+	<integer>2656</integer>
+	<key>陕西省 - 渭南 - 华阴市</key>
+	<integer>2655</integer>
+	<key>陕西省 - 渭南 - 合阳县</key>
+	<integer>2659</integer>
+	<key>陕西省 - 渭南 - 大荔县</key>
+	<integer>2658</integer>
+	<key>陕西省 - 渭南 - 富平县</key>
+	<integer>2663</integer>
+	<key>陕西省 - 渭南 - 潼关县</key>
+	<integer>2657</integer>
+	<key>陕西省 - 渭南 - 澄城县</key>
+	<integer>2660</integer>
+	<key>陕西省 - 渭南 - 白水县</key>
+	<integer>2662</integer>
+	<key>陕西省 - 渭南 - 蒲城县</key>
+	<integer>2661</integer>
+	<key>陕西省 - 渭南 - 韩城市</key>
+	<integer>2654</integer>
+	<key>陕西省 - 西安 - 临潼区</key>
+	<integer>2603</integer>
+	<key>陕西省 - 西安 - 周至县</key>
+	<integer>2606</integer>
+	<key>陕西省 - 西安 - 户县</key>
+	<integer>2607</integer>
+	<key>陕西省 - 西安 - 新城区</key>
+	<integer>2597</integer>
+	<key>陕西省 - 西安 - 未央区</key>
+	<integer>2601</integer>
+	<key>陕西省 - 西安 - 灞桥区</key>
+	<integer>2600</integer>
+	<key>陕西省 - 西安 - 碑林区</key>
+	<integer>2598</integer>
+	<key>陕西省 - 西安 - 莲湖区</key>
+	<integer>2596</integer>
+	<key>陕西省 - 西安 - 蓝田县</key>
+	<integer>2605</integer>
+	<key>陕西省 - 西安 - 长安区</key>
+	<integer>2604</integer>
+	<key>陕西省 - 西安 - 阎良区</key>
+	<integer>2602</integer>
+	<key>陕西省 - 西安 - 雁塔区</key>
+	<integer>2599</integer>
+	<key>陕西省 - 西安 - 高陵县</key>
+	<integer>2608</integer>
+	<key>陕西省 - 铜川 - 印台区</key>
+	<integer>2651</integer>
+	<key>陕西省 - 铜川 - 宜君县</key>
+	<integer>2652</integer>
+	<key>陕西省 - 铜川 - 王益区</key>
+	<integer>2650</integer>
+	<key>陕西省 - 铜川 - 耀州区</key>
+	<integer>2649</integer>
+	<key>青海省 - 果洛 - 久治县</key>
+	<integer>2300</integer>
+	<key>青海省 - 果洛 - 玛多县</key>
+	<integer>2301</integer>
+	<key>青海省 - 果洛 - 玛沁县</key>
+	<integer>2296</integer>
+	<key>青海省 - 果洛 - 班玛县</key>
+	<integer>2297</integer>
+	<key>青海省 - 果洛 - 甘德县</key>
+	<integer>2298</integer>
+	<key>青海省 - 果洛 - 达日县</key>
+	<integer>2299</integer>
+	<key>青海省 - 海东 - 乐都县</key>
+	<integer>2307</integer>
+	<key>青海省 - 海东 - 互助</key>
+	<integer>2309</integer>
+	<key>青海省 - 海东 - 化隆</key>
+	<integer>2310</integer>
+	<key>青海省 - 海东 - 平安县</key>
+	<integer>2306</integer>
+	<key>青海省 - 海东 - 循化</key>
+	<integer>2311</integer>
+	<key>青海省 - 海东 - 民和</key>
+	<integer>2308</integer>
+	<key>青海省 - 海北 - 刚察县</key>
+	<integer>2304</integer>
+	<key>青海省 - 海北 - 海晏县</key>
+	<integer>2302</integer>
+	<key>青海省 - 海北 - 祁连县</key>
+	<integer>2303</integer>
+	<key>青海省 - 海北 - 门源</key>
+	<integer>2305</integer>
+	<key>青海省 - 海南 - 共和县</key>
+	<integer>2312</integer>
+	<key>青海省 - 海南 - 兴海县</key>
+	<integer>2315</integer>
+	<key>青海省 - 海南 - 同德县</key>
+	<integer>2313</integer>
+	<key>青海省 - 海南 - 贵南县</key>
+	<integer>2316</integer>
+	<key>青海省 - 海南 - 贵德县</key>
+	<integer>2314</integer>
+	<key>青海省 - 海西 - 乌兰县</key>
+	<integer>2319</integer>
+	<key>青海省 - 海西 - 天峻县</key>
+	<integer>2321</integer>
+	<key>青海省 - 海西 - 德令哈市</key>
+	<integer>2317</integer>
+	<key>青海省 - 海西 - 格尔木市</key>
+	<integer>2318</integer>
+	<key>青海省 - 海西 - 都兰县</key>
+	<integer>2320</integer>
+	<key>青海省 - 玉树 - 囊谦县</key>
+	<integer>2330</integer>
+	<key>青海省 - 玉树 - 曲麻莱县</key>
+	<integer>2331</integer>
+	<key>青海省 - 玉树 - 杂多县</key>
+	<integer>2327</integer>
+	<key>青海省 - 玉树 - 治多县</key>
+	<integer>2329</integer>
+	<key>青海省 - 玉树 - 玉树县</key>
+	<integer>2326</integer>
+	<key>青海省 - 玉树 - 称多县</key>
+	<integer>2328</integer>
+	<key>青海省 - 西宁 - 城东区</key>
+	<integer>2290</integer>
+	<key>青海省 - 西宁 - 城中区</key>
+	<integer>2289</integer>
+	<key>青海省 - 西宁 - 城北区</key>
+	<integer>2292</integer>
+	<key>青海省 - 西宁 - 城西区</key>
+	<integer>2291</integer>
+	<key>青海省 - 西宁 - 大通</key>
+	<integer>2295</integer>
+	<key>青海省 - 西宁 - 湟中县</key>
+	<integer>2293</integer>
+	<key>青海省 - 西宁 - 湟源县</key>
+	<integer>2294</integer>
+	<key>青海省 - 黄南 - 同仁县</key>
+	<integer>2322</integer>
+	<key>青海省 - 黄南 - 尖扎县</key>
+	<integer>2323</integer>
+	<key>青海省 - 黄南 - 河南蒙古族自治县</key>
+	<integer>2325</integer>
+	<key>青海省 - 黄南 - 泽库县</key>
+	<integer>2324</integer>
+	<key>香港 - 香港 - 东区</key>
+	<integer>3366</integer>
+	<key>香港 - 香港 - 中西区</key>
+	<integer>3381</integer>
+	<key>香港 - 香港 - 九龙城区</key>
+	<integer>3369</integer>
+	<key>香港 - 香港 - 元朗区</key>
+	<integer>3372</integer>
+	<key>香港 - 香港 - 北区</key>
+	<integer>3378</integer>
+	<key>香港 - 香港 - 南区</key>
+	<integer>3379</integer>
+	<key>香港 - 香港 - 大埔区</key>
+	<integer>3375</integer>
+	<key>香港 - 香港 - 屯门区</key>
+	<integer>3370</integer>
+	<key>香港 - 香港 - 沙田区</key>
+	<integer>3365</integer>
+	<key>香港 - 香港 - 油尖旺区</key>
+	<integer>3377</integer>
+	<key>香港 - 香港 - 深水埗区</key>
+	<integer>3373</integer>
+	<key>香港 - 香港 - 湾仔区</key>
+	<integer>3376</integer>
+	<key>香港 - 香港 - 离岛区</key>
+	<integer>3382</integer>
+	<key>香港 - 香港 - 荃湾区</key>
+	<integer>3380</integer>
+	<key>香港 - 香港 - 葵青区</key>
+	<integer>3371</integer>
+	<key>香港 - 香港 - 西贡区</key>
+	<integer>3374</integer>
+	<key>香港 - 香港 - 观塘区</key>
+	<integer>3367</integer>
+	<key>香港 - 香港 - 黄大仙区</key>
+	<integer>3368</integer>
+	<key>黑龙江省 - 七台河 - 勃利县</key>
+	<integer>1492</integer>
+	<key>黑龙江省 - 七台河 - 新兴区</key>
+	<integer>1490</integer>
+	<key>黑龙江省 - 七台河 - 桃山区</key>
+	<integer>1489</integer>
+	<key>黑龙江省 - 七台河 - 茄子河区</key>
+	<integer>1491</integer>
+	<key>黑龙江省 - 伊春 - 上甘岭区</key>
+	<integer>1536</integer>
+	<key>黑龙江省 - 伊春 - 乌伊岭区</key>
+	<integer>1541</integer>
+	<key>黑龙江省 - 伊春 - 乌马河区</key>
+	<integer>1533</integer>
+	<key>黑龙江省 - 伊春 - 五营区</key>
+	<integer>1537</integer>
+	<key>黑龙江省 - 伊春 - 伊春区</key>
+	<integer>1527</integer>
+	<key>黑龙江省 - 伊春 - 南岔区</key>
+	<integer>1529</integer>
+	<key>黑龙江省 - 伊春 - 友好区</key>
+	<integer>1535</integer>
+	<key>黑龙江省 - 伊春 - 嘉荫县</key>
+	<integer>1543</integer>
+	<key>黑龙江省 - 伊春 - 带岭区</key>
+	<integer>1528</integer>
+	<key>黑龙江省 - 伊春 - 新青区</key>
+	<integer>1539</integer>
+	<key>黑龙江省 - 伊春 - 汤旺河区</key>
+	<integer>1540</integer>
+	<key>黑龙江省 - 伊春 - 红星区</key>
+	<integer>1538</integer>
+	<key>黑龙江省 - 伊春 - 美溪区</key>
+	<integer>1532</integer>
+	<key>黑龙江省 - 伊春 - 翠峦区</key>
+	<integer>1534</integer>
+	<key>黑龙江省 - 伊春 - 西林区</key>
+	<integer>1531</integer>
+	<key>黑龙江省 - 伊春 - 金山屯区</key>
+	<integer>1530</integer>
+	<key>黑龙江省 - 伊春 - 铁力市</key>
+	<integer>1542</integer>
+	<key>黑龙江省 - 佳木斯 - 东风区</key>
+	<integer>1472</integer>
+	<key>黑龙江省 - 佳木斯 - 前进区</key>
+	<integer>1469</integer>
+	<key>黑龙江省 - 佳木斯 - 同江市</key>
+	<integer>1473</integer>
+	<key>黑龙江省 - 佳木斯 - 向阳区</key>
+	<integer>1471</integer>
+	<key>黑龙江省 - 佳木斯 - 富锦市</key>
+	<integer>1474</integer>
+	<key>黑龙江省 - 佳木斯 - 抚远县</key>
+	<integer>1478</integer>
+	<key>黑龙江省 - 佳木斯 - 桦南县</key>
+	<integer>1475</integer>
+	<key>黑龙江省 - 佳木斯 - 桦川县</key>
+	<integer>1476</integer>
+	<key>黑龙江省 - 佳木斯 - 汤原县</key>
+	<integer>1477</integer>
+	<key>黑龙江省 - 佳木斯 - 郊区</key>
+	<integer>1470</integer>
+	<key>黑龙江省 - 双鸭山 - 友谊县</key>
+	<integer>1514</integer>
+	<key>黑龙江省 - 双鸭山 - 四方台区</key>
+	<integer>1511</integer>
+	<key>黑龙江省 - 双鸭山 - 宝山区</key>
+	<integer>1512</integer>
+	<key>黑龙江省 - 双鸭山 - 宝清县</key>
+	<integer>1515</integer>
+	<key>黑龙江省 - 双鸭山 - 尖山区</key>
+	<integer>1509</integer>
+	<key>黑龙江省 - 双鸭山 - 岭东区</key>
+	<integer>1510</integer>
+	<key>黑龙江省 - 双鸭山 - 集贤县</key>
+	<integer>1513</integer>
+	<key>黑龙江省 - 双鸭山 - 饶河县</key>
+	<integer>1516</integer>
+	<key>黑龙江省 - 哈尔滨 - 五常市</key>
+	<integer>1427</integer>
+	<key>黑龙江省 - 哈尔滨 - 依兰县</key>
+	<integer>1430</integer>
+	<key>黑龙江省 - 哈尔滨 - 动力区</key>
+	<integer>1417</integer>
+	<key>黑龙江省 - 哈尔滨 - 南岗区</key>
+	<integer>1416</integer>
+	<key>黑龙江省 - 哈尔滨 - 双城市</key>
+	<integer>1426</integer>
+	<key>黑龙江省 - 哈尔滨 - 呼兰区</key>
+	<integer>1423</integer>
+	<key>黑龙江省 - 哈尔滨 - 太平区</key>
+	<integer>1420</integer>
+	<key>黑龙江省 - 哈尔滨 - 宾县</key>
+	<integer>1429</integer>
+	<key>黑龙江省 - 哈尔滨 - 尚志市</key>
+	<integer>1425</integer>
+	<key>黑龙江省 - 哈尔滨 - 巴彦县</key>
+	<integer>1431</integer>
+	<key>黑龙江省 - 哈尔滨 - 平房区</key>
+	<integer>1418</integer>
+	<key>黑龙江省 - 哈尔滨 - 延寿县</key>
+	<integer>1434</integer>
+	<key>黑龙江省 - 哈尔滨 - 方正县</key>
+	<integer>1428</integer>
+	<key>黑龙江省 - 哈尔滨 - 木兰县</key>
+	<integer>1433</integer>
+	<key>黑龙江省 - 哈尔滨 - 松北区</key>
+	<integer>1424</integer>
+	<key>黑龙江省 - 哈尔滨 - 通河县</key>
+	<integer>1432</integer>
+	<key>黑龙江省 - 哈尔滨 - 道外区</key>
+	<integer>1421</integer>
+	<key>黑龙江省 - 哈尔滨 - 道里区</key>
+	<integer>1415</integer>
+	<key>黑龙江省 - 哈尔滨 - 阿城区</key>
+	<integer>1422</integer>
+	<key>黑龙江省 - 哈尔滨 - 香坊区</key>
+	<integer>1419</integer>
+	<key>黑龙江省 - 大兴安岭 - 呼玛县</key>
+	<integer>1444</integer>
+	<key>黑龙江省 - 大兴安岭 - 塔河县</key>
+	<integer>1446</integer>
+	<key>黑龙江省 - 大兴安岭 - 漠河县</key>
+	<integer>1445</integer>
+	<key>黑龙江省 - 大庆 - 大同区</key>
+	<integer>1439</integer>
+	<key>黑龙江省 - 大庆 - 杜尔伯特</key>
+	<integer>1443</integer>
+	<key>黑龙江省 - 大庆 - 林甸县</key>
+	<integer>1442</integer>
+	<key>黑龙江省 - 大庆 - 红岗区</key>
+	<integer>1436</integer>
+	<key>黑龙江省 - 大庆 - 肇州县</key>
+	<integer>1440</integer>
+	<key>黑龙江省 - 大庆 - 肇源县</key>
+	<integer>1441</integer>
+	<key>黑龙江省 - 大庆 - 萨尔图区</key>
+	<integer>1435</integer>
+	<key>黑龙江省 - 大庆 - 让胡路区</key>
+	<integer>1438</integer>
+	<key>黑龙江省 - 大庆 - 龙凤区</key>
+	<integer>1437</integer>
+	<key>黑龙江省 - 牡丹江 - 东宁县</key>
+	<integer>1487</integer>
+	<key>黑龙江省 - 牡丹江 - 东安区</key>
+	<integer>1480</integer>
+	<key>黑龙江省 - 牡丹江 - 宁安市</key>
+	<integer>1485</integer>
+	<key>黑龙江省 - 牡丹江 - 林口县</key>
+	<integer>1488</integer>
+	<key>黑龙江省 - 牡丹江 - 海林市</key>
+	<integer>1484</integer>
+	<key>黑龙江省 - 牡丹江 - 爱民区</key>
+	<integer>1479</integer>
+	<key>黑龙江省 - 牡丹江 - 穆棱市</key>
+	<integer>1486</integer>
+	<key>黑龙江省 - 牡丹江 - 绥芬河市</key>
+	<integer>1483</integer>
+	<key>黑龙江省 - 牡丹江 - 西安区</key>
+	<integer>1482</integer>
+	<key>黑龙江省 - 牡丹江 - 阳明区</key>
+	<integer>1481</integer>
+	<key>黑龙江省 - 绥化 - 兰西县</key>
+	<integer>1522</integer>
+	<key>黑龙江省 - 绥化 - 北林区</key>
+	<integer>1517</integer>
+	<key>黑龙江省 - 绥化 - 安达市</key>
+	<integer>1518</integer>
+	<key>黑龙江省 - 绥化 - 庆安县</key>
+	<integer>1524</integer>
+	<key>黑龙江省 - 绥化 - 明水县</key>
+	<integer>1525</integer>
+	<key>黑龙江省 - 绥化 - 望奎县</key>
+	<integer>1521</integer>
+	<key>黑龙江省 - 绥化 - 海伦市</key>
+	<integer>1520</integer>
+	<key>黑龙江省 - 绥化 - 绥棱县</key>
+	<integer>1526</integer>
+	<key>黑龙江省 - 绥化 - 肇东市</key>
+	<integer>1519</integer>
+	<key>黑龙江省 - 绥化 - 青冈县</key>
+	<integer>1523</integer>
+	<key>黑龙江省 - 鸡西 - 城子河区</key>
+	<integer>1463</integer>
+	<key>黑龙江省 - 鸡西 - 密山市</key>
+	<integer>1467</integer>
+	<key>黑龙江省 - 鸡西 - 恒山区</key>
+	<integer>1462</integer>
+	<key>黑龙江省 - 鸡西 - 梨树区</key>
+	<integer>1465</integer>
+	<key>黑龙江省 - 鸡西 - 滴道区</key>
+	<integer>1464</integer>
+	<key>黑龙江省 - 鸡西 - 虎林市</key>
+	<integer>1466</integer>
+	<key>黑龙江省 - 鸡西 - 鸡东县</key>
+	<integer>1468</integer>
+	<key>黑龙江省 - 鸡西 - 鸡冠区</key>
+	<integer>1461</integer>
+	<key>黑龙江省 - 鹤岗 - 东山区</key>
+	<integer>1452</integer>
+	<key>黑龙江省 - 鹤岗 - 兴安区</key>
+	<integer>1450</integer>
+	<key>黑龙江省 - 鹤岗 - 兴山区</key>
+	<integer>1447</integer>
+	<key>黑龙江省 - 鹤岗 - 南山区</key>
+	<integer>1449</integer>
+	<key>黑龙江省 - 鹤岗 - 向阳区</key>
+	<integer>1451</integer>
+	<key>黑龙江省 - 鹤岗 - 工农区</key>
+	<integer>1448</integer>
+	<key>黑龙江省 - 鹤岗 - 绥滨县</key>
+	<integer>1454</integer>
+	<key>黑龙江省 - 鹤岗 - 萝北县</key>
+	<integer>1453</integer>
+	<key>黑龙江省 - 黑河 - 五大连池市</key>
+	<integer>1456</integer>
+	<key>黑龙江省 - 黑河 - 北安市</key>
+	<integer>1457</integer>
+	<key>黑龙江省 - 黑河 - 嫩江县</key>
+	<integer>1458</integer>
+	<key>黑龙江省 - 黑河 - 孙吴县</key>
+	<integer>1460</integer>
+	<key>黑龙江省 - 黑河 - 爱辉区</key>
+	<integer>1455</integer>
+	<key>黑龙江省 - 黑河 - 逊克县</key>
+	<integer>1459</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 依安县</key>
+	<integer>1502</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 克东县</key>
+	<integer>1507</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 克山县</key>
+	<integer>1506</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 富拉尔基区</key>
+	<integer>1497</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 富裕县</key>
+	<integer>1505</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 建华区</key>
+	<integer>1496</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 拜泉县</key>
+	<integer>1508</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 昂昂溪区</key>
+	<integer>1494</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 梅里斯达斡尔区</key>
+	<integer>1499</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 泰来县</key>
+	<integer>1503</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 甘南县</key>
+	<integer>1504</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 碾子山区</key>
+	<integer>1498</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 讷河市</key>
+	<integer>1500</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 铁峰区</key>
+	<integer>1495</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 龙江县</key>
+	<integer>1501</integer>
+	<key>黑龙江省 - 齐齐哈尔 - 龙沙区</key>
+	<integer>1493</integer>
+</dict>
+</plist>

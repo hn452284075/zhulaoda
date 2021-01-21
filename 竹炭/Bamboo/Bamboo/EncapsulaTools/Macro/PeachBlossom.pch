@@ -1,0 +1,26 @@
+//
+//  PeachBlossom.pch
+//  PeachBlossom_iOS
+//
+//  Created by 曾勇兵 on 2020/8/15.
+//  Copyright © 2020 zengyongbing. All rights reserved.
+//
+
+#ifndef PeachBlossom_pch
+#define PeachBlossom_pch
+#import "GlobeMaco.h"
+#import "GlobleConst.h"
+#import "ProjectStandardUIDefineConst.h"
+#import "ZZRequestUrl.h"
+#import "UIImageView+sd_SetImg.h"
+#import "UIImage+extern.h"
+#import "Masonry.h"
+#import "SDWebImage.h"
+#import "UIView+Nib.h"
+#import "BaseLoadingView.h"
+#import "UserModel.h"
+#import "AFNHttpRequestOPManager.h"
+#import "MJExtension.h"
+#import <AliyunOSSiOS/OSSService.h>
+#import <AlipaySDK/AlipaySDK.h>
+#endif /* PeachBlossom_pch */
